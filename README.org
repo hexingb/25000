@@ -1,0 +1,20 @@
+#+options: ':nil *:t -:t ::t <:t H:2 \n:nil ^:nil arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t
+#+options: num:nil p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:t title:t toc:2 todo:t |:t
+#+title: log for memorizing English words
+#+date: <2022-09-11 Sun>
+#+author: Bao Hexing
+#+email: HexingB@outlook.com
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 28.1 (Org mode 9.5.2)
+#+cite_export:
+
+最近几年，自己反思，似乎前半生从来没有全力以赴做过什么事情。今天就决定背单词。
+
+全部单词在文件 =en_cn.txt= 里，最初源自配置 emacs 时一个单词补全插件里的 [[https://github.com/wushuaibuaa/emacscompanywords/blob/master/en_cn.txt][字典文件]]。单词数量是 24681，让我想起红军两万五，因此命名仓库 25000。
+
+
