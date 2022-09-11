@@ -1,11 +1,11 @@
-﻿a art.一(个，件，...)
+﻿		a art.一(个，件，...)
 a.b. 文学士
 a.d. 公元；(缩)公元
 a.m  (缩)上午，午前；ad. 上午，由午夜至中午
 a.m. (缩)上午
 aback ad. 向后地,朝后地
-abacus n.算盘
-abandon vt.丢弃；放弃，抛弃
+		abacus n.算盘
+		abandon vt.丢弃；放弃，抛弃
 abandoned a. 被抛弃的；无约束的
 abandonment n. 放弃,自暴自弃,放纵
 abase v. 贬抑，使卑下
@@ -23,7 +23,7 @@ abbreviation n.节略，缩写，缩短
 abc asd
 abdicate v. 让位，辞职，放弃
 abdication n. 逊位,弃权,辞职
-abdomen n. 腹，下腹（胸部到腿部的部份）
+	abdomen n. 腹，下腹（胸部到腿部的部份）
 abdominal a. 腹部的,腹式呼吸,开腹手术
 abduct v. 绑架，拐走
 abe 艾贝(人名)
@@ -37,21 +37,21 @@ abeyance n. 中止，暂搁
 abhor v. 憎恨，嫌恶
 abhorrence n. 痛恨
 abhorrent adj. 可恨的，可厌的
-abide vt.遵守 vt.忍受
+	abide vt.遵守 vt.忍受
 abiding a.持久的，永久的
-ability n.能力；能耐，本领
+		ability n.能力；能耐，本领
 abject adj. 极可怜的，卑屈的
 abjure v. 誓绝，弃绝
 ablaze a. 着火的,闪亮的,激昂的
-able adj.有能力的；能干的
+		able adj.有能力的；能干的
 ablution n. （宗教的）净礼，沐浴
 ably ad. 能干地,巧妙地
 abnegation n. 克己，自制
-abnormal a.不正常的；变态的
+		abnormal a.不正常的；变态的
 abnormality n. 反常；变态
-aboard adv.上船(飞机、车)
+		aboard adv.上船(飞机、车)
 abode n. 住处，住所
-abolish vt.废除，取消
+	abolish vt.废除，取消
 abolition n. 废除，革除
 abolitionist n. 废除主义者,废奴主义者
 a-bomb 原子弹
@@ -64,9 +64,9 @@ aborigines n. 土人,原住民,土生生物
 abort v. & n. 中断，故障
 abortion n. 流产,堕胎,失败,夭折
 abortive adj. 无结果的，失败的
-abound v. 充满，富于
-about prep.关于；在…周围
-above prep.在…上面；高于
+	abound v. 充满，富于
+		about prep.关于；在…周围
+		above prep.在…上面；高于
 aboveboard ad. & a. 照直，公开的
 above-mentioned adj. 上述的；以上提到的
 abrade v. 磨损，擦伤
@@ -74,91 +74,91 @@ abrasion n. 表面，磨损
 abreast ad. 并肩地,相并地
 abridge v. 删减，缩短
 Abridgment n. 删节，节本
-abroad ad.(在)国外；到处
+		abroad ad.(在)国外；到处
 abrogate v. 废止，废除
 abrogation n. 取消，废除
-abrupt a. 突然的,唐突的,无礼的,不连贯的
+	abrupt a. 突然的,唐突的,无礼的,不连贯的
 abruptly adv. 突然地；突然；粗鲁地
 abscess n. 脓疮,溃疡
 abscond 潜逃，逃亡
-absence n.缺席，不在场；缺乏
-absent a.不在场的；缺乏的
+		absence n.缺席，不在场；缺乏
+		absent a.不在场的；缺乏的
 absentee n. 缺席者,未上班者,不在者
 absently ad. 心不在焉地
 absent-minded adj. 心不在焉的
-absolute a.绝对的；纯粹的
+		absolute a.绝对的；纯粹的
 absolutely ad.完全地；绝对地
 absolution n. 赦免，免除
 absolve vt. 宣告...无罪,赦免,免除
-absorb vt.吸收；使专心
+	absorb vt.吸收；使专心
 absorbent a. 能吸收的
 absorbing a. 吸引人的,非常有趣的
 absorption n.吸收；专注
 abstain v. 自动戒绝，抑制
 abstemious adj. 有节制的，节俭的
 abstinence n. 节制,禁欲,戒酒
-abstract adj.抽象的；深奥的
+		abstract adj.抽象的；深奥的
 abstracted adj. 心不在焉的
 abstraction n. 抽象化,心不在焉,提炼,抽象派作品
 abstruse adj. 难懂的，深奥的
-absurd a.不合理的，荒唐的
+	absurd a.不合理的，荒唐的
 absurdity n. 荒谬
 absurdly ad. 荒诞地
 abundance n.丰富，充裕
-abundant a.丰富的；大量的
-abuse vt.滥用；虐待 n.滥用
+	abundant a.丰富的；大量的
+		abuse vt.滥用；虐待 n.滥用
 abusive a. 辱骂的,滥用的,陋习的
 abut v. 接界，毗连
 abysmal adj. 无底的；深渊的；极深的，糟透的
 abyss n. 深渊，深坑
 acacia n. 金合花
-academic a.学院的；学术的
-academy n.私立中学；专科院校
+		academic a.学院的；学术的
+		academy n.私立中学；专科院校
 accede v. 应允，同意
-accelerate vt.(使)加快；促进
+		accelerate vt.(使)加快；促进
 acceleration n.加速；加速度
 accelerator n. 加速者,加速器,油门
-accent n.口音，腔调；重音
+		accent n.口音，腔调；重音
 accentuate v. 着重，强调
-accept vt.vi.接受；同意
+		accept vt.vi.接受；同意
 acceptable a.可接受的，合意的
-acceptance n.接受，验收；承认
+		acceptance n.接受，验收；承认
 acceptances 承兑汇票
 acceptation n. 公认的意义,词义
 accepted 已经接受的
-access n.接近；通道，入口
+		access n.接近；通道，入口
 accessary n. 同谋，从犯；附件
 accessible adj. 易达到的，易受影响的
 accession n. 到达,即位,增加,同意
-accessory n.同谋 a.附属的
-accident n.意外的；事故
+		accessory n.同谋 a.附属的
+		accident n.意外的；事故
 accidental adj. 意外的，偶然的
 accidentally adv. 意外地，偶然地；偶尔，附带
-acclaim v. 欢呼，称赞
+	acclaim v. 欢呼，称赞
 acclamation n. 欢呼
 acclimate  v.使习惯于新环境；适应于新环境
 acclimatize vt. 使适应新环境,使服水土
 acclivity n. 向上的陡坡
 accolade n. 推崇备至，赞扬
-accommodate vt.容纳；供应，供给
+	accommodate vt.容纳；供应，供给
 accommodating adj. 乐于助人的
-accommodation n.招待设备；预定铺位
+	accommodation n.招待设备；预定铺位
 accompaniment n. 自然的伴随物,陪伴物,伴奏
-accompany vt.陪伴，陪同；伴随
+		accompany vt.陪伴，陪同；伴随
 accomplice n. 同谋者，帮凶
-accomplish vt.达到(目的)；完成
+		accomplish vt.达到(目的)；完成
 accomplished a. 完成的,实现的,善社交的,有造诣的
 accomplishment n. 技能；成就
-accord vt.使一致；给予
-accordance n.一致；和谐；授予
+	accord vt.使一致；给予
+	accordance n.一致；和谐；授予
 accordant 一致的
 according ad. 根据
-accordingly ad.因此，所以；照着
+		accordingly ad.因此，所以；照着
 accordion n. 手风琴
 accost vt. 招呼,搭讪,勾引
-account n.记述；解释；帐目
+	account n.记述；解释；帐目
 accountable a. 有责任的,可说明的,可解释的
-accountant n. 会计
+	accountant n. 会计
 accounting n. 会计学,清算帐目
 accouter vt. 供以服装,供以军用品,装备
 accoutre vt. 供以服装,供以军用品,装备
@@ -171,17 +171,17 @@ accretion n. 自然的增加，增加物
 accrue v. （利息等）增大，增多
 accrued adj. 增值的，应计的
 acculturation 文化移人，文化适应，文化交流
-accumulate vt.积累 vi.堆积
+		accumulate vt.积累 vi.堆积
 accumulation n. 积累
 accumulative adj. 积累的
-accuracy n.准确(性)；准确度
-accurate a.准确的，正确无误的
+		accuracy n.准确(性)；准确度
+		accurate a.准确的，正确无误的
 accurately adj. 准确地；ad. 准确地；精密地
 accursed adj. 不幸的，倒霉的；被诅咒的；可憎的
 accusation n. 指控
-accuse vt.指责；归咎于
+		accuse vt.指责；归咎于
 accuser n. 原告,控诉者,非难者
-accustom vt.使习惯
+		accustom vt.使习惯
 accustomed a. 习惯了的
 ace n. 幺点,好手,高手,少许
 acephalous a. 无头的,群龙无首的
@@ -191,38 +191,38 @@ acetate n. 醋酸盐
 acetic a. 醋的,酸的
 acetylene n. 乙炔,电石气
 acetylsalicylic adj. 乙酰水杨酸的
-ache vi.痛；想念 n.疼痛
-achieve vt.完成，实现；达到
+		ache vi.痛；想念 n.疼痛
+		achieve vt.完成，实现；达到
 achievement n.完成；成就，成绩
 achillean a. 象阿基利斯一样健壮的；勇敢的
 aching adj. 疼痛的
-acid n.酸；酸的，酸性的
+		acid n.酸；酸的，酸性的
 acid-base n. 酸-碱
 acidity n. 酸味,酸性
 acidulous adj. 有酸味的，刻薄的
-acknowledge vt.承认；告知收到
-acknowledgment n. 承认,承认书,感谢
+		acknowledge vt.承认；告知收到
+		acknowledgment n. 承认,承认书,感谢
 acme n. 顶点，极点
 acolyte n. (教士的)助手，侍僧
 aconite n. 乌头,从乌头的根所提炼的强心止痛剂
 acorn n. 橡实，橡子
 acoustic adj. 听觉的，有关声音的
 acoustics n. 声学
-acquaint vt.使认识，使了解
-acquaintance n.认识；了解；熟人
+	acquaint vt.使认识，使了解
+	acquaintance n.认识；了解；熟人
 acquaintant adj. 熟悉的
 acquiesce v. 勉强同意，默认
 acquiescence n. 默许,默认,无可奈何的同意
 acquiescent adj. 默认的；顺从的
-acquire vt.取得；获得；学到
+	acquire vt.取得；获得；学到
 acquired adj. 后天免疫；后天习得的
 acquirement n.取得,获得; 习得 (能力)
-acquisition n. (有价值的)获得
+	acquisition n. (有价值的)获得
 acquisitive adj. 贪得的，物欲重的
 acquit vt. 开释,释放,完成,表现
 acquittal n. 宣告无罪，开释
 acquittance 清偿；清偿债务的收据
-acre n.英亩(=6.07亩)
+	acre n.英亩(=6.07亩)
 acreage n. 英亩数,面积
 acrid a. 苦味的,辛辣的,尖刻的
 acrimonious adj. 尖刻的
@@ -232,56 +232,56 @@ acrobatic a. 特技表演的,惊险表演的
 acrobatics n. 杂技
 acronym n. 首字母简略词，简称
 acropolis n. 城堡,雅典的卫城
-across prep.横过，穿过
-act vi.行动；做，做事
+		across prep.横过，穿过
+		act vi.行动；做，做事
 acth (缩)肾上腺皮质激素
 acting n. 演技；演戏；表演，a. 代理的
-action n.行动；作用；功能
-activate vt. & n. 使激活，驱动；vt.激活；使活动，使加速；起动；使活泼，开动
-active a.活跃的；积极的
+		action n.行动；作用；功能
+		activate vt. & n. 使激活，驱动；vt.激活；使活动，使加速；起动；使活泼，开动
+		active a.活跃的；积极的
 actively adv. 积极地，活跃地
 activist n. 积极分子
-activity n.活动，能动性
-actor n.男演员；演剧的人
-actress n.女演员
-actual a.实际的；现行的
+		activity n.活动，能动性
+		actor n.男演员；演剧的人
+		actress n.女演员
+		actual a.实际的；现行的
 actuality n. 实际
-actually adv.实际上
+		actually adv.实际上
 actuals n.现货
 actuarial a. 保险统计师的,保险统计的
 actuate vt. 开动,促使,激励
 acumen n. 敏锐，明智
 acupressure n. 针压法
 acupuncture n. 针刺；针刺疗法
-acute a.尖的，锐的；敏锐的
+	acute a.尖的，锐的；敏锐的
 acuteness n. 锐利,敏锐,剧烈
 ad n. (缩)广告
 adadon vt. 抛弃，放弃
 adage n. 格言，古训
 adamant adj. 强硬的，固执的
 adamantine a. 非常坚硬的,坚定不移
-adapt vt.使适应；改编
+	adapt vt.使适应；改编
 adaptability n. 适应性
 adaptable  adj. 有适应能力的，能运用的；适应性强的；可改编的
 adaptation n. 适应
 adapter n. 适配器，转换器
 adcolumn 广告栏
-add vt.加，增加
-add...to 把…加到
+		add vt.加，增加
+		add...to 把…加到
 addend n. 『数学』加数
 adder n. 欧洲产的小毒蛇,北美产的无毒小蛇,
-addict vt. 使沉溺,使上瘾
+		addict vt. 使沉溺,使上瘾
 addiction n. 沉迷；热衷；沈溺，上瘾
 addictive adj. (毒品等)使人上瘾的
 adding 增加的
-addition n.加，加法；附加物
-additional a.附加的，追加的
-additionally ad. 另外，又
+		addition n.加，加法；附加物
+		additional a.附加的，追加的
+		additionally ad. 另外，又
 additive adj. 附加的；n. 添加剂；附加物
 addle v. 使腐坏，使昏乱
 addled adj. 头脑混乱的
 add-on 加码
-address n.地址；演说；谈吐
+		address n.地址；演说；谈吐
 addressee 收信人
 addressing n. 寻址
 adduce v. 给予（理由），举出
@@ -289,18 +289,18 @@ adenoids n. 腺状肿大,扁桃腺肥大
 adenosine n. 腺苷，腺嘌呤核苷
 adept adj. 老练的，精通的
 adequacy n. 能力
-adequate a.足够的；可以胜任的
+	adequate a.足够的；可以胜任的
 adequately adv. 恰当地；足够地
 adf sadf
-adhere vi.粘附；追随；坚持
+	adhere vi.粘附；追随；坚持
 adherence n. 依附,固执
 adherent n. 拥护者，党徒
 adhesion n. 附着,粘着,固守,支持
 adhesive a. 粘着的,有粘性的
 adieu int. 再见,再会
 adipose adj. 脂肪多的
-adjacent a.毗连的；紧接着的
-adjective n.形容词 a.形容词的
+		adjacent a.毗连的；紧接着的
+		adjective n.形容词 a.形容词的
 adjoin vt.贴近，毗连；靠近
 adjourn vi. 延期,休会,换地方
 adjournment n. 延期,休会,休会期间
@@ -309,13 +309,13 @@ adjudicate v. 充当裁判，判决
 adjunct n. 附属物,附件,修饰语
 adjuration n. 严令,恳请,请愿
 adjure v. 郑重敦促（恳请）
-adjust vt.调整，调节；校正
+		adjust vt.调整，调节；校正
 adjustable adj. 可调整的；可校准的
 adjustment n. 调节
 adjutant n. （军队的）副官，助手
-administer vt. 实施，掌管
+	administer vt. 实施，掌管
 administrate vt. 管理，经营，实施
-administration n.局(或署、处等)
+		administration n.局(或署、处等)
 administrative a. 管理的,行政的
 administrator n. 管理人,行政官
 admirable a. 可钦佩的,优良的,令人惊奇的
@@ -323,11 +323,11 @@ admirably ad. 令人钦佩地；极妙地
 admiral n. 舰队司令,海军上将,旗舰
 admiralty n. 海军上将的地位或职权,海军部,
 admiration n.羡慕，钦佩；赞赏
-admire vt.钦佩；羡慕；赞美
+	admire vt.钦佩；羡慕；赞美
 admirer n. 钦佩者,仰慕者,求爱者
 admissible 允许的，可采纳的
-admission n.允许进入；承认
-admit vt.&vi.承认
+	admission n.允许进入；承认
+	admit vt.&vi.承认
 admittance n. 入场,入场权,准入
 admittedly adv. 公认地；明白地
 admixture n. 混合,混合物
@@ -337,12 +337,12 @@ admonitory adj. 警告的
 ado n. 忙乱，骚扰
 adobe n. 泥砖，土坯
 adolescence n. 青春期
-adolescent n. 青少年(此处是类比)
-adopt vt.收养；采用；采取
+	adolescent n. 青少年(此处是类比)
+	adopt vt.收养；采用；采取
 adoption n.收养；采纳，采取
 adorable adj. 迷人的，可爱的
 adoration n. 爱慕，崇拜
-adore vt.崇拜；很喜欢
+	adore vt.崇拜；很喜欢
 adorn v. 装饰
 adornment n. 装饰，装饰品
 adrenal a. 肾上腺的；n. 肾上腺
@@ -351,7 +351,7 @@ adrift ad. 漂流地
 adroit adj. 熟练的，灵巧的
 adulate v. 谄媚，奉承
 adulation n. 谄媚,奉承,阿谀
-adult n.成年人 a.成年的
+		adult n.成年人 a.成年的
 adulterate v. 掺假
 adulterated adj. 掺入次级品的
 adulteration n. 掺杂,掺假的东西,冒充货
@@ -362,68 +362,68 @@ adultery n. 通奸
 adumbrate v. (对将来事件)预示
 adumbration n. 轮廓,预示,阴影
 adust a. 烘干的，烤焦的；忧郁的；阴沉的
-advance vi.前进；提高 n.进展
-advanced a.先进的；高级的
+		advance vi.前进；提高 n.进展
+		advanced a.先进的；高级的
 advancement n. 前进,进步
 advancing (价格)上涨
-advantage n.优点，优势；好处
+		advantage n.优点，优势；好处
 advantageous a.有利的，有助的
-advent n. 到来，来临
+	advent n. 到来，来临
 adventitious adj. 偶然的，外来的
-adventure n.冒险，冒险活动
+		adventure n.冒险，冒险活动
 adventurer n. 冒险家,投机者
 adventurous a. 喜欢冒险的,大胆的,惊险的
-adverb n.副词
+		adverb n.副词
 adverbial  adj. 状语的；副词的；n. 状语
 adversary n. 对手，敌手
-adverse a. 反面的，不友好的
+	adverse a. 反面的，不友好的
 adversity n. 不幸，灾难
 advert vi. 注意,留意,言及
-advertise vt.通知 vi.登广告
+	advertise vt.通知 vi.登广告
 advertise/-ize vi. 登广告，做广告；vt. 为…做广告
 advertisement n.广告；公告；登广告
 advertiser n. 做广告的人
 advertising adj. 广告的；广告，广告费n. (总称)广告；
-advice n.劝告；忠告；意见
-advisable n.明智的；可取的
-advise vt. 忠告，劝告，建议；通知；告诉；通告
+	advice n.劝告；忠告；意见
+        advisable n.明智的；可取的
+        advise vt. 忠告，劝告，建议；通知；告诉；通告
 adviser n. 顾问,指导教授,劝告者
 advisory adj. 劝告的
 advocacy n. 拥护,支持,鼓吹
-advocate n.辩护者 vt.拥护
+	advocate n.辩护者 vt.拥护
 aegean a. 爱琴海的
 aegis n. 保护，庇护
 aeon n. 永世,无数的年代
 aerate v. 充气，让空气进入
-aerial a.空气的；航空的
+	aerial a.空气的；航空的
 aerie n. 鹰巢,高处的房子,高处的城堡
 aerodrome n.飞机场
 aeronaut n. 气球驾驶员
 aeronautics n. 航空学
-aeroplane n. 飞机；(英)飞机
+	aeroplane n. 飞机；(英)飞机
 aerospace n. 航空和宇宙航行空间；太空，宇宙空间
 aery n. 高巢,高处房子,高处的城堡
 aesthete n. 审美家
-aesthetic a. 美学的；审美的
+	aesthetic a. 美学的；审美的
 aesthetics n. 美学
 afar ad. 由远处,遥远地
 afeared a. 恐惧的
 affability n. 和蔼,殷勤,亲切
 affable adj. 易于交谈的，和蔼的
-affair n.事件；事情
-affect vt.影响；感动
+	affair n.事件；事情
+	affect vt.影响；感动
 affectation n. 做作，虚假
 affected adj. 不自然的，假装的
-affection n.慈爱，爱；爱慕
+	affection n.慈爱，爱；爱慕
 affectionate adj. 挚爱的
 affectionately adv. 充满深情地；热情地；体贴地；慈爱地
 afferent a. 传入的,向心的
 affiance n. 信托,婚约
 affidavit n. 宣誓书
-affiliate n. 分号(公司)；vt. 使…加入；使附于；合并，接纳；分支机构；附属公司；v. 加入联合
+	affiliate n. 分号(公司)；vt. 使…加入；使附于；合并，接纳；分支机构；附属公司；v. 加入联合
 affiliation n. 入会，加入
 affinity n. 密切关系，吸引力
-affirm vt.断言，批准；证实
+	affirm vt.断言，批准；证实
 affirmation n. 肯定,断言,主张
 affirmative adj. 赞成的，肯定的
 affix vt. 使附于,署名,粘贴
@@ -432,8 +432,8 @@ afflict vt. 使痛苦,折磨
 afflicting 痛苦的
 affliction n. 痛苦，折磨
 affluence n. 富裕,富足,流入
-affluent a. 丰富的,富裕的
-afford vt.担负得起…；提供
+	affluent a. 丰富的,富裕的
+		afford vt.担负得起…；提供
 affordable adj. 买得起的
 affray n. 吵架,骚扰,滋事
 affright vt. & n. (古)恐吓，恐惧
@@ -445,42 +445,42 @@ afloat a. & ad. 漂浮着(的)
 afoot a. 徒步的,在准备中,在进行中的
 afore ad.prep. 在前
 aforesaid a. 上述的,前述的
-afraid adj.(表语)怕，害怕
+		afraid adj.(表语)怕，害怕
 afresh ad. 重新,再度
 Africa n.非洲
 African a.非洲的 n.非洲人
 aft ad. 在船尾
-after prep.在…以后；次于
+		after prep.在…以后；次于
 after-dinner 饭后的；晚饭后的
 aftermarket n.后继市场；零件市场
-aftermath n. 不幸事件之后果，余波
-afternoon n.下午，午后
+	aftermath n. 不幸事件之后果，余波
+		afternoon n.下午，午后
 after-service 售后服务
 afterthought n. 事后才有的想法,追悔,再思
-afterward ad.后来，以后
-afterwards ad. 以后，后来，然后
-again ad.又一次；而且
-against prep.反对；对着
+		afterward ad.后来，以后
+		afterwards ad. 以后，后来，然后
+		again ad.又一次；而且
+		against prep.反对；对着
 agape ad. 张口发呆地,目瞪口呆地
 agate n. 玛瑙
-age n.年龄；时代 vt.变老
+		age n.年龄；时代 vt.变老
 aged a. 年老的,经过相当岁月的,有...岁的
 age-group n.同龄的一群人
 ageing n. 老化
-agency n.经办；代理；代理处
-agenda n. 议程
-agent n.代理人，代理商
+		agency n.经办；代理；代理处
+		agenda n. 议程
+		agent n.代理人，代理商
 agglomerate v. 凝聚，结块
 agglomeration n. 结块,凝聚,块
 aggrandize v. 增大，扩张
-aggravate v. 加重，恶化
+	aggravate v. 加重，恶化
 aggravation n. 更恶化,加厉,恼怒
-aggregate v. 集合，合计
+	aggregate v. 集合，合计
 aggregated a.聚合的，合计的
 aggregation n. 聚集，总合
 aggress v. (against)挑衅，攻击；侵略
 aggression n. 进攻,侵略
-aggressive a.侵略的；好斗的
+		aggressive a.侵略的；好斗的
 aggressively ad.积极地
 aggressor n. 侵略者,侵略国,攻击者
 aggrieve vt. 使委屈,使苦恼,侵害
@@ -491,47 +491,47 @@ agility n. 敏捷,灵活,轻快
 aging n. 衰老，老化；分期；帐龄分期
 agio n. 贴水
 agiotage n. 汇兑业务，证券投机
-agitate vi. 煽动；鼓动
+	agitate vi. 煽动；鼓动
 agitated adj. 被鼓动的，不安的
 agitation n.鼓动，煸动；搅动
 agitator n. 煽动者
 aglow a. 发红的,通红的
 agnostic adj. 不可知论的
-ago ad.以前
+		ago ad.以前
 agog adj. 兴奋的，有强烈兴趣的
 agonize vt. 使苦恼,折磨
 agonizing adj. 使人坐卧不安的；使人痛苦的
-agony n.极度痛苦
+	agony n.极度痛苦
 agrarian a. 有关土地的,耕地的
-agree vt.&vi.同意，赞成
-agreeable a.惬意的；同意的
+		agree vt.&vi.同意，赞成
+		agreeable a.惬意的；同意的
 agreeably adv. 欣然，依照
 agreed adj. 商定的；已同意的
 agreement n.协定，协议；同意
 agricultural a. 农业的
-agriculture n.农业，农艺；农学
+		agriculture n.农业，农艺；农学
 agriculturist n.农学家
 agronomist n. 农学家
 aground ad. 搁浅地,地面上
 ague n. 疟疾,打冷颤,发冷
 ah interj.啊
 aha interj.啊哈
-ahead adv.在前面，在前头
+		ahead adv.在前面，在前头
 ahoy int. 喂
-aid n.帮助，救护；助手
+		aid n.帮助，救护；助手
 aide-de-camp n. 副官,侍从武官
 aide-memoire 备忘录
 aids n. (缩)艾滋病
 ail vt. 使苦恼
 ailment n. （不严重的）疾病
-aim n.瞄准；目标；目的
+		aim n.瞄准；目标；目的
 aimless adj. 无目的的；没有目标
 ain't (同)are not，am not
-air n.空气；空中；外观
+		air n.空气；空中；外观
 airborne 起飞；adj. 空气传播的，(部队)空降的
-airconditioning n.空气调节
-air-conditioning n.空气调节系统
-aircraft n.飞机，飞行器
+		airconditioning n.空气调节
+		air-conditioning n.空气调节系统
+		aircraft n.飞机，飞行器
 aircrew 机组人员
 airdrome n. 飞机场
 Airedale  (C)  (又作 Airedale terrier) 爱尔得儿
@@ -543,12 +543,12 @@ air-hostess n. 空中小姐；女乘务员
 airing n.通风；讨论
 airless adj. 缺少空气的；不通风的
 airlift 空运
-airline n.航空公司；航线
+		airline n.航空公司；航线
 air-line n. 航空公司
 airliner n. 定期班机,客机
 airmail n. 航空邮件
-airplane n.飞机
-airport n.机场，航空站
+		airplane n.飞机
+		airport n.机场，航空站
 air-raid n. 空袭
 airship n. 飞艇,飞船
 airsick 晕机
@@ -558,7 +558,7 @@ air-tight a. 密封的
 airway n. 航线
 air-way n. 航空线；航空公司
 airy a. 空气的,幻想的,轻快的
-aisle n. 走廊,侧廊
+	aisle n. 走廊,侧廊
 ait n. 河中小岛
 ajar a. 微开的,半开的,不和谐的
 akimbo a. 两手叉腰的
@@ -567,20 +567,20 @@ al n. 艾尔(男名)
 alabama n. 亚拉巴马(州)(美国)
 alabaster adj. 雪白的
 alacrity n. 敏捷,轻快,乐意
-alarm n.惊恐，忧虑；警报
+		alarm n.惊恐，忧虑；警报
 alarming adj. 警告的；引起惊恐的
 alas int.唉，哎呀
 alaska n. 阿拉斯加(州)(美国)
 albany n. 纽约州州城(美国)
 albatross n. 信天翁
-albeit conj. 纵令…,虽然…,虽则,即
+	albeit conj. 纵令…,虽然…,虽则,即
 albino n. 白公,白化病者,白化变种
-album n.粘贴簿；相册；文选
+		album n.粘贴簿；相册；文选
 albumen n. 蛋白,胚乳
 albumin n. 蛋白质,蛋白素
 alchemist n. 炼丹家
 alchemy n. 炼金术
-alcohol n.酒精，乙醇
+		alcohol n.酒精，乙醇
 alcoholic n. 酒鬼,酒精中毒的人
 alcoholism n. 嗜酒者，酒鬼
 alcove n. 凹室，壁龛
@@ -589,7 +589,7 @@ alder n. 赤杨
 alderman n. 市府参事,市议员
 aldosterone n. 醛固酮
 ale n. 淡啤酒
-alert a.警惕的；活跃的
+	alert a.警惕的；活跃的
 alertness n. 警戒,机敏
 alexandria n. 亚历山大(埃及港市)
 alexandrine n. 亚历山大诗行,这种形式的诗
@@ -602,41 +602,41 @@ algiers n. 阿尔及尔
 alias n. 化名，别名
 alibi n. 不在场证明辩解,托辞
 alice 艾莉丝(女名)
-alien a.外国的 n.外国人
-alienate vt. 使疏远,离间,让与
+		alien a.外国的 n.外国人
+	alienate vt. 使疏远,离间,让与
 alienated adj. 疏远的，被隔开的
 alienation n. 疏远,离间,割让
 alienator 让渡人，转让人
 alienee 受让人
 alight vi. 落下,偶然发现
-align v. & n. 定位，对准；vt. 排列；使成直线；使成一线；使结盟；校准，校直，结盟，合作，调节，调准；vi. 成一线，排成一行，(with)结盟
+		align v. & n. 定位，对准；vt. 排列；使成直线；使成一线；使结盟；校准，校直，结盟，合作，调节，调准；vi. 成一线，排成一行，(with)结盟
 aligned a. 对准的，均衡的
 alignment n.队列；结盟，联合
-alike a.同样的，相同的
+		alike a.同样的，相同的
 aliment n. 食物,滋养品
 alimentary a. 食物的,滋养的
 alimentation 营养
 alimony n. 瞻养费
-alive adj.活着
+		alive adj.活着
 alkali n. 碱
 alkaline a. 碱的,碱性的
 alkalinity n. 碱浓度；碱性
 alkaloid n. 生物碱,植物碱基
-all adv.都
+		all adv.都
 allan n. 艾伦(姓)
 all-around a.全面的；综合性的
 allay vt. 使镇静,使缓和
 allegation n. （无证据的）指控
-allege vt. 宣称,申述,主张,断言
-allegiance n. 忠诚，拥护
+	allege vt. 宣称,申述,主张,断言
+	allegiance n. 忠诚，拥护
 allegorical a. 寓言的,寓意的,讽喻
 allegory n. 寓意；寓言
 allen 阿伦(男名)
 allergic adj. 过敏性的；变态的；变应性的，对...讨厌的
 allergy n. 反感，过敏；过敏性反应，过敏症；厌恶
-alleviate v. 缓和，减轻
+	alleviate v. 缓和，减轻
 alley n. 小巷，小径
-alliance n. 联盟,联合
+	alliance n. 联盟,联合
 allied a.联合的；联姻的
 allies n. (一次大战)协约国
 alligator n. 短吻鳄（一种鳄鱼）
@@ -644,17 +644,17 @@ all-in 全部的，包括一切的
 alliteration n. 头韵
 all-night a. 通霄的
 allo a. 紧密相连的
-allocate vt. 分派,分配
+		allocate vt. 分派,分配
 allocation n. 分配；配给物；拨款，拨款权，拨给
 allonge (法)票据背书附条
 allopathy n. (医)对抗疗法
 allot vt. 分配,分摊指定
 allotment n. 分配,配给的土地,命运
-allow vt.允许，准许；任
+		allow vt.允许，准许；任
 allowable a. 可允许的,正当的,可承认的
-allowance n津贴，补助费
+		allowance n津贴，补助费
 allowed a. 容许的
-alloy n.合金；(金属的)成色
+	alloy n.合金；(金属的)成色
 all-round a. 全面的；综合性的
 allspice n. 甜胡椒,由甜胡椒制成的香味料
 allude v. 间接提到，暗指
@@ -663,57 +663,57 @@ allurement n. 诱惑物
 alluring a. 诱惑的；迷人的
 allusion n. 暗示
 alluvial adj. 冲积的
-ally n.同盟国；同盟者
+	ally n.同盟国；同盟者
 almanac n. 年鉴,历书
 almighty a. 万能的,全能的
 almond n. 杏树，杏仁
 almoner n. 施赈人员
-almost ad.几乎，差不多
+		almost ad.几乎，差不多
 alms n. 施舍，捐献，救济金
 almshouse n. 私立济贫院或养老院,公立救济院
 aloft ad. 在高处,在上
-alone a.单独的 ad.单独地
-along prep.沿着 ad.向前
-alongside prep.在…旁边
+		alone a.单独的 ad.单独地
+		along prep.沿着 ad.向前
+		alongside prep.在…旁边
 aloof a. 远离的；孤零的
-aloud ad.出声地，大声地
+		aloud ad.出声地，大声地
 alp n. 高山
 alpaca n. 羊驼,羊驼毛,羊驼呢
 alpha n. 希腊字母的第一个字母,最初,
-alphabet n.字母表
+		alphabet n.字母表
 alphabetical adj.依字母顺序的
 alphabetically ad. 按字母表顺序
 alpine a. 高山的,极高的
 alpinist n. 登山运动员
 alps n. (the-)阿尔卑斯山脉
-already ad.早已，已经
+		already ad.早已，已经
 alsace n. 阿尔萨斯(法国地名)
-also ad.亦，也；而且，还
+		also ad.亦，也；而且，还
 altar n. 祭坛，圣坛
-alter vt.改变，变更；改做
+	alter vt.改变，变更；改做
 alteration n.变更，改变；蚀变
 altercation n. 争吵，争论
-alternate vt.使交替 a.交替的
+		alternate vt.使交替 a.交替的
 alternately ad. 交替地，轮流地
 alternation n. 交互,轮流,隔一个
-alternative n.替换物；取舍，抉择
+		alternative n.替换物；取舍，抉择
 alternatively adv. 交互地；交替地；另外，此外；两者择一
-although conj.虽然
-altitude n.高，高度；高处
+		although conj.虽然
+	altitude n.高，高度；高处
 alto n. 次高音,女低音,次高音歌手
-altogether ad.完全；总而言之
+		altogether ad.完全；总而言之
 altorf n. 阿尔托夫(瑞士城市)
 altorfer n. 阿尔托夫人
 altruism n. 利他主义；爱他主义；不自私；无私
 altruistic a. 利他的,无私心的
 alum n. 明矾
-aluminium n.铝
-aluminum n. 铝
+	aluminium n.铝
+	aluminum n. 铝
 alumni n. 男校友；男毕业生
 alumnus 男校友
 alveolus n. 肺泡
-always adv.总是，一直
-am n. (我)是；v. 是；be的第一人称单数
+		always adv.总是，一直
+		am n. (我)是；v. 是；be的第一人称单数
 amaesthetic n.麻醉剂
 amain ad. 全力地,全速地,急速地,突然
 amalgam n. 混合物
@@ -723,33 +723,33 @@ amanuensis n. 笔记者,抄写员,书记
 amaranth n. 不凋花,苋属植物,紫红色
 amaranthine a. 不凋的,不死的,紫红的
 amass v. 积聚
-amateur a.业余的n.业余爱好者
+		amateur a.业余的n.业余爱好者
 amateurish adj. 业余爱好的，不熟练的
 amatory a. 恋爱的,情人的
-amaze vt.使惊奇，使惊愕
-amazed 惊愕的
+		amaze vt.使惊奇，使惊愕
+		amazed 惊愕的
 amazement n.惊异，诧异
-amazing adj. 惊人的；惊奇的；令人惊异的
+		amazing adj. 惊人的；惊奇的；令人惊异的
 amazingly ad. 惊人地；惊奇地
 amazon n. 女战士
-ambassador n.大使，使节
+	ambassador n.大使，使节
 amber n. 琥珀色
 ambergris n. 龙涎香
 amber-like a. 琥珀色的
 ambidextrous adj. 十分灵巧的
 ambient a.周围的，包围着的
 ambiguity n. 模棱两可
-ambiguous a.模棱两可的；分歧的
+	ambiguous a.模棱两可的；分歧的
 ambit n. 界限，范围，周围
-ambition n.雄心，抱负，野心
-ambitions a. 有雄心的，野心勃勃的
-ambitious a.有雄心的；热望的
+		ambition n.雄心，抱负，野心
+		ambitions a. 有雄心的，野心勃勃的
+		ambitious a.有雄心的；热望的
 ambivalence n. 有两种相冲突的情感；矛盾心理
 ambivalent adj. (对人或物)有矛盾看法的；有矛盾情绪的
 amble n./v. 漫步，缓行
 ambrosia n. 神仙食品，美味
 ambrosial a. 特别美味的
-ambulance n.救护车；野战医院
+		ambulance n.救护车；野战医院
 ambulatory adj. 步行的; 移步用的
 ambuscade n. 埋伏,伏兵,埋伏处
 ambush n./v. 埋伏，伏击
@@ -757,7 +757,7 @@ ameliorate vt. 改善；缓和
 amelioration n. 改善,改良,改进
 amen int. 阿门
 amenable adj. 愿服从的，通情达理的
-amend vt. 修正,改善,改良
+	amend vt. 修正,改善,改良
 amendment n. 改正，修正
 amends n. 赔偿；赔罪
 amenities n. 令人愉快之事物
@@ -769,11 +769,11 @@ Americanism a. 美国所创,美国风俗,美国精神
 Americanization n. 美国化
 amerindian n. 美洲印第安人
 amethyst n. 紫水晶
-amiable adj. 和蔼的，亲切的
+	amiable adj. 和蔼的，亲切的
 amicable adj. 友好的
-amid prep. 在...中间
+	amid prep. 在...中间
 amidships ad. 在船中部,在船腹
-amidst prep. 在...当中
+	amidst prep. 在...当中
 amiss a. 有毛病的,出差错的
 amity n. 友好,亲善关系
 ammonia n. (化)氨
@@ -783,25 +783,25 @@ ammunition n. 军火,弹药
 amnesia n. 健忘症
 amnesty n. 大赦，特赦
 amoeba n. 阿米巴,变形虫
-among prep.在…之中
-amongst prep在…之中(=among)
+		among prep.在…之中
+		amongst prep在…之中(=among)
 amoral adj. 不知是非的
 amorous adj. 容易动情的，情爱的
 amorphous adj. 无定形的，散漫的
 amortization  n. 亦作 amortizement
 amortize v. 分期偿还
 amory n. 艾默利(姓)
-amount n.总数；数量；和
+		amount n.总数；数量；和
 amour n. 奸情,恋情
 ampere n.安培
 ampersand n. &号(and)
 amphibian a. 两栖类的,水陆两用的
 amphibious a. 水陆两栖,两用的,陆海空军协同作战的
 amphitheater n. 圆形剧场,斗技场,似圆形剧场的处所
-ample a.足够的；宽敞的
+	ample a.足够的；宽敞的
 amplification n. 扩大；加强
 amplifier n. 放大器
-amplify vt.放大，增强；扩大
+		amplify vt.放大，增强；扩大
 amplitude n.广大；充足；振幅
 amply ad. 充足地,详细地
 amputate v. 切除
@@ -809,7 +809,7 @@ amputation n. 切断,切断手术
 amsterdam n. 阿姆斯特丹(荷兰)
 amuck ad. 狂乱地,杀气腾腾地
 amulet n. 护身符
-amuse vt.娱乐；逗...乐
+	amuse vt.娱乐；逗...乐
 amusement n.娱乐，消遣，乐趣
 amusing adj. 令人感到有趣的；有趣的，逗人笑的；使人发笑的
 amy 艾米(女名)
@@ -822,15 +822,15 @@ anaesthetic n. 麻醉剂
 analgesia n. 止痛法；无痛
 analgesic n. 镇痛剂，adj. 止痛的
 analogous adj. 类似的
-analogue n. 类似物；同源语；模拟
-analogy n.相似，类似；比拟
-analyse vt.分析，分解，解析
-analyse/-yze vt. 分析，分解
-analysis n.分析，分解，解析
+	analogue n. 类似物；同源语；模拟
+	analogy n.相似，类似；比拟
+		analyse vt.分析，分解，解析
+		analyse/-yze vt. 分析，分解
+		analysis n.分析，分解，解析
 analyst n. 分析员
-analytic a. 分析的,解析的
-analytical a. 分析的,解析的
-analyze vt. 分析,分解
+	analytic a. 分析的,解析的
+	analytical a. 分析的,解析的
+		analyze vt. 分析,分解
 anarch  n. 无政府主义者
 anarchic adj. 无政府的
 anarchist n. 无政府主义者
@@ -843,21 +843,21 @@ anatomist n. 解剖学家
 anatomize vt. 解剖,仔细分析
 anatomy n. 解剖
 ancester n. 祖先
-ancestor n.祖宗，祖先
+	ancestor n.祖宗，祖先
 ancestral a. 祖先的
 ancestry n. 祖先,家系,门第
-anchor n.锚 vi.抛锚，停泊
+		anchor n.锚 vi.抛锚，停泊
 anchorage n. 下锚,停泊所,停泊税
 anchorite n. 隐士
 anchovy n. 鱼类
-ancient a.古代的，古老的
+	ancient a.古代的，古老的
 ancillary adj. 辅助的，n. 助手
-and conj.和；又
+		and conj.和；又
 andesite 中性长石
 andiron n. 柴架
 andirons n. 铁制柴架
 ane n. 烷
-anecdote n. 短故事，轶事
+	anecdote n. 短故事，轶事
 anemia n. 贫血，贫血症
 anemone n. 秋牡丹,海葵
 anesthesia n. 麻醉
@@ -866,23 +866,23 @@ anesthetic n. 麻醉剂；a. 麻醉的
 anesthetist n. 麻醉医生
 anesthetize vt. 使麻醉，使麻木
 anew ad. 重新,再
-angel n.天使，神差，安琪儿
+		angel n.天使，神差，安琪儿
 angelic a. 天使的,似天使的
 angelical a. 天使的,似天使的
-anger n.发怒
-angle n.角，角度
+	anger n.发怒
+		angle n.角，角度
 angler n.钓鱼者,钓鱼人
 Anglo-Saxon n. 盎格鲁撒克逊人
 angora n. 安哥拉猫,安哥拉呢,纯毛海
 angrily adv.发怒地，愤怒地
-angry adj.发怒的，生气的
-anguish n. 极大痛苦
+		angry adj.发怒的，生气的
+	anguish n. 极大痛苦
 anguished adj. 很痛苦的
 angular a. 有角的,消瘦的,有尖角的,生硬的
 angularity n. 有角,成角状,生硬
 animadversion n. 批评,非难
 animadvert v. 苛责，非难
-animal n.动物，兽 a.动物的
+		animal n.动物，兽 a.动物的
 animate vt. 使有活力，激活；使有生气；激励；促使；赋于生命，鼓励，a. 有生命的，有生气的，生气勃勃的
 animated adj. 活生生的；栩栩如生的；活跃的；生气勃勃的；有生气的，热烈的；n. 活生生的；能活动的
 animatedly adj. 活生生地，热烈的
@@ -891,7 +891,7 @@ animation n. 兴奋，活跃
 animosity n. 憎恶，仇恨
 animus n. 憎恨
 anise n. 大茴香
-ankle n.踝，踝节部
+	ankle n.踝，踝节部
 annalist n. 纪年表编者,编年史作者
 annals n. 纪年表,年鉴,年报
 anneal n. 退火
@@ -900,16 +900,16 @@ annexation n. 合并,附加,附加物
 annie n. 妮(女名，ann的昵称)；安妮(女名)
 annihilate v. 消灭
 annihilation n. 歼灭,灭绝
-anniversary n.周年纪念日
+		anniversary n.周年纪念日
 annotate v. 注解
 annotation n. 注解
-announce vt.宣布，宣告，发表
+	announce vt.宣布，宣告，发表
 announcement n. 公告,发表,告知
 announcer n.宣告者；播音员
-annoy vt.使恼怒；打搅
+		annoy vt.使恼怒；打搅
 annoyance n. 烦恼,可厌之事
 annoying a. 恼人的，讨厌的；使人气恼的
-annual a.每年的 n.年报
+		annual a.每年的 n.年报
 annually ad.一年一次,每年
 annuitant 领年金者
 annuity n. 年金,养老金,年金领受权
@@ -923,15 +923,15 @@ anomalous adj. 反常的，不规则的
 anomaly n. 异常、反常
 anon ad. 不久,立刻,以后
 anonymity  n. 无名，匿名
-anonymous adj. 匿名的
+		anonymous adj. 匿名的
 anonymously adj. 匿名地
 anorexia n. 厌食症
-another adj.&pron.再一(个..)
+		another adj.&pron.再一(个..)
 anoxia n. 缺氧症
 ansi n. 美国国家标准协会
-answer vt.回答；响应；适应
+		answer vt.回答；响应；适应
 answerable a. 可回答的
-ant n.蚂蚁
+		ant n.蚂蚁
 antagonism n. 对抗，敌对
 antagonist n. 敌手，对手
 antagonistic a. 反对的,敌对的
@@ -945,7 +945,7 @@ antechamber n. 前堂,前厅,接待室
 antedate (在信，文件上)写上较早日期
 antediluvian adj. 史前的，陈旧的
 antelope n. 羚羊
-antenna n.触角；天线
+	antenna n.触角；天线
 anterior adj. 较早的，以前的
 anteroom n. 接待室,前房,休息室
 anthem n. 圣歌，赞美歌
@@ -964,7 +964,7 @@ antibiotic-resistant a. 耐抗生素的
 antibiotics n. 抗生素；抗菌素
 antibody n. 抗体（身体中的抗病物质）
 antic adj.古怪的，笨拙的
-anticipate vt.预料，预期，期望
+	anticipate vt.预料，预期，期望
 anticipation n.期望，预料；预期
 anticipatory adj.预期的
 anticlimax n. 渐降法,虎头蛇尾
@@ -980,7 +980,7 @@ antipodes n. 相对极
 antiquarian n. 古物研究者,收集古物者
 antiquary n. 古物研究者,收集古物者,古董商人
 antiquated adj.陈旧的，过时的，
-antique a.古代的 n.古物
+	antique a.古代的 n.古物
 antiquity n. 古代；古人们
 antisepsis n. 防腐法，抗菌法
 antiseptic n. 杀菌剂，adj.防腐的
@@ -996,26 +996,26 @@ antonym n. 反义字,反义语,对语
 antonymous adj. 反义的
 anus n. 肛门
 anvil n. 铁砧
-anxiety n.焦虑，忧虑；渴望
-anxious adj.渴望的；忧虑的
+	anxiety n.焦虑，忧虑；渴望
+		anxious adj.渴望的；忧虑的
 anxiously adv. 焦急地，急切地；不安地；挂念地；渴望地；担心的
-any adj.什么,一些,任何的
-anybody n.重要人物
-anyhow ad.无论如何
-anyone pron.任何人
-anything pron.任何事(物)
-anytime adv. 在任何时候；无论什么时候
-anyway ad.无论如何
-anywhere ad.在什么地方
+		any adj.什么,一些,任何的
+		anybody n.重要人物
+		anyhow ad.无论如何
+		anyone pron.任何人
+		anything pron.任何事(物)
+		anytime adv. 在任何时候；无论什么时候
+		anyway ad.无论如何
+		anywhere ad.在什么地方
 aorta n. 主动脉
 ap n. (美国)联合通讯社，简称美联社(ap=associated press)
 apace ad. 快速地,急速地
 apanage n. 属地
-apart adv.分别；相距
-apartment n. 公寓；一套公寓房间；套房，(美)一套房间；房间，间；公寓住宅，套间
+		apart adv.分别；相距
+		apartment n. 公寓；一套公寓房间；套房，(美)一套房间；房间，间；公寓住宅，套间
 apathetic adj. 冷漠的，无动于衷的
 apathy n. 漠然，冷淡
-ape n. 猿
+	ape n. 猿
 aperture n. 孔隙，窄的缺口
 apex n. 顶点，最高点
 aphasia n. 失语症
@@ -1033,11 +1033,11 @@ apogee n. 远地点（太阳等距离地球最远的点）
 apolitical adj. 不关心政治的
 apollo 阿波罗；n. (希神)阿波罗
 apologetic adj.道歉的，歉意的
-apologise v.道
+		apologise v.道歉
 apologist n. 辩护者,辩证者,护教论者
-apologize vi.道歉，谢罪，认错
+		apologize vi.道歉，谢罪，认错
 apologue n. 寓言,教训
-apology n.道歉，认错，谢罪
+		apology n.道歉，认错，谢罪
 apoplexy n. 中风
 apostasy n. 背教，脱党
 apostate n. 背教者，变节者
@@ -1048,19 +1048,19 @@ apostrophe n. 书写中撇号(')（表示省略或所有格）
 apothecary n. 药剂师
 apothegm n. 格言,箴言
 apotheosis n. 神化，典范
-appal v. 使惊骇，使恐怖
-appall vt. 使胆寒,使惊骇
+	appal v. 使惊骇，使恐怖
+	appall vt. 使胆寒,使惊骇
 appalling  adj. 骇人的；令人震惊的；骇人听闻的；可怕的
 appanage n.附属物，封地，世袭财产
-apparatus n.器械，仪器；器官
+	apparatus n.器械，仪器；器官
 apparel n. （精致的）衣服
-apparent a.表面上的；明显的
+		apparent a.表面上的；明显的
 apparently ad. 明显地；外表地；显然，表面上地；adj. 显然，似乎
 apparition n. 幽灵，神奇的现象
-appeal vi.&n.呼吁；申述
+	appeal vi.&n.呼吁；申述
 appealing adj. 有吸引力的；吸引人的，打动人心的；招人喜爱的，有感染力的，恳求的
-appear vi.出现；显得；好象
-appearance n.出现，来到；外观
+		appear vi.出现；显得；好象
+		appearance n.出现，来到；外观
 appease v. 使平静，安抚
 appeasement n. 平息，满足
 appellant n. 上诉人
@@ -1070,35 +1070,35 @@ append vt. 附加,添加,悬挂
 appendage n. 附加物
 appendectomy n. 阑尾切除术
 appendicitis n. 阑尾炎,盲肠炎
-appendix n.附录，附属物；阑尾
+	appendix n.附录，附属物；阑尾
 appertain vi. 附属,关系,适合
-appetite n.食欲，胃口；欲望
+	appetite n.食欲，胃口；欲望
 appetizer n.开胃
 appetizing adj.开胃的
-applaud vt.喝彩；欢呼vi.欢呼
-applause n.喝彩；夸奖，称赞
-apple n.苹果
+	applaud vt.喝彩；欢呼vi.欢呼
+	applause n.喝彩；夸奖，称赞
+		apple n.苹果
 apples 苹果
-appliance n.用具，器具，器械
-applicable a.能应用的；适当的
+	appliance n.用具，器具，器械
+	applicable a.能应用的；适当的
 applicant n. 申请者,请求者
-application n.请求，申请；施用
+		application n.请求，申请；施用
 applied a. 应用的；实用的，适用的，外加的
-apply vt.应用，实施，使用
+	apply vt.应用，实施，使用
 apply...to 把…应用于
-appoint vt.任命，委任；约定
+	appoint vt.任命，委任；约定
 appointed 指定
-appointment n.任命；约定，约会
+	appointment n.任命；约定，约会
 apportion vt. 分配
 apportionment n. 分配,分摊,分派
 apposite adj. 适当的，恰切的.
 appositive a. 同位的
-appraisal n. 评估；估价
+	appraisal n. 评估；估价
 appraise vt. 评价,估价,鉴定
 appreciable a.可估价的；可察觉的
 appreciably adv. 相当大地
-appreciate vt.感激；欣赏
-appreciation n.欣赏；鉴别；感激
+		appreciate vt.感激；欣赏
+		appreciation n.欣赏；鉴别；感激
 appreciative adj. 感谢的，赞赏的
 apprehend v. 逮捕，恐惧
 apprehension n. 焦虑，担忧
@@ -1106,28 +1106,28 @@ apprehensive adj. 恐惧的，担心的
 apprentice vt. 使当学徒
 apprenticeship n. 学徒的身分,学徒的年限
 apprise v. 通知，告诉
-approach vt.向…靠近 n.靠近
+		approach vt.向…靠近 n.靠近
 approachable adj. 可接近的，随和的
 approbation n. 称赞，认可，
 approbatory adj. 表示赞许的
-appropriate a.适当的，恰当的
+	appropriate a.适当的，恰当的
 appropriately ad. 适当地
 appropriation n. 拨款，挪用公款
 appropriations 拨款
-approval n.赞成，同意；批准
-approve vt.赞成，称许；批准
+		approval n.赞成，同意；批准
+		approve vt.赞成，称许；批准
 approved 已批准的
-approximate a.近似的 vt.近似
+		approximate a.近似的 vt.近似
 approximately  adv. 近乎，大约；近似地，几乎正确地；差不多
 approximation n. 近似值
 appurtenance n. 附属物,附件
 appurtenances n. 附属物
 apricot n. 杏子,杏色
-April n.四月
+		April n.四月
 apron n. 围裙
 apropos adj. 适当地，中肯的
 apse n. 教堂半圆形的后殿
-apt a.恰当的；聪明的
+	apt a.恰当的；聪明的
 aptitude n. 资质,才能,自然倾向
 aptness n. 适合性,倾向,才能
 aquamarine n. 海蓝宝石
@@ -1146,7 +1146,7 @@ arable adj. 可耕的，适合种植的.
 arbiter n. 权威人士，泰斗
 arbitrage 套利，套汇；种裁，公断
 arbitrament n. 仲裁,裁决,裁判
-arbitrary a.随心所欲的；专断的
+		arbitrary a.随心所欲的；专断的
 arbitrate v. 仲裁，公断
 arbitration n. 仲裁,公断
 arbitrator n. 公断人
@@ -1158,10 +1158,11 @@ arbour n. 藤架,凉亭
 arc n.弧，弓形物；弧光
 arcade n. 有拱廊的街道；骑楼
 arcane adj. 神秘的，秘密的
-arch n.拱门 vt.用拱连接
+	arch n.拱门 vt.用拱连接
 archaeological a. 考古学的,考古学上的
 archaeologist n. 考古学家
-archaeology n. 考古学
+	archaeology n. 考古学
+	archeology n. 考古学
 archaic a. 已废的,古老的,古代的
 archbishop n. 大教主
 archdeacon n. bishop 下一级的圣职者,副监督
@@ -1172,11 +1173,11 @@ archery n. 箭术
 archetype n. 原型，典型
 archiepiscopal  adj. archbishop (之职位) 的
 archipelago n. 群岛
-architect n.建筑师
+	architect n.建筑师
 architectural a. 建筑上的
-architecture n.建筑学；建筑式样
+		architecture n.建筑学；建筑式样
 architrave n. 线脚,框缘,楣梁
-archive vt. 归档
+	archive vt. 归档
 archives n. 档案
 archway n. 拱门,拱道
 arctic a.北极的 n.北极
@@ -1185,8 +1186,8 @@ ardor n. 热心；热情，狂热；激情
 ardour n. 热心，热情
 arduous adj. 费力的，艰难的
 are  n. (你)是；公亩；v. 是；be的第二人称单复数；vi. 是
-area n.地区
-arena n. 竞技场
+		area n.地区
+	arena n. 竞技场
 aren't 不是；(同)are not
 argent n. 银
 Argentina n. 阿根廷
@@ -1196,27 +1197,27 @@ argon n. 氩
 argosy n. 大商船
 argot n. 隐语,暗语,暗号
 arguable a. 可争辩的
-argue vi.争论，争辩，辩论
+		argue vi.争论，争辩，辩论
 arguement n. 争论，辩论，论据，论点
-argument n.辩论；争论，论据
+		argument n.辩论；争论，论据
 argumentative a. 好辩的,爱穷根究理的,争论的
 aria n. 独唱曲，咏叹调
 arid a. 干旱的
 aright ad. 正确地
 arightness 亮度
-arise vi.出现；由…引起
+	arise vi.出现；由…引起
 arisen arise的过去分词
 aristocracy n. 贵族,贵族社会,高级知识份子
 aristocrat n. 贵族
 aristocratic a. 贵族的,贵族政治的,贵族气派的
 aristotle 亚里斯多德
 arithmatic 算术
-arithmetic n.算术
+		arithmetic n.算术
 arithmetical a. 算术的,算术上的
 arizona n. 亚利桑那(州)(美国)
 ark n. 方舟，避难所
 arkansas n. 阿肯色(州)(美国)
-arm n.手臂，胳膊
+		arm n.手臂，胳膊
 armada n. 舰队
 armament n. 军备,武器
 armature n. 甲胄,防卫器官,盔甲,电枢
@@ -1234,30 +1235,30 @@ armoured a. 穿戴盔甲的；装甲的
 armourer n. 兵器制造者,军械修护员
 armpit n. 腋窝
 arms n. 武器
-army n.军队
+		army n.军队
 arnica n. 山金车花
 aroma n. 芳香，香气
 aromatic adj. 芳香的
 arose arise的过去式
-around prep.在...周围
-arouse vt.唤醒；引起；激起
+		around prep.在...周围
+	arouse vt.唤醒；引起；激起
 arraign v. 指责，传讯，弹劾
 arraignment n. 提讯,传问,责难
-arrange vt.整理，分类，排列
+	arrange vt.整理，分类，排列
 arrangement n.整理，排列；安排
 arrant a. 声名狼藉的,极恶的
 arras n. 花毯,挂毯
-array vt.装扮 n.队列；排列
+		array vt.装扮 n.队列；排列
 arrears n. 债，欠债
-arrest vt.逮捕，拘留；阻止
+		arrest vt.逮捕，拘留；阻止
 arrestment 财产扣押，扣留
-arrival n.到达；到来；到达者
-arrive vi.到达；来临；达到
+		arrival n.到达；到来；到达者
+		arrive vi.到达；来临；达到
 arrogance n. 傲慢，自大
-arrogant adj. 傲慢的，自大的
+	arrogant adj. 傲慢的，自大的
 arrogantly adv. 傲慢地
 arrogate v. 冒称具有……权力
-arrow n.箭；箭状物
+		arrow n.箭；箭状物
 arrowy a. 矢的,矢状的,矢般迅速的
 arroyo n. 小河，小溪，枯干的河道
 arsenal n. 军工厂
@@ -1265,42 +1266,42 @@ arsenate n.『化学』砷酸盐
 arsenic n. 砒霜，砷
 arson n. 纵火、放火
 arsonist n. 纵火犯
-art n.艺术；美术
+		art n.艺术；美术
 arterial a. 动脉的,动脉状的
-artery n. 动脉,主流,干道
+	artery n. 动脉,主流,干道
 artesian adj.自流的（井等）
 artful a. 巧妙的,狡滑的
 arthritis n. 关节炎
 artichoke n. 朝鲜蓟
-article n.文章，论文；冠词
+		article n.文章，论文；冠词
 article-mix 商品组合
-articulate v. 清楚说话，接合
+	articulate v. 清楚说话，接合
 articulation n. 关节,接合,清晰发音
-artifact n. 制造物；人工制品
+		artifact n. 制造物；人工制品
 artifacts n. 史前古器物
 artifice n. 巧办法，诡计
 artificer n. 工匠,巧匠
-artificial a.人工的；娇揉造作的
+		artificial a.人工的；娇揉造作的
 artificially ad. 人工地；假地；人造地
 artillery n. 大炮，炮兵
 artisan n. 工匠；手工艺人
-artist n.美术家；艺术家
+		artist n.美术家；艺术家
 artiste n. 艺人，技艺家
-artistic a.艺术的；艺术家的
+	artistic a.艺术的；艺术家的
 artistry n. 艺术才能
 artless adj. 粗俗的，自然的
 arts 文理科
-as conj.因为，由于
-as...as 与…一样；象…一样
-as...as... 象，如同，与…一样
+		as conj.因为，由于
+		as...as 与…一样；象…一样
+		as...as... 象，如同，与…一样
 asbestos n. 石棉
-ascend vi.攀登，登高；追溯
+		ascend vi.攀登，登高；追溯
 ascendancy n. 统治权，支配力量
 ascendency n. 优势,优越,权势
 ascending a. 增长的，向上的
 ascension n. 上升,耶稣的升天
 ascent n. 上升攀登
-ascertain vt.查明，确定，弄清
+	ascertain vt.查明，确定，弄清
 ascetic adj. 禁欲的n. 苦行者
 asceticism n. 禁欲主义
 ascii n. 美国信息交换标准码
@@ -1313,28 +1314,28 @@ asepsis n. 无菌，无菌操作
 aseptic adj. 无菌的，洁净的
 asexually ad.无性地；无性器官地
 asgard n. (北欧神话中)仙宫
-ash n.灰；灰烬，灰堆
-ashamed a.惭愧(的)；羞耻(的)
+		ash n.灰；灰烬，灰堆
+	ashamed a.惭愧(的)；羞耻(的)
 ashen a. 灰色的,苍白的
 ashes n. 灰烬
-ashore ad.在岸上，上岸
+	ashore ad.在岸上，上岸
 ashtray n. 烟灰缸
 ashtry n.烟灰
 ashy a. 灰的,覆盖着灰的,苍白的
 Asia n.亚洲
 Asian a.亚洲的 n.亚洲人
 Asiatic  adj. 亚洲的; 亚洲人的
-aside adv.在(到或向)旁边
+		aside adv.在(到或向)旁边
 asinine adj. 愚笨的
-ask v.问
+		ask v.问
 ask...for 询问；向…要
 askance ad. 斜眼看
 askew adj. 歪斜的v. 歪斜，弯曲
 aslant ad. 倾斜地
-asleep a.睡着的，睡熟的
+		asleep a.睡着的，睡熟的
 asp n. 白杨,一种毒蛇
 asparagus n. 芦笋（可作蔬菜）
-aspect n.方面；样子，外表
+		aspect n.方面；样子，外表
 aspen n. 白杨
 asperity n. 粗鲁，艰苦
 asperse 诽谤
@@ -1347,59 +1348,59 @@ asphyxiation n. 窒息
 aspic n. 肉冻
 aspirant n. 有抱负者
 aspiration n. 渴望，热望
-aspire vi. 热望,立志
+	aspire vi. 热望,立志
 aspirin n. 阿斯匹林
 ass n.驴；傻瓜，蠢笨的人
 assail v. 抨击，猛攻
 assailant n. 攻击者
 assassin n. 暗杀者,刺客
-assassinate vt.暗杀，行刺；中伤
+	assassinate vt.暗杀，行刺；中伤
 assassination n. 暗杀
 assassinator n. 暗杀者
-assault vt.袭击；殴打 n.攻击
+	assault vt.袭击；殴打 n.攻击
 assay n. 化验,分析
 assemblage n. 集合,集会,装配
-assemble vt.集合，召集；装配
-assembler n. 汇编程序
-assembly n.集合；集会；装配
+	assemble vt.集合，召集；装配
+		assembler n. 汇编程序
+	assembly n.集合；集会；装配
 assent v. 同意，赞成
-assert vt.断言，宣称；维护
+	assert vt.断言，宣称；维护
 assertion n. 断言,主张
 assertive adj. 言语果断的，断言的
-assess vt.对(财产等)估价
+	assess vt.对(财产等)估价
 assessment n.估定；查定；估计数
 assessor n. 辅佐人,顾问,估税员
-asset n. 财产，可取之处
+	asset n. 财产，可取之处
 assets n. 财产，资产
 asseverate v. 断言
 asseveration n. 断言,誓言
 assiduity n. 勤勉
 assiduous adj. 勤勉的，专心的
 assiduously ad. 勤奋地
-assign vt.指派；分配；指定
+		assign vt.指派；分配；指定
 assign...to 把…分配给
 assigned a. 指定的，赋值的
-assignment n.任务，指定的作业
-assimilate v. 同化，吸收
+		assignment n.任务，指定的作业
+	assimilate v. 同化，吸收
 assimilation n. 同化,同化作用,消化
-assist vt.援助，帮助；搀扶
-assistance n. 协助,援助
-assistant n.助手，助理；助教
+	assist vt.援助，帮助；搀扶
+	assistance n. 协助,援助
+	assistant n.助手，助理；助教
 assistantship n.助手职
 assize n.法令，条令，裁判
-associate vi.交往 n.伙伴，同事
+	associate vi.交往 n.伙伴，同事
 associated adj. 联合的；相联的adv. 副的
-association n.协会，团体；联合
+		association n.协会，团体；联合
 associative adj. 联想的
 assort vt. 分类,配合
 assorted  adj. 各种各样的
 assortment n. 分类,配合,各色俱备之物
 assuage v. 缓和，减轻
-assume vt.假定；承担；呈现
+	assume vt.假定；承担；呈现
 assumed a. 假定的
-assumption n. 假设
-assurance n.保证；财产转让书
-assure vt.使确信；向…保证
+		assumption n. 假设
+	assurance n.保证；财产转让书
+	assure vt.使确信；向…保证
 assured adj. 感到放心的；确实的；自信的，确定的n. 被保险人
 assuredly ad. 确实地,无疑地,确信地
 assyrian a. 亚述人的；n. 亚述人
@@ -1411,7 +1412,7 @@ asthma n. 哮喘症
 astigmatic adj. 散光的，乱视的
 astigmatism n. 散光
 astir a. 活动的,骚动的,起床
-astonish vt.使惊讶
+	astonish vt.使惊讶
 astonished 惊讶的；惊异的
 astonishing a. 可惊异的
 astonishment n.惊奇，惊讶
@@ -1424,10 +1425,10 @@ astrolabe n. 星盘（古代星位观侧仪）
 astrologer n. 占星家
 astrological a. 占星的,占星术的
 astrology n. 占星学，占星术
-astronaut n.宇宙航行员
+	astronaut n.宇宙航行员
 astronomer n. 天文学家
 astronomical a. 天文学的,天文数字的,庞大的
-astronomy n.天文学
+	astronomy n.天文学
 astute adj. 机敏的，精明的
 astuteness n. 机敏,精明
 asunder adv. 分离，化为碎片
@@ -1435,7 +1436,7 @@ aswan n. 阿斯旺(埃及城市)
 asylum n. 避难所，庇护所
 asymmetric adj. 不对称的
 asynchronous a. 异步的，非同步的
-at prep.在
+		at prep.在
 atavism n. 隔代遗传，祖型再现
 ate eat 的过去式；eat(吃)的过去式
 atelier n. 工作室,画室
@@ -1447,16 +1448,16 @@ athenian a. 雅典(人)的；n. 雅典人
 athens n. 雅典(希腊首都)
 atherosclerosis n. 动脉硬化
 athirst a. 渴望的
-athlete n.运动员；田径运动员
+	athlete n.运动员；田径运动员
 athletic a. 运动的
 athletics n. 运动，体育
 athwart ad. 横过地,斜地
 atlanta n. 亚特兰大(美国城市)
 Atlantic adj.大西洋的n.大西洋
 atlas n. 地图集
-atmosphere n.大气；空气；气氛
+	atmosphere n.大气；空气；气氛
 atmospheric a.大气的；大气层的
-atom n.原子
+		atom n.原子
 atomic a.原子的；原子能的
 atomizer n. 喷雾器,香水喷瓶
 atomy n. 微小之物,原子,矮人
@@ -1470,21 +1471,21 @@ atrocious adj. 残忍的，凶恶的
 atrociously ad. 残暴地
 atrocity n. 残暴，暴行
 atrophy n./v. 萎缩，衰退
-attach vt.缚，系，贴；附加
+	attach vt.缚，系，贴；附加
 attache n. 大使随员,大使馆馆员
 attached a. 附加的
 attachment n.连接物，附件；爱慕
-attack vt.&vi.&n.攻击，进攻
-attain vt.达到，获得，完成
+	attack vt.&vi.&n.攻击，进攻
+	attain vt.达到，获得，完成
 attainable a. 可到达的,可得到的
 attainder n. 剥夺公民权
 attainment n. 完成，成就
 attaint vt. 宣告剥夺财产权,损坏,玷污
-attempt vt.尝试，试图 n.企图
-attend vt.出席；照顾，护理
+	attempt vt.尝试，试图 n.企图
+	attend vt.出席；照顾，护理
 attendance n.到场；出席人数
-attendant n.侍者；护理人员
-attention n.注意，留心；注意力
+	attendant n.侍者；护理人员
+		attention n.注意，留心；注意力
 attentive a.注意的；有礼貌的
 attentively adv. 注意地；关心地；聚精会神地
 attenuate v. 变薄，变弱
@@ -1492,46 +1493,46 @@ attest v. 证明
 attestation n. 证明，证实；证据
 attic n. 阁楼，顶楼
 attire v. 穿着，装扮n. 衣服
-attitude n.态度，看法；姿势
-attorney n.代理人；辩护律师
-attract vt.吸引；引起，诱惑
+	attitude n.态度，看法；姿势
+	attorney n.代理人；辩护律师
+		attract vt.吸引；引起，诱惑
 attraction n.吸引；吸引力；引力
-attractive a.有吸引力的
+		attractive a.有吸引力的
 attractively ad. 有吸引力地，诱人地
 attributable a. 可归于...的
-attribute vt.把…归因于 n.属性
+		attribute vt.把…归因于 n.属性
 attribution n. 归属
 attributive adj. 定语的；属性的；n. 定语
 attrition n. 消磨，磨损
 attune v. 使调和，习惯于
 atypical a. 非典型的
 auburn n. 赤褐色
-auction n. 拍卖
+	auction n. 拍卖
 auctioneer n. 拍卖人
 audacious adj. 大胆的，愚勇的
 audacity n. 大胆，鲁莽
 audible a. 听得见的
-audience n.听众，观众，读者
-audio a. 成音频率的,声音的
-audit v. 审计，核对，旁听
+		audience n.听众，观众，读者
+		audio a. 成音频率的,声音的
+		audit v. 审计，核对，旁听
 auditing n.审计；查账；决算
 audition n. (演员等)试唱
 auditor n. 听者,收听者,稽核员
-auditorium n. 观众席；礼堂
+	auditorium n. 观众席；礼堂
 auditory adj. 听觉的
 aug. 八月
 auger n. 螺丝钻，钻孔机
 aught n. 任何事物
-augment v. 增大，增值
+	augment v. 增大，增值
 augmentation n. 增加
 augur n. 占兆官,占卜师,相命者
 augury n. 预言，征兆，占卜
-August n.八月
-aunt n.伯母，婶母，姑母
+		August n.八月
+		aunt n.伯母，婶母，姑母
 auntie n. 对；a. unt的亲热称呼
 aupair a.国外来的(姑娘)帮助料理家务换取住宿的
 aura n. 气味,气氛
-aural a.耳的，听觉的
+	aural a.耳的，听觉的
 aureole n. 光轮,光环
 aureomycin n. 金霉素
 auricle n. 外耳
@@ -1549,14 +1550,14 @@ australian n. 澳大利亚人；澳洲人，adj. 澳大利亚的；澳洲的
 Austria n.奥地利
 austrian adj. 奥地利的；n. 奥地利人
 autarchy 自给自足，闭关自守；n. 独裁；专制
-authentic adj. 真正的，原作的
+	authentic adj. 真正的，原作的
 authenticate v. 证明(某物)为真
 authenticity n. 确实性,真实性
-author n.创造者，创始人
+		author n.创造者，创始人
 authoritarian a. 要求服从权力的；权威主义的；权力主义的；专制的
 authoritative adj. 权威性的，命令式的
 authorities n. 当局，权力，权威
-authority n.当局，官方；权力
+		authority n.当局，官方；权力
 authorization n. 授权，委任状
 authorize v. 授权，批准
 authorized 核准，认可；授权，委托
@@ -1572,23 +1573,23 @@ autoindex n. 自动变址(数)
 automat 自动售货机
 automate vt. 使自动化；v. 自动化
 automated 自动化的
-automatic a.自动的；机械的
+	automatic a.自动的；机械的
 automatically ad. 自动地,机械地
-automation n. 自动，自动化；自动学
+	automation n. 自动，自动化；自动学
 automatism n. 无意识行动(如梦游)
 automaton n. 自动机器,机器人
-automobile n.汽车，机动车
+		automobile n.汽车，机动车
 autonomic adj. 自主的，自发的
 autonomous adj. 自治的；自主的；自发；独立的
 autonomously ad. 独立地
-autonomy n. 自治,自主
+	autonomy n. 自治,自主
 autopsy n. 验尸，解剖
-autumn n.秋，秋季
+		autumn n.秋，秋季
 autumnal a. 秋的,秋天的
-auxiliary a.辅助的；附属的
-avail vt.有益于 n.效用
+	auxiliary a.辅助的；附属的
+		avail vt.有益于 n.效用
 availability n. 有效(性)；可得性；可用性，可供货；可行性，利用率
-available a.可利用的；通用的
+		available a.可利用的；通用的
 avalanche n. 雪崩
 avant-garde n. 先锋派(艺术流派之一)
 avarice n. 贪财，贪婪
@@ -1598,20 +1599,20 @@ avaunt  int. ((古))去! 走开!
 avenge v. 为…复仇，为…报仇
 avenger n. 复仇者
 avenging a. 报复的
-avenue n.林荫道，道路；大街
+	avenue n.林荫道，道路；大街
 aver v. 极力声明，断言
-average n.平均数 a.平均的
+		average n.平均数 a.平均的
 averagely adv. 平均
 averse adj. 厌恶的，反对的
 aversion n. 嫌恶，憎恨
-avert v. 避免,避开
+	avert v. 避免,避开
 aviary n. 大鸟笼，鸟舍
-aviation n.航空，航空学
+	aviation n.航空，航空学
 aviator n. 飞行员
 avid adj. 渴望的，热心的
 avidity n. 热望,贪婪
 avocation n. 副业，嗜好
-avoid vt.避免；回避，躲开
+		avoid vt.避免；回避，躲开
 avoidable a.可避免的
 avoidance n. 避免,避开,逃避
 avoirdupois n. 常衡,体重,重量
@@ -1620,23 +1621,23 @@ avow v. 承认，公开宣称
 avowal n. 公开承认
 avowedly ad. 公然地
 avuncular adj. 伯(叔)父的
-await vt.等候，期待
-awake vt.唤醒 vi.醒
+		await vt.等候，期待
+		awake vt.唤醒 vi.醒
 awaken vt.vi. 唤醒,醒来,唤起
 awakening n. 唤醒,觉醒
-award n.奖，奖品；判定
-aware a.知道的，意识到的
+	award n.奖，奖品；判定
+	aware a.知道的，意识到的
 awareness n. 意识
-away ad.离开，远离；…去
-awe v. 敬畏
+		away ad.离开，远离；…去
+	awe v. 敬畏
 aweary a. 疲倦的
 awe-inspiring adj. 令人敬畏的
 awesome adj. 可怕的
 awe-struck a. 充满敬畏的
-awful a.令人不愉快的
+	awful a.令人不愉快的
 awfully ad.令人畏惧的；很
 awhile ad. 片刻,一会儿
-awkward a.笨拙的；尴尬的
+	awkward a.笨拙的；尴尬的
 awkwardly ad. 局促不安地，笨拙地；a. 笨拙地；棘手地
 awkwardness n.笨拙，困窘
 awl n. （钻皮革的）尖钻
@@ -1644,12 +1645,12 @@ awn n. 芒
 awning n. 雨篷，遮阳篷
 awoke awake的过去式(分词)
 awry adj. 扭曲的，走样的.
-ax n.斧子
-axe 斧头
+	ax n.斧子
+	axe 斧头
 axial a.轴的；轴向的
 axiom n. 公理，定理
 axiomatic adj. 不需证明的，不言自明的
-axis n.轴，轴线；第二颈椎
+	axis n.轴，轴线；第二颈椎
 axle n.(轮)轴，车轴，心棒
 ay n. 赞成票,投赞成票者
 aye n. 赞成票,投赞成票者
@@ -1665,7 +1666,7 @@ babbler n. 爱唠叨的人
 babe n. 小孩,缺乏经验的人
 babel n. 巴别塔
 baboon n. 狒狒
-baby n.一家中年龄最小的人
+		baby n.一家中年龄最小的人
 babyhood n. 婴儿时代,婴儿,幼稚
 Babylon n. 巴比伦,罪恶
 Babylonian a. 巴比伦的,罪恶的
@@ -1673,14 +1674,14 @@ baby-sit vi. 担任临时保姆,照顾婴儿
 baby-sitter n. 看顾小孩的人
 bacchanal n. (行为放纵的)狂欢会
 bacchanalian adj. 饮酒狂欢的；行为放纵的
-bachelor n.未婚男子；学士
+		bachelor n.未婚男子；学士
 bacillus n. 杆状菌,细菌
-back adv.回(原处)；向后
+		back adv.回(原处)；向后
 backbite vt. 背后诽谤
 backbone n. 脊椎,志气,骨干,支柱
 backdate v. 回溯
 backgammon n. 西洋双陆棋戏
-background n.背景，后景，经历
+	background n.背景，后景，经历
 backing n. 衬背,后援,支持者
 backlog n. 未交付的订货；储备积累
 backs 假美钞
@@ -1688,7 +1689,7 @@ backslide vi.n. 堕落,退步,背离宗教
 backspace v. 退格，回退
 backtrack 向下顶替
 backup n. 备份，后备，后援
-backward a.向后的；倒的 ad.倒
+		backward a.向后的；倒的 ad.倒
 backwardation 现货升水；交割延期费
 backwardness n. 落后；落后(状态)
 backwards ad. 向后
@@ -1696,23 +1697,23 @@ backwater n. 回水处，回水；死水
 backwoods n. 未开垦地,边远地区的人
 backwoodsman n. 住在边远地区的人
 back-yard n. 后院
-bacon n.咸猪肉，熏猪肉
-bacteria n.细菌
+	bacon n.咸猪肉，熏猪肉
+	bacteria n.细菌
 bacterial a. 细菌的
 bacteriologist n. 细菌学家
 bacteriology n. 细菌学
 bacterium n. 细菌；拳击迷
-bad a.坏的，恶的；严重的
-badge n.徽章，像章；标志
+		bad a.坏的，恶的；严重的
+	badge n.徽章，像章；标志
 badger v. 一再烦扰，一再要求
-badly adv.坏；恶劣地
-badminton n.羽毛球
+		badly adv.坏；恶劣地
+		badminton n.羽毛球
 bad-mouth 说坏话
 bad-tempered adj. 脾气坏的
 baffing 令人迷惑的
 baffle vt.使挫折 n.迷惑
 baffling adj. 令人困惑的
-bag n.提包，口袋，书包
+		bag n.提包，口袋，书包
 baggage n.行李
 baggy adj. 袋状的
 baghdad n. 巴格达(伊拉克首都)
@@ -7535,7 +7536,7 @@ established adj. 已建立的；既定的，确定的
 establishment n.建立，设立，确立
 estate n.房地产；财产，产业
 esteem n. 尊敬,尊重
-esthetic a. 审美的
+	esthetic a. 审美的
 estimable adj. 值得敬重的，可估计的
 estimate vt.估计，评价 n.估计
 estimation n. 判断,值计,尊重
@@ -7997,7 +7998,7 @@ falchion n. 刀,剑
 falcon n. 猎鹰
 falconer n. 以鹰狩猎者,放鹰者,养鹰者
 falconry n. 放鹰捕猎,养鹰术
-fall n.&vi.落下；跌倒
+	fall n.&vi.落下；跌倒
 fallacious adj. 欺骗的，谬误的
 fallacy n. 谬误，错误
 fallen fall 的过去分词；落下

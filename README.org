@@ -17,4 +17,11 @@
 
 全部单词在文件 =en_cn.txt= 里，最初源自配置 emacs 时一个单词补全插件里的 [[https://github.com/wushuaibuaa/emacscompanywords/blob/master/en_cn.txt][字典文件]]。单词数量是 24681，让我想起红军两万五，因此命名仓库 25000。
 
+学习过程中，按照对单词的熟悉程度，对单词加不同数量的前缀 '\t'。可以用如下命令查找：
+#+begin_src shell
+grep -E '^\t[a-z]' en_cn.txt  # for mac
+grep $'^\t[a-z]' en_cn.txt # for linux
+#+end_src
 
+
+- 2022-09-11	   24020	     175	     231	       0	       0
