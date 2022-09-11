@@ -1503,7 +1503,7 @@ attribute vt.把…归因于 n.属性
 attribution n. 归属
 attributive adj. 定语的；属性的；n. 定语
 attrition n. 消磨，磨损
-attune "to	v. 使调和，习惯于"
+attune v. 使调和，习惯于
 atypical a. 非典型的
 auburn n. 赤褐色
 auction n. 拍卖
@@ -4339,12 +4339,12 @@ condiments n. 调味品
 condition n.条件；状况
 conditional a. 有条件的,假定的
 conditioned a.受某种情况限制
-condole "with	v. 向…吊慰"
+condole with v. 向…吊慰"
 condolence n. 吊唁，哀悼
 condominium n.共
 condone vt. 赦,宽恕
 condor n. 秃鹰
-conduce "to	v. 引起，有助于"
+conduce to v. 引起，有助于
 conducive adj. 有助于…的
 conduct n.举止，行为；指导
 conducter 售票员
@@ -8291,7 +8291,8 @@ filch v. 偷（不贵重的东西）
 file n.档案 vt.把…归档
 filename n. 文件名
 filet n. (网格状的) 花边
-filial "piety	n. 孝心"
+filial adj. 子女对父母的
+filial piety n. 孝心
 filibuster v. & n. 妨碍议事，阻挠
 filigree n. 金银丝做的工艺品
 filing n. 档案管理；(文件的)整理汇集
@@ -10839,7 +10840,8 @@ imbecility n. 低能，愚蠢
 imbibe v. 饮，吸入
 imbroglio n. 纠纷，纠葛
 imbrue vt. 涂,弄脏,染
-imbue "with	v. 灌输（某人）强烈的情感或意见"
+imbue vt. 使充满，灌输，激发(强烈感情、想法或价值)
+imbue with v. 灌输
 imitate vt.模仿，仿效；仿制
 imitation n.仿制品，伪制物
 imitative a. 喜模仿的,伪造的,摹拟的
@@ -11018,7 +11020,8 @@ impunity n. 免除惩罚
 impure a. 不纯的,肮脏的,掺杂的,混合的
 impurity n.不纯；杂质；不道德
 imputation n. 归咎，归罪
-impute "to	v. 归咎于"
+impute v. 归咎(于); 归罪(于); 归因(于)
+impute to v. 归咎于
 in prep.在...里面
 in...way 以…方式
 inability n. 无能,无力
