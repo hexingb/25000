@@ -1714,42 +1714,42 @@ baffing 令人迷惑的
 baffle vt.使挫折 n.迷惑
 baffling adj. 令人困惑的
 		bag n.提包，口袋，书包
-baggage n.行李
+	baggage n.行李
 baggy adj. 袋状的
 baghdad n. 巴格达(伊拉克首都)
 bagman 行商，推销员
 bagpipe n. 风笛
 bah int. 呸!
-bail n. 保释,把手,栅栏,桶箍
+	bail n. 保释,把手,栅栏,桶箍
 bailee 受托人
 bailer 委托人
 bailiff n. 执行官,法庭监守,镇长
 bailment 财物委托
 bairn n. 小孩
-bait n.饵；引诱物
+	bait n.饵；引诱物
 baize n. 厚羊毛毯,粗呢
-bake vt.烤，烘，焙；烧硬
+	bake vt.烤，烘，焙；烧硬
 baker n. 面包师
 bakery n. 面包店
 baking n. & a. 烘烤(的)
-balance vt.使平衡；称 n.天平
+		balance vt.使平衡；称 n.天平
 balanced a. 均衡的
-balcony n.阳台；楼厅，楼座
-bald a.秃头的；无毛的
+	balcony n.阳台；楼厅，楼座
+	bald a.秃头的；无毛的
 baldric n. 佩饰,肩带
 bale n. 大包裹，灾祸，不幸
 baleen n. 鲸须
 baleful adj. 邪恶的，恶意的
 balk v. 阻止，妨碍
-ball n.球
+		ball n.球
 ballad n. 歌谣，小曲
 ballast n. (船等)压舱物
 ballerina n. 芭蕾舞女演员
-ballet n.芭蕾舞；舞剧
-balloon n.气球
+	ballet n.芭蕾舞；舞剧
+		balloon n.气球
 balloon-borne a. 气球运载的
 ballooning n. 热气球飞行运动；股票上涨，非法操纵价格
-ballot n. 投票,投票用纸,抽签
+	ballot n. 投票,投票用纸,抽签
 ball-pen n. 圆珠笔
 ballroom n. 大舞厅
 ball-shaped a. 球形的
@@ -1764,33 +1764,33 @@ baltimore n. 巴尔的摩(美国城市)
 balustrade n. 栏杆
 bamboo n.竹；竹杆，竹棍
 bamboo-shoot n. 竹笋
-ban n. 禁令
+		ban n. 禁令
 banal adj. 陈腐的
 banality n. 陈腐，平庸
-banana n.香蕉
-band n.乐队；带；波段
-bandage n.绷带，包带
+		banana n.香蕉
+	band n.乐队；带；波段
+	bandage n.绷带，包带
 bandanna n. 印花大手帕
 bandbook n. 手册，指南
 bandit n.土匪，盗匪，歹徒
 bandy a. 向外弯曲的
 bane n. 祸根
 baneful adj. 有害的，致祸的
-bang n.巨响，枪声；猛击
+	bang n.巨响，枪声；猛击
 banish v. 放逐，摒弃
 banishment n. 放逐,驱逐
 banister n. (楼梯的)栏杆
 banjo n. 班卓琴
-bank n.银行；库；岩，堤
+		bank n.银行；库；岩，堤
 bank-book 银行存折
 banker n.银行家
 banking n. 银行业
 banknote n. 纸币；钞票
-bankrupt a.破产的 vt.使破产
+		bankrupt a.破产的 vt.使破产
 bankruptcy n. 破产
-banner n.旗；旗帜
+		banner n.旗；旗帜
 bannock n. 一种薄饼
-banquet n.宴会，盛会，酒席
+	banquet n.宴会，盛会，酒席
 bantam n. 矮脚鸡
 banter n./v. 嘲弄，戏谑
 bantering adj. 嘲弄的
@@ -1799,31 +1799,31 @@ baptismal a. 洗礼的
 Baptist n. 施洗者约翰,施洗者,浸信会教友
 baptistery n.洗礼所 
 baptize vt. 施洗礼,提炼,命名
-bar n.酒吧间；条，杆；栅
+		bar n.酒吧间；条，杆；栅
 barb n. （鱼钩的）倒钩
 barbarian n. 野蛮人
 barbaric a. 野蛮的,粗野的
 barbarism n. 野蛮,未开化
 barbarity n. 残忍，残暴
 barbarous adj. 野蛮的，残暴的
-barbecue n. 烤肉架，烤肉
+	barbecue n. 烤肉架，烤肉
 barbed adj. 有倒钩的，讽剌的
-barber n.理发师
+	barber n.理发师
 barberry n. 伏牛花,伏牛花子
 barcelona 巴塞罗纳(西班牙城市)
 bard n. 古代的游吟诗人，护马甲
-bare a.赤裸的；仅仅的
+	bare a.赤裸的；仅仅的
 barefoot adv.&adj.赤脚(的)
 barefooted ad. & a. 赤脚(的)
 bareheaded a. 不戴帽子的
-barely ad.仅仅，勉强
+		barely ad.仅仅，勉强
 bareness n. 赤裸,裸露
-bargain n.交易 vi.议价；成交
+	bargain n.交易 vi.议价；成交
 barge n.驳船；大型游船
 bargemaster n. 驳船主
-bark vi.吠叫
+	bark n. 树皮；深青棕色；毛皮；皮肤；狗叫；vi.吠叫
 barley n.大麦
-barn n.谷仓；牲口棚
+	barn n.谷仓；牲口棚
 barnacle n. 一种北极鹅,藤壶
 barnyard n. 仓前，空前
 barograph n. 自动记录式气压计
@@ -1837,14 +1837,14 @@ baroque n./adj. (艺术、建筑等)高度装饰的，过份雕琢的
 barrack n. 兵营；vt. 使驻兵营内
 barracks n. 兵营
 barrage n. 火力网，弹幕
-barrel n.桶；圆筒；枪管
+	barrel n.桶；圆筒；枪管
 barrels 大桶
 barrel-shaped adj. 筒状的
-barren a.贫瘠的；不妊的
+	barren a.贫瘠的；不妊的
 barrenness n. 不妊；不毛；无趣味
 barrette n. 夹子的一种
 barricade  n. 障碍物；栅栏 v. 设栅阻挡
-barrier n.栅栏，屏障；障碍
+	barrier n.栅栏，屏障；障碍
 barrio n. 大城市郊外
 barrister n. 法庭律师,律师
 barrow n. 搬运架,手推车,古墓
@@ -1853,22 +1853,22 @@ barterer n. 交易商
 barton n. (庄园中的)农场
 basal a. 基础的,基本的
 basalt n. 玄武岩
-base n.基础；基地，根据地
-baseball n.棒球；棒球运动
+		base n.基础；基地，根据地
+		baseball n.棒球；棒球运动
 baseless a. 无根据的
-basement n.地下室；地窖；底层
+		basement n.地下室；地窖；底层
 bashful adj. 害羞的，羞怯的
 bashfulness n.羞怯
-basic a.基本的，基础的
+		basic a.基本的，基础的
 basically  adv. 基本上，主要地；事实上；基本地
 basil n. 罗勒
 basilica n. 长方形会堂,长方形教堂
 basilisk n. 蛇怪
-basin n.水盆，面盆
-basis n.基础，根据
+	basin n.水盆，面盆
+	basis n.基础，根据
 bask v. 晒太阳，取暖
-basket n.篮，篓，筐
-basketball n.篮球；篮球运动
+		basket n.篮，篓，筐
+		basketball n.篮球；篮球运动
 basket-work n. 枝条编织物
 bass n. 低音乐器；男低音
 bassanio n. 巴萨尼奥(男名)
@@ -1879,24 +1879,24 @@ bast n. 树的内皮,韧皮
 bastard n. 私生子,劣货,庶子
 baste v. 倒脂油于(烤肉上，以防烤干)
 bastion n. 棱堡,阵地工事
-bat n.蝙蝠
-batch n. 一批，大量
+		bat n.蝙蝠
+		batch n. 一批，大量
 bate v. 减少，降低，衰落
-bath n.浴，洗澡；浴缸
-bathe vt.给…洗澡；弄湿
+		bath n.浴，洗澡；浴缸
+		bathe vt.给…洗澡；弄湿
 bath-house n. 澡堂
 bathrobe n. 浴衣
 bathrom n.浴室；盥洗室
-bathroom n.浴室；盥洗室
+		bathroom n.浴室；盥洗室
 bathtub n. 浴缸
 batiste n. 薄织的麻布
 baton n. 指挥棒，警棍
 battalion n. 营,军队,集团
 batten n. 板条,木条
 batter n. 内倾,击球手
-battery n.炮兵连；兵器群
+		battery n.电池；炮兵连；兵器群
 batting n. 打球,打击,棉絮
-battle vi.战斗 vt.与…作战
+		battle vi.战斗 vt.与…作战
 battle-ax n. 战斧
 battle-axe n. 战斧
 battledore n. 羽毛球拍
@@ -1909,33 +1909,33 @@ baulk n. 障碍,错误,失败
 bauxite n. 铝土岩(产铝的矿土，石)
 bawdy adj. 淫猥的、下流的
 bawl v. 大叫，大喊
-bay n.海湾
+	bay n.海湾
 bayberry n. 月桂树的果实
 bayonet n.(枪上的)刺刀
 bayou n. 海湾,支流,河口
 bazaar n. 集市，廉价商店；商店集中区
 b-complex 复合维生素b
-be aux.v.&vi.是，在，做
-beach n.海滩，湖滩，河滩
+		be aux.v.&vi.是，在，做
+		beach n.海滩，湖滩，河滩
 beacon n. 信号灯，闪光灯
 bead n.有孔小珠；露珠
 beading n. 珠或制珠的材料
 beagle n. 小猎犬,间谍,侦探
 beak n. 鸟嘴
 beaker n. 大酒杯，有倒口的烧杯
-beam n.梁；横梁；束，柱
+	beam n.梁；横梁；束，柱
 beaming a. 笑吟吟的
-bean n.豆，蚕豆
+	bean n.豆，蚕豆
 beanstalk n. 豆茎
-bear n.熊；粗鲁的人
-beard n.胡须，络腮胡子
+		bear n.熊；粗鲁的人
+		beard n.胡须，络腮胡子
 beardless a. 无须的,年轻的
 bearer n. 搬运者
-bearing n.支承；忍受；方位
+		bearing n.支承；忍受；方位
 bearish adj. 熊市的；卖空的，行情看跌的
-beast n.兽，野兽；牲畜
+		beast n.兽，野兽；牲畜
 beastly a. 如兽的,残忍的,令人不愉快的
-beat vt.&vi.打，敲；打败
+		beat vt.&vi.打，敲；打败
 beaten a. 被打败了的,筋疲力竭的,敲平的,
 beater n. 搅拌器
 beatific adj. 祝福的，有福的
@@ -1946,19 +1946,19 @@ beau n. 花花公子，好打扮者
 beauteous a. 美丽的
 beautician n.美容师
 beautifier n. 美化者
-beautiful a.美的，美丽的
+		beautiful a.美的，美丽的
 beautifully ad. 美丽地；优美地
 beautify vt. 美化,变美,修饰
-beauty n.美；美人
+		beauty n.美；美人
 beaver n. 海狸
 becalm vt. 使安静,因无风而使停航
 became  become(变得，成为)的过去式
-because conj.因为
+		because conj.因为
 beck n. 点头示意,招手,小河
 beckon vt.vi. 招手,召唤
-become vi.变成；成为，变得
+		become vi.变成；成为，变得
 becoming a. 合适的,适当的
-bed n.床
+		bed n.床
 bedaub v. 弄污，乱涂，过分的装饰
 bedclothes n. 铺盖,床单被褥类
 bedding n. 被褥,寝具,基础,床上用品
@@ -1981,16 +1981,16 @@ bed-sit n.卧室兼起居室
 bedspread n. 床单,床罩
 bedstead n. 床架
 bedtime n.就寝时间
-bee n.蜜蜂
+		bee n.蜜蜂
 beech n. 山毛榉,其木材
 beechen a. 山毛榉制的
-beef n.牛肉
+		beef n.牛肉
 beefsteak n. 牛排
 beekeeper n. 养蜂人
 been vi. be(是；在)的过去分词
 beep n. 蜂鸣声，嘀嘀声
 beeper n.给无人驾驶飞机发送信号的装
-beer n.啤酒
+		beer n.啤酒
 beeswax n. 蜂蜡,蜜蜡
 beet n. 甜菜
 beethoven 贝多芬(德国大作曲家)
@@ -2001,19 +2001,19 @@ befall vt. 降临到…(指坏事)；发表(于)
 befallen befall的过去分词
 befell befall的过去式
 befit vt. 适合,适宜,合适
-before prep.在…以前；向…
+		before prep.在…以前；向…
 beforehand ad.预先；提前地
 befriend vt. 待人如友,帮助
 befuddle 使昏乱
-beg vt.&vi.请求，乞求
-began begin的过去式；开始
+		beg vt.&vi.请求，乞求
+		began begin的过去式；开始
 beget v. 产生，引起
 beggar n.乞丐，穷人
 beggarly a. 象乞丐的,赤贫的
 beggary n. 赤贫
-begin vi.开始 vt.开始
+		begin vi.开始 vt.开始
 beginner n.初学者，生手
-beginning n.开始，开端；起源
+		beginning n.开始，开端；起源
 begirt  v. begird 的过去式.过去分词
 begone vi. 走开
 begonia n. 秋海棠属的植物,秋海棠
@@ -2023,15 +2023,15 @@ begrudge v.羡慕，嫉妒； 吝啬，勉强给
 beguile v. 欺骗，诱骗
 beguiling adj. 欺骗的，迷人的
 begun begin 的过去分词；开始
-behalf n.利益，维护，支持
-behave vi.表现，举止；运转
-behavior n.行为，举止，态度
-behaviour n. 行为，举止；表现，(机器等的)运转达情况
+		behalf n.利益，维护，支持
+		behave vi.表现，举止；运转
+		behavior n.行为，举止，态度
+		behaviour n. 行为，举止；表现，(机器等的)运转达情况
 behead vt. 斩首,砍头
 beheld behold的过去式(分词)
 behemoth n.巨兽
 behest n. 命令，训喻
-behind prep.在…后面
+		behind prep.在…后面
 behindhand a. 迟的,落后的
 behold v. 目睹，看见
 beholden a. 负有义务的,有所亏欠的
@@ -2041,7 +2041,7 @@ behoove v. 理应；有益于
 behove vt. 理应,应该
 behrman 贝尔曼(人名)
 beijing n. 北京
-being n.存在；生物；生命
+		being n.存在；生物；生命
 beings n. 人
 belabor vt. 痛打
 belabour v. （过份冗长地）做或说，痛打 -> belabor
@@ -2054,12 +2054,12 @@ belgian  n. 比利时人； a. 比利时的，比利时人的
 belgium  n. 比利时(欧洲)
 beliaiev 别利亚耶夫
 belie v. 掩饰，证明为假
-belief n.相信；信念；信仰
-believe vt.相信；认为
+		belief n.相信；信念；信仰
+		believe vt.相信；认为
 believer n. 信徒
 belike ad. 恐怕,或许
 belittle v. 轻视，贬抑
-bell n.铃，钟
+		bell n.铃，钟
 belladonna n. 颠茄
 belle n. 靓女
 bellicose adj. 好战的，好斗的
@@ -2068,18 +2068,18 @@ bellman 为客人提行李的男服务员
 bellow vi.vt. 怒吼
 bellows n.风箱；减压舱
 bell-shaped a. 铃状的
-belly n. 腹部,食欲
-belong vi.属于，附属
+	belly n. 腹部,食欲
+		belong vi.属于，附属
 belongings n. 所有物，财产
-beloved a.为…的爱的 n.爱人
-below adv.在下面；向下
-belt n.带，腰带；皮带；区
+	beloved a.为…的爱的 n.爱人
+		below adv.在下面；向下
+	belt n.带，腰带；皮带；区
 bemoan vt. 惋惜,认为遗憾,哀叹
 ben n. (苏格兰)内室
-bench n.长凳
+	bench n.长凳
 bencher n. 坐凳子的人,法学院的老资格,
-bend vt.使弯曲 vi.弯曲
-beneath prep.在…下方
+	bend vt.使弯曲 vi.弯曲
+		beneath prep.在…下方
 benedicite n.『基督教』万物颂
 Benedictine n. 圣本铎修会的僧,一种甜酒
 benediction n. 祝福，祈祷
@@ -2089,15 +2089,15 @@ benefactress n. 女施主,女恩人
 benefice n. 僧侣之禄,圣俸,有俸圣职
 beneficence n. 仁慈,善行,赠物
 beneficent a. 仁慈的,慈善的,善行的
-beneficial a.有利的，有益的
+	beneficial a.有利的，有益的
 beneficiary n. 受惠者，（遗产的）受益人
-benefit n.利益；恩惠；津贴
+		benefit n.利益；恩惠；津贴
 benevolence n. 善心，仁心
 benevolent adj. 慈善的，好意的
 benficial a.有益的，有利的
 bengal n. 孟加拉(亚洲)
 benighted adj. 愚昧的
-benign adj. 慈祥的
+	benign adj. 慈祥的
 benignant a. 仁慈的,和蔼的,有益的
 benignity n. 温和，仁慈
 benison n. 祝福,祝祷
@@ -2124,8 +2124,8 @@ beseech v. 祈求，恳求
 beseem vt.vi. 适合于
 beset vt. 围攻,使苦恼,镶嵌
 beshrew v. 诅咒
-beside prep.在…旁边
-besides prep.除...之外
+		beside prep.在…旁边
+		besides prep.除...之外
 besiege v. 围攻，困扰
 besieger n. 围攻者,围攻军
 besmear vt. 涂,弄脏
@@ -2134,12 +2134,12 @@ besought beseech过去式(分词)
 bespangle vt. 以小亮片装饰
 bespeak v. 显示，表示
 besprent a. 撒满的
-best adj. 最好的；最大的； adv. 最好地；最好；最佳；最好的人(东西等)；最，极；vt. 打败，战胜
+		best adj. 最好的；最大的； adv. 最好地；最好；最佳；最好的人(东西等)；最，极；vt. 打败，战胜
 bestial a. 似野兽的,残忍的,卑劣的
 bestow vt.把…赠与
 bestride vt. 跨骑,跨坐,跨过,控制
 best-selling adj. 畅销的
-bet vt.&vi.&n.打赌
+	bet vt.&vi.&n.打赌
 beta 希腊文的第二个字母β
 betake vt. 去,赴,致力于,使用
 bethel n. 圣地,礼拜堂,非国教徒的礼拜堂
@@ -2148,42 +2148,42 @@ bethune n. 白求恩
 betide vt. 发生于
 betimes ad. 早,及时,及早
 betoken vt. 预示
-betray vt.背叛；辜负；泄漏
+		betray vt.背叛；辜负；泄漏
 betrayal n. 背叛,叛国
 betroth vt. 订婚,许配
 betrothal n. 婚约
-better adj.较好的，(健康状况)好转的；更好的；adv. 更好地；较佳的；更多地；改进；较好；好些，更好些
+		better adj.较好的，(健康状况)好转的；更好的；adv. 更好地；较佳的；更多地；改进；较好；好些，更好些
 betterment n. 改进,改善,涨价
 better-off adj. 经济情况较好的
 better-trained adj. 受过较好训练的
 betty 贝蒂(女名)
-between prep.在…中间
+		between prep.在…中间
 bevel n. 斜角,倾斜,斜角规
-beverage n. （水，酒等之外的）饮料
+	beverage n. （水，酒等之外的）饮料
 bevy n. 一群（少女或鸟）
 bewail vt.vi. 悲悼,哀泣,叹惜
-beware vt.&vi.谨防，当心
-bewilder vt.迷惑；弄糊涂
+		beware vt.&vi.谨防，当心
+	bewilder vt.迷惑；弄糊涂
 bewildering  adj. 令人无所适从的；使迷惑，使糊涂
 bewilderment n. 困惑,迷乱
 bewitch vt. 施魔法于,迷惑,使着迷
 bewray v. 泄露，暴露
 bey n. 州长,在土耳其对于要人的尊称,
-beyond prep.在…的那边
+		beyond prep.在…的那边
 biannual 一年两次的，半年一次的
-bias n. 偏见,斜线
+	bias n. 偏见,斜线
 bib n. 围兜
-Bible n.基督教《圣经》
+		Bible n.基督教《圣经》
 biblical a. 圣经的
-bibliography n. 文献学，
+	bibliography n. 文献学，
 bibulous adj. 高度吸收的，嗜酒的
 bicameral a. 两院制的,有两个议院的
 bicarbonate n. 重碳酸盐
 biceps n. 双头肌,筋力,强健的筋肉
 bicker n./v. 争吵，口角
 biculturalism a.双文化(生存或适应)能力
-bicycle n.脚踏车，自行车
-bid vt.命令 vi.报价
+		bicycle n.脚踏车，自行车
+	bid vt.命令 vi.报价
 bidder 报价人，投标人
 bidding n. 命令,邀请,出价
 bide  vt. 等待 (wait)
@@ -2191,7 +2191,7 @@ biennial n. 二年生植物,二年一次的事
 bier n. 棺材
 bifurcate v. 分为二支，分叉
 bifurcated adj. 分为两部分
-big adj.大的
+		big adj.大的
 bigamy n. 重婚,重婚罪
 bigger adj. 大一些的
 bight n. 海湾,绳圈
@@ -2199,7 +2199,7 @@ bigness n. 大,伟大,重大
 bigot n. （宗教，政治等的）盲信者，顽固者
 bigoted a. 固执己见的,执迷的,顽固的
 bigotry n. 顽固，偏狭
-bike n.自行车
+		bike n.自行车
 bilateral a. 有两面的,双边的,双方的
 bile n. 胆汁
 bilge v. 鼓账，突出，（船底）穿洞
@@ -2207,18 +2207,18 @@ biliary a. 胆的；胆汁的
 bilingual adj. (能说)两种语言的
 bilingualism n.熟谙两种语言(的能力)
 bilious adj. 多胆汁的，坏脾气的
-bill n.账单；招贴；票据
+		bill n.账单；招贴；票据
 billboard n. 布告板,揭示栏,广告牌
 billet n. 兵舍,军营,木柴块
 billiards n. 台球
 billingsgate n. 伦敦的鱼市场,粗暴话,骂人话
-billion num.万亿(英)
+		billion num.万亿(英)
 billionth num. 第一万亿
 billow n. 巨浪
 billowy a. 巨浪似的,汹涌的
-bin n. 箱柜
+		bin n. 箱柜
 binary a. 二进位的,二元的
-bind vt.捆，绑
+	bind vt.捆，绑
 binder n. 缚者,用以绑缚之物,夹器
 binding a. 有约束力的；捆绑的；n. 装订； 捆绑(物)
 bine n. 茎
@@ -2230,36 +2230,36 @@ biodegradable a. 能被生物分解成无害物的
 bio-engineered a.通过生物工程加工的
 biographer n. 传记作者
 biographical a. 传记(体)的
-biography n. 传记；志
+	biography n. 传记；志
 biological a. 生物的
 biologist n. 生物学家
-biology n.生物学；生态学
+		biology n.生物学；生态学
 bios n. 基本输入/输出系统
 biosphere n. 生命层，生物圈
 biotechnology n.生物技术
 birch n. 桦树，赤杨
-bird n.鸟，禽
+		bird n.鸟，禽
 birdcage n. 鸟笼
 birdie n. (儿语)小鸟
 birds n. 家禽
 birmingham n. 伯明翰(英国城市)
-birth n.分娩；诞生；出身
-birthday n.生日
+		birth n.分娩；诞生；出身
+		birthday n.生日
 birthplace n. 诞生地
 birthright n. 与生俱来的权力
-biscuit n.(英)饼干；(美)软饼
+	biscuit n.(英)饼干；(美)软饼
 bisect vt.vi. 切成两分,对分
 bishop n.(基督教的)主教
 bishopric n. 主教的职位,主教的辖区
 bismuth n. 铋
 bison n. 野牛
-bit n.一点，一些
+		bit n.一点，一些
 bitch n. 母狗,母狼,母狐
-bite vt.咬，叮，螫；剌穿
+		bite vt.咬，叮，螫；剌穿
 biting a. 刺痛的,辛辣的
 bits n. 小片，少许
 bitten bite的过去分词
-bitter a.痛苦的；严寒的
+	bitter a.痛苦的；严寒的
 bitterly ad.苦苦地；悲痛地
 bittern n. 鹭鸶,盐卤
 bitterness n.苦味，辛酸，苦难
@@ -2268,13 +2268,13 @@ bituminous a. (含)沥青的
 bivalve n. 双壳贝
 bivouac n. 露营，露宿
 biz (美)商业(新闻组)
-bizarre adj. 奇异的，古怪的
+	bizarre adj. 奇异的，古怪的
 blab v. 泄密
-black adj.黑色的
+		black adj.黑色的
 blackamoor n. 黑人,皮肤黑的人
 blackberry n. 黑莓,悬钩子
 blackbird n. 山鸟类
-blackboard n.黑板
+		blackboard n.黑板
 blacken vt. 使变黑,诽谤
 blackened a. 熏黑了的，抹黑了的
 blackguard n. 无赖,流氓
@@ -2285,15 +2285,15 @@ blackout n. 灯光转暗，变黑，灯火管制，一时的眩晕
 Blackpool (英国城市名)黑潭
 blacksmith n.铁匠
 bladder n. 膀胱
-blade n.刀刃，刀片；叶片
-blame vt.责备，把…归咎于
+		blade n.刀刃，刀片；叶片
+		blame vt.责备，把…归咎于
 blameless a. 无可责难的,无过失的,清白的
 blanch v. 使变白，（脸色）变苍的
 bland adj. （人）情绪平稳的，（食物）无味的
 blandishment n. 甜言蜜语,谄媚,奉承
 blandishments n. 甘言劝诱
-blank a.空白的 n.空白
-blanket n.毛毯，毯子，羊毛毯
+		blank a.空白的 n.空白
+	blanket n.毛毯，毯子，羊毛毯
 blanknote 空白支票
 blare v. 高声鸣叫
 blarney n. 奉承话，谄媚
@@ -2301,22 +2301,22 @@ blase adj. 对享乐感到厌倦的，无动于衷的
 blaspheme vt.vi. 亵渎
 blasphemous adj. 对神不敬的
 blasphemy n. 亵渎，渎神
-blast n.管乐器的声音
+	blast n.管乐器的声音
 blatant adj. 喧哗的，无耻的
-blaze vt.使燃烧 vi.燃烧
+	blaze vt.使燃烧 vi.燃烧
 blazon vt. 以家徽装饰,宣布
 blckage n.阻塞，堵
 bleach vt.漂白 vi.变白
 bleachers n. （球场的）露天座位
-bleak a. 荒凉的
+	bleak a. 荒凉的
 blear a. 朦胧的,模糊的
 bleat n. 羊的鸣声
-bleed vi.出血，流血；泌脂
+	bleed vi.出血，流血；泌脂
 bleeding a. 流血的
 blemish v. 损害，玷污n. 瑕疵，缺点
 blench v. 退缩，畏缩，回避，使变白
-blend vt.&vi.&n.混和
-bless vt.保佑；降福
+	blend vt.&vi.&n.混和
+		bless vt.保佑；降福
 blessed a. 享福的；神圣的
 blessedness n. 幸福
 blessing n. 祝福
@@ -2324,7 +2324,7 @@ blest bless的过去式(分词)
 blew blow的过去式；吹
 blight n. 植物枯萎病v. 使…枯萎
 blighted adj. 毁灭的
-blind n.百叶窗；窗帘；遮帘
+		blind n.百叶窗；窗帘；遮帘
 blindfold n. 眼罩,障眼物
 blindly ad. 盲目地；没头脑地；轻率地
 blindness n. 盲目,失明,愚昧
@@ -2340,7 +2340,7 @@ blizzard n. 暴风雪
 bloat vt. 使膨胀,腌制
 bloated adj. 发胀的；肿胀的
 bloc 集团
-block n.阻塞；障碍物；炮闩
+		block n.阻塞；障碍物；炮闩
 blockade n./v. 封锁
 blockage n. 封锁；障碍
 blockhead n. 笨蛋,傻子
@@ -2348,7 +2348,7 @@ blockhouse n. 碉堡,防舍
 blocky adj. 短而粗的，浓淡不匀的
 blond n.白肤金发碧眼的人
 blonde a. n. 金发碧眼的（女子）
-blood n.血
+		blood n.血
 blooded 血的
 bloodhound n. 侦探犬
 bloodless a. 无血色的,不流血的,没精神的
@@ -2357,17 +2357,17 @@ bloodshot a. 充血的
 bloodstream n. 血流
 bloodsucker n. 吸血动物,水蛭,剥削他人者
 bloodthirsty a. 嗜杀的,残忍的
-bloody a. 血腥的,嗜杀的,非常的,有血的
-bloom vi.开花 n.花；开花
+		bloody a. 血腥的,嗜杀的,非常的,有血的
+	bloom vi.开花 n.花；开花
 bloomer n.开花的植物
 bloomers n. 灯笼裤
 blooming a. 正开花的；妙龄的
-blossom n.花，开花 vi.开花
+	blossom n.花，开花 vi.开花
 blot n. 污点,墨水渍
 blotch n. （皮肤上的）红斑点，（墨水等）斑点
 blotter n. 吸墨纸,记事簿
-blouse n.女衬衫；童衫；罩衫
-blow vt.&vi.吹
+	blouse n.女衬衫；童衫；罩衫
+		blow vt.&vi.吹
 blowhard n. 自吹自擂者
 blowhole n. (海豚等)鼻孔
 blown 吹
@@ -2375,7 +2375,7 @@ blowpipe n. 吹风管
 blowtorch n. 吹管
 blubber n. 鲸脂,哭泣
 bludgeon n. 大头棒
-blue adj. 蓝色的；伤心的；下流的；忧郁的；沮丧的，脸色发灰的n. 青色；蓝色
+		blue adj. 蓝色的；伤心的；下流的；忧郁的；沮丧的，脸色发灰的n. 青色；蓝色
 blueberry n. 越橘的一种
 bluebird n. 知更鸟
 bluebottle n. 绿头苍蝇
@@ -2383,27 +2383,27 @@ bluefish n. 竹荚鱼之类
 blues n.布鲁斯乐曲 a.(非正式)伤感的
 bluff n. 断崖,绝壁,吓唬
 bluish a. 带蓝色的
-blunder vi.犯大错 n.大错
+	blunder vi.犯大错 n.大错
 blunderbuss n. 老式的大口径短炮,蠢材
-blunt a. 钝的,坦率的,麻痹的
+	blunt a. 钝的,坦率的,麻痹的
 bluntly ad. 钝，迟钝地；直率地
 bluntness n. 钝,率直,迟钝
-blur n. 模糊不清的事物v. 使…模糊
+	blur n. 模糊不清的事物v. 使…模糊
 blurred a. 模糊的
 blurring n. 模糊
 blurry adj. 视力模糊的
 blurt vt. 冲口说出,突然说出
-blush vi.脸红，害臊 n.脸红
+	blush vi.脸红，害臊 n.脸红
 blushy adj. 害羞的
 bluster vt. 风狂吹,咆哮,汹涌
 boa n. 蟒蛇,女用毛皮,羽毛围巾
 boar n. 公猪,野猪
-board n.木板；板
+		board n.木板；板
 boarder n. 寄膳者,寄膳宿者
 boarding n. 伙食
-boast vi.自夸 vt.吹嘘
+	boast vi.自夸 vt.吹嘘
 boastful a. 自夸的,自负,喜夸耀的
-boat n.小船，艇；渔船
+		boat n.小船，艇；渔船
 boathook n. 有钩的篙子
 boathouse n. 船库,艇库
 boating n. 划船(游玩)
@@ -2420,19 +2420,19 @@ bodice n. 女服的紧身衣
 bodiless a. 无体的,无形的
 bodily a. 身体的
 bodkin n. 大眼粗针,锥子
-body n.身体；主体；尸体
+		body n.身体；主体；尸体
 bodyguard n. 保镖，侍卫
 bog n. 沼泽
 boggle v. 畏缩不前，不敢想像
 boggy a. 似沼泽的
 bogus adj. 假装的，假的
-boil vi.沸腾；汽化vt.煮沸
+		boil vi.沸腾；汽化vt.煮沸
 boiled 煮开的
 boiler n.锅炉；热水贮槽
 boiling  adj. 沸腾的
 boiling-point n. 沸点
 boisterous adj. 喧闹的，欢闹的
-bold a.大胆的；冒失的
+		bold a.大胆的；冒失的
 boldly ad. 大胆地，勇敢地；醒目地
 boldness n. 大胆,勇敢,冒失
 bole n. 树干
@@ -2440,10 +2440,10 @@ bolivia n. 玻利维亚(拉丁美洲)
 boll n. 圆荚
 Bolshevik n. 布尔什维克,激进分子
 Bolshevism n. 布尔什维克的政策,思想,激进论
-bolster n. 枕垫v. 支持，鼓励
-bolt n.螺栓；插销 vt.闩门
+	bolster n. 枕垫v. 支持，鼓励
+	bolt n.螺栓；插销 vt.闩门
 bolted adj. 脱离的
-bomb n. 炸弹；突发事件；高压喷雾器； vt. 投弹，轰炸；投弹于
+		bomb n. 炸弹；突发事件；高压喷雾器； vt. 投弹，轰炸；投弹于
 bombard vt. 不断攻击；炮击
 bombardment n. 炮击
 bombast n. 高调，夸大之辞
@@ -2453,21 +2453,21 @@ bomber n. 轰炸机；投弹手；
 bombshell n. 炸弹,突发而惊人的事物
 bonanza n. 走运，发财
 bonbon n. 小糖果
-bond n.联结，联系；公债
+	bond n.联结，联系；公债
 bondage n. 奴役,束缚
 bonded adj. 保税的；有担保的
 bondman n. 奴隶
 bondwoman n. 女奴隶
-bone n.骨，骨骼
+	bone n.骨，骨骼
 bonfire n. 大篝火,营火
 bonito 鲣
 bonnet n. 圆帽，扁平软帽
 bonny adj. 健美的，漂亮的
-bonus n. 奖金,红利
+		bonus n. 奖金,红利
 bony a. 多骨的；瘦的
 boo vi.vt. 讥笑
 booby n. 呆子,傻瓜
-book n.书，书籍 vt.预定
+		book n.书，书籍 vt.预定
 book-binder n. 装订工人
 bookcase n. 书架,书柜
 booking adj. 定货；订货，末交定货；记帐
@@ -2487,7 +2487,7 @@ bookshelf n. 书架
 bookshop n. 书店
 bookstall 书摊
 bookstore n. 书店
-boom n. 兴旺
+	boom n. 兴旺
 boom-and-bust (市面)繁荣与萧条
 boomer n.生育高峰中出生的人
 boomerang n. 回飞棒,飞去来器
@@ -2495,44 +2495,44 @@ booming  adj. 兴旺的，轰响的；繁荣的
 boon n. 恩惠
 boor n. 举止粗野的人，乡下人
 boorish adj. 粗野的
-boost v. 往上推，增加，提高
+	boost v. 往上推，增加，提高
 booster n. 支持者
-boot n.靴子，长统靴
-booth n.货摊；公用电话亭
+		boot n.靴子，长统靴
+	booth n.货摊；公用电话亭
 bootless a. 无用的,无益者
 booty n. 战利品,获得之物
 bopeep n. 藏猫游戏
 borax n. 硼砂
-border n.边，边缘；边界
+		border n.边，边缘；边界
 borderland n. 边界地方,边陲,朦胧之境
-bore vt.令(人)厌烦
+	bore vt.令(人)厌烦
 boredom n. 烦恼，无聊；厌烦
 boric a. 硼素的,含硼素的
 boring n. 钻孔；adj. 讨厌的
-born a.天生的；出生的
+		born a.天生的；出生的
 borough n. 享有自治权的市镇或区
-borrow vt.借
+		borrow vt.借
 borrower 借方，借主，借款人
 borrowing n.借款，贷款
 borrowings n. 借款
 bosky a. 矮林丛生的,有丛林的,有树荫的
 bosom n.胸，胸部；内心
-boss n.老板，上司 vt.指挥
+		boss n.老板，上司 vt.指挥
 bossy adj. 发号施令的
 boston n. 波士顿(美国城市)
 bot 马蝇的幼虫
 botanical adj. 植物（学）的
 botanist n. 植物学家
-botany n. 植物学
+	botany n. 植物学
 botch vt.vi. 拙笨地修补,糟蹋
-both pron.两者(都)
+		both pron.两者(都)
 both...and... …和…两者都；既…又…；不但…而且；两个都
-bother vt.烦扰，迷惑 n.麻烦
+		bother vt.烦扰，迷惑 n.麻烦
 bothersome a. 令人厌恶的；麻烦的
-bottle n.瓶，酒瓶；一瓶
+		bottle n.瓶，酒瓶；一瓶
 bottleneck 瓶左面关态；薄弱环节；难题
 bottle-neck n. 影响…的环节
-bottom n.底，底部，根基
+		bottom n.底，底部，根基
 bottomless adj. 无底的,深不可测的,极深的
 bottom-line n. 末行数字，结果
 bottomry 押船借款，冒险借款
@@ -2542,9 +2542,9 @@ bought (动词buy的过去时)；buy 的过去式(分词)；买
 bouillon n.肉汤
 boulder n. 巨石
 boulevard n. 林荫大道
-bounce vi.反跳，弹起；跳起
-bound a.一定的；有义务的
-boundary n.分界线，边界
+	bounce vi.反跳，弹起；跳起
+	bound a.一定的；有义务的
+		boundary n.分界线，边界
 boundless a. 无限的,无边无际的
 bounteous adj. 慷慨的，丰富的
 bountiful a. 慷慨的,宽大的
@@ -2559,36 +2559,36 @@ bourse 交易所，证券交易所
 bout n. 一回合，一阵
 boutique n.花束；酒香
 bovine adj. (似)牛的，迟钝的；不易激动的
-bow n.弓；蝴蝶结；鞠躬
+	bow n.弓；蝴蝶结；鞠躬
 bowdlerize v. 删除，任意删改
-bowel n. 肠
+	bowel n. 肠
 bower n. 凉亭，树荫下凉快之处
 bowery a. 有亭子的,象亭子的,有树荫的
-bowl n.碗
-bowling n. 保龄球
+	bowl n.碗
+	bowling n. 保龄球
 bowman n. 弓射手,持弓的兵,船首的划手
 bowshot n. 箭可到达的距离,箭程
 bowsprit n. 船首斜桅
 bowstring n. 弓弦,绞索
-box n.盒子
+		box n.盒子
 boxcar n. 有盖货车
 boxer n. 拳师
 boxes 盒子
 boxing n. 拳击运动
 boxing-day n. 节礼日
 boxwood n. 黄杨木材,黄杨木
-boy n.男孩，少年；家伙
-boycott vt.&n.联合抵制
+		boy n.男孩，少年；家伙
+	boycott vt.&n.联合抵制
 boyfriend n. 男朋友
 boyhood n.少年时代
 boyish a. 少年的；幼稚的
 boys 男孩
-brace n.支架；固定器(矫形)
+	brace n.支架；固定器(矫形)
 bracelet n. 手镯
 brachial adj. 臂的，上臂的
 bracing adj. 振奋精神的n. 支柱，刺激
 bracken n. 欧洲蕨
-bracket n. 支架,括弧,托架
+	bracket n. 支架,括弧,托架
 bracketed a. 加括号的
 brackets n. 括号
 brackish a. 有盐味的,可厌的
@@ -2600,30 +2600,30 @@ braggadocio n. 自夸,吹牛大王
 braggart n. 吹牛
 braid n. 辫子,穗带
 braille n. 布莱叶盲文；点字法；vt. 用盲文印(或写)
-brain n.脑(子)；脑力，智能
+		brain n.脑(子)；脑力，智能
 brainless a. 无头脑的,愚笨的
 brains n. 脑力，智能
 brainstorm vi.动脑筋，出主意，想办法，献计献策
-brake n.闸，刹车 vi.制动
+	brake n.闸，刹车 vi.制动
 bramble n. 荆棘,悬钩子,树莓
 bran n. 糠,麸
 brancepeth 布朗土泼斯(地名)
-branch n.枝条；支流；部门
-brand n.商品；烙印 vt.铭刻
+		branch n.枝条；支流；部门
+		brand n.商品；烙印 vt.铭刻
 brandish vt. 挥,挥舞
 brand-new a.崭新的，新制的
 brandon 布兰敦(地名)
-brandy n.白兰地酒
+		brandy n.白兰地酒
 brant n. 黑雁
 brashness n.莽撞，无礼，轻率
 brasilia 巴西利亚(巴西首都)
-brass n.黄铜；黄铜器
+	brass n.黄铜；黄铜器
 brassage 铸币费
 brasses 铜管乐器
 brassiere n. 奶罩
 brat n. 乳臭未干的小孩,小子
 bravado n. 故作勇敢，逞能
-brave a.勇敢的，华丽的
+		brave a.勇敢的，华丽的
 bravely adv. 勇敢地；毅然
 bravery n.勇敢，大胆
 bravura n. 华丽而雄壮的表演
@@ -2635,26 +2635,26 @@ brazen adj. 无耻的，厚脸皮的
 brazier n. 火盆,黄铜匠
 brazil n.巴西(拉丁美洲)
 brazilian a. 巴西人的，巴西的； n. 巴西的(人)
-breach v. 毁坏，泄密n. 缺口
-bread n.面包
+	breach v. 毁坏，泄密n. 缺口
+	bread n.面包
 bread-earner n. 挣钱养家的人
 breadth n.宽度，幅度；幅面
 breadwinner n. 养家活口的人
-break n.(课间)休息时间
+		break n.(课间)休息时间
 breakage n. 裂口
-breakdown n. 崩溃，倒塌；失败；故障，损耗；病倒，垮台，破裂，(健康，精神等)衰竭，衰弱，(机器等)损坏
+		breakdown n. 崩溃，倒塌；失败；故障，损耗；病倒，垮台，破裂，(健康，精神等)衰竭，衰弱，(机器等)损坏
 breaker n. 断路器
 break-even n.保本的，不盈不亏的，得失相当的
-breakfast n.早饭，早餐
+		breakfast n.早饭，早餐
 breaking-down a. 毁坏的，分解的
 breakthrough n. 突围；突破；冲垮
 breakwater n. 防波堤
 bream n. 鲤科食用鱼,铜盆鱼类
-breast n.胸膛，胸部
+	breast n.胸膛，胸部
 breastplate n. 护胸甲,腹甲,胸革带
 breastwork n. 赶工做成的防壁
-breath n.呼吸；气息
-breathe vi.&vt.呼吸
+		breath n.呼吸；气息
+		breathe vi.&vt.呼吸
 breathless a. 喘不过气来的,屏气的,死的,
 breathlessly ad. 气喘吁吁地
 breathlessness n. 屏息；气喘吁吁
@@ -2663,32 +2663,32 @@ breath-taking a. 惊人的
 bred breed的过去式(分词)
 breech n. 屁股，炮尾
 breeches n. 马裤
-breed n.(动物)品种
+	breed n.(动物)品种
 breeder n. 繁殖的动物
 breeding n. 教养,生育,饲养
-breeze n.微风，和风
+	breeze n.微风，和风
 breezy a. 有微风的,通风好的,活泼的
 breviary n. 每日祈祷书,摘要
-brevity n. 短暂,简短
+	brevity n. 短暂,简短
 brew n. 酿造酒,酝酿
 brewer n. 啤酒制造者,阴谋家
 brewery n.  (啤酒) 酿造厂
 briar n. 蔷薇属植物
-bribe n.贿赂 vt.向…行贿
+	bribe n.贿赂 vt.向…行贿
 bribee 受贿人
 briber 行贿人
 bribery n. 贿赂行为,行贿,受贿
-brick n.砖，砖块；砖状物
+		brick n.砖，砖块；砖状物
 bricklayer n. 砖匠
 brickwork n. 砌砖
 bridal a. 新娘的,婚礼的
-bride n. 新娘
+	bride n. 新娘
 bridegroom n.新郎
 bridesmaid n. 女傧相
-bridge n.桥，桥梁；桥牌
+		bridge n.桥，桥梁；桥牌
 bridle n.笼子；束缚 vt.抑制
-brief a.简短的；短暂的
-briefcase n. 公文包
+		brief a.简短的；短暂的
+	briefcase n. 公文包
 briefing n. 简要情况
 briefly  adv. 简单地，简短地；短暂地；简略地；简要地
 brier n. 蔷薇属植物
@@ -2697,25 +2697,25 @@ brigade n. 旅,队,组
 brigadier n. 陆军准将,准将
 brigand n. 土匪,盗贼
 brigantine n. 双桅帆船的一种
-bright a.明亮的；聪明的
+		bright a.明亮的；聪明的
 brighten vt.使发光；使快活
 brightly adv. 闪烁地；灿烂地；明亮地；聪明地
 brightly-lit 灯光辉煌的
 brightness n.明亮，辉煌，聪明
 brilliance n. (声音的)清晰动人；光辉
 brilliancy n. 卓越,光辉
-brilliant a.光辉的；卓越的
+	brilliant a.光辉的；卓越的
 brilliantly adv. 灿烂地；亮闪闪地；杰出地；鲜明地，辉煌地
 brim n.边，边缘；帽沿
 brimful adj.充满的、盈满的
 brimstone n. 硫黄
 brindled adj. 有斑纹的
 brine n. 盐水，海水
-bring vt.带来；引出；促使
+		bring vt.带来；引出；促使
 bring...to 把…拿到/拿给
 brings v. 带来(第三人称单数)
 brink n. （峭壁的）边沿，边缘
-brisk a.活泼的；清新的
+	brisk a.活泼的；清新的
 brisket n. 胸部,胸肉
 briskly ad. 轻快地；敏捷的；活泼地
 briskness n. 敏捷,活泼
@@ -2727,9 +2727,9 @@ British adj.英国的
 briton n. 布立吞人；英国人
 brittle a.脆的；易损坏的
 broach v. 开瓶，提出（题目）
-broad adj.宽的；广阔的
+	broad adj.宽的；广阔的
 broad-brush 粗略的，不完整的
-broadcast n.广播，播音
+		broadcast n.广播，播音
 broadcasting n. 广播节目
 broadcloth n.宽幅的纺织品
 broaden vt.&vi.放宽，变阔
@@ -2739,7 +2739,7 @@ broadside n.『航海』 (水线上的) 舷侧
 broadsword n. 阔刀,腰刀
 broadway n. & a. 百老汇大街(的)
 brocade n. 织锦
-brochure n. 假订本,小册子,小册
+	brochure n. 假订本,小册子,小册
 brogue n. 土音,厚底皮鞋
 broil n./v. 烤，烧，争吵，怒骂
 broiled a.烤过的
@@ -2755,49 +2755,49 @@ bronchitis n. 支气管炎
 bronchogenic adj. 支气管源的
 bronchus n. 支气管
 bronco n. 野马
-bronze n.青铜色
+	bronze n.青铜色
 brooch n. 胸针或领针；饰针
 brood vt.沉思vi.郁闭地沉思
 brooder n. 孵卵器,沉思的人,默想的人
 brook n.小河，溪流
 brooklet n. 细流,小河
-broom n.扫帚
+	broom n.扫帚
 broomstick n. 帚柄
 broth n. 肉汤
-brother n.兄，弟
+		brother n.兄，弟
 brotherhood n. 手足情谊,兄弟关系
 brother-in-law n. 姊妹的丈夫
 brotherly a. 兄弟的,亲兄弟似的,亲切的
 brougham n. 有盖马车的一种
 brought bring的过去式(分词)；带来
-brow n.额；眉，眉毛
+	brow n.额；眉，眉毛
 browbeat  vt.  (用神情、言词) 威吓
-brown adj.褐色的，棕色的
+		brown adj.褐色的，棕色的
 brownie n. 核仁巧克力饼
 brownish a. 呈褐色的
-browse n./v. 吃嫩叶或草，浏览
+		browse n./v. 吃嫩叶或草，浏览
 bruce 布鲁斯(男名)
 bruin n. 熊,熊先生
-bruise n.青肿，伤痕；擦伤
+	bruise n.青肿，伤痕；擦伤
 bruit vt. 散播
 brunette n. 浅黑肤色的人
 bruno 布鲁诺(男名)
 brunt n. （主要的）压力
-brush n.刷子，毛刷；画笔
+		brush n.刷子，毛刷；画笔
 brushes 刷子，画笔
 brushstroke n. 笔的一划
 brushwood n. 柴,柴枝,草丛
 brusque adj. 唐突的，鲁莽的
 brussels n. 布鲁塞尔(比利时)
-brutal adj. 残忍的，严酷的
+	brutal adj. 残忍的，严酷的
 brutality n. 残酷，兽行
 brute n.禽兽，畜生
 brutish adj. 如野兽 
-bubble n.泡 vi.冒泡，沸腾
+		bubble n.泡 vi.冒泡，沸腾
 bubonic  adj. 『医』横玄的, (患) 淋巴腺红肿的
 buccaneer n. 海盗
 buck n. 强烈反对，吹牛，雄鹿，美元
-bucket n.水桶；吊桶；铲斗
+		bucket n.水桶；吊桶；铲斗
 bucketeer 买空卖空者，投机家
 buckle n. 皮带扣环v. 扣紧
 buckled adj. 鞋上有银环装饰的
@@ -2807,63 +2807,63 @@ bucksaw n. 有框的锯
 buckskin n. 鹿皮
 buckwheat n. 乔麦,乔麦之种,乔麦粉
 bucolic adj. 乡村的，牧羊的
-bud n.芽，萌芽；蓓蕾
+	bud n.芽，萌芽；蓓蕾
 Buddha n. 佛
 Buddhism n.佛教，释教
 buddhist n. 佛教徒
 buddy n. 伙伴，弟兄
 budge v. 移动，让步n. 羔皮，革袋
-budget n.预算，预算案
+	budget n.预算，预算案
 buff n. 浅黄色（软皮革），水牛
 buffalo n.水牛；水陆坦克
 buffer n. 缓冲,缓冲区
-buffet n. 自助餐,小卖部,冲击,殴打,碗橱
+	buffet n. 自助餐,小卖部,冲击,殴打,碗橱
 buffoon n. 丑角，缺乏教养之人
 buffoonery n. 打诨,滑稽
-bug n.臭虫；(美)虫子
+		bug n.臭虫；(美)虫子
 bugaboo n.鬼怪,妖怪,吓人的东西
 bugbear n. (传说会吃掉坏孩子的) 鬼怪
 buggy n. 轻型马车，婴儿车
 bugle n.军号，喇叭
-build vt.建筑；建立；创立
+		build vt.建筑；建立；创立
 builder n. 建立者
 building n.建筑物，大楼；建筑
 building-up a. 组合的，合成的
 built  vt. build(建设)的过去式和过去分词
 built-in a. 嵌入的，内装的
-bulb n.电灯泡；球状物
+	bulb n.电灯泡；球状物
 bulge n./v. 膨胀，突出
-bulk n.物体，容积，大批
+	bulk n.物体，容积，大批
 bulk-cheap 薄利多销
 bulkhead n. 隔壁,防水壁,分壁
 bulky a. 庞大的
-bull n.买空的证券投机商
+	bull n.买空的证券投机商
 bull-bear 多头空头
 bulldog n. 斗牛犬
 bulldozer n. 推土机
-bullet n.子弹，枪弹
-bulletin n.公报；公告
+		bullet n.子弹，枪弹
+	bulletin n.公报；公告
 bullfight n. 斗牛
 bullfinch n. 红腹灰雀
 bullion n. 金条，银条
 bullionism 金银通货主义
 bullish adj.股票行情看涨，物价上涨
 bullock n. 阉牛
-bully v. 欺负，威协
+	bully v. 欺负，威协
 bulrush n. 芦苇,香蒲,纸草
 bulwark n. 堡垒，保障
 bum v. 流浪，乞讨，adj. 差劲的
 bumble v. 说话含糊；语无伦次
-bump vt.&vi.碰，撞；撞击
+	bump vt.&vi.碰，撞；撞击
 bumper n. 汽车前后的保险杆
 bumpkin n. 粗人，乡巴佬
 bumptious a. 瞎自夸的,瞎自大的,傲慢的
 bumpy adj. 凹凸的，崎岖不平的，颠簸不平的
 bun n. 小面包
-bunch n.束，球，串；一群
+	bunch n.束，球，串；一群
 bunco 诈骗，投机勾当
 bund n. 堤岸，江边道路，码头
-bundle n.捆，包，束；包袱
+	bundle n.捆，包，束；包袱
 bungalow n. 平房,周围有阳台的木造小平房
 bungle vt.vi. 拙劣地工作,粗制滥造,失败
 bunion  (C) 拇趾粘液囊肿大,拇囊肿
@@ -2875,17 +2875,17 @@ buoy n. 浮标，救生圈，v. 支持，鼓励
 buoyancy n. 浮力
 buoyant adj. 易浮的，快乐的.
 burd n. 少女
-burden n.担子，负担 vt.劳累
+	burden n.担子，负担 vt.劳累
 burdensome a. 难以负担的；沉重的
 burdock n. 牛蒡
-bureau n.局，司，处；社，所
-bureaucracy n.官僚主义；官僚机构
+	bureau n.局，司，处；社，所
+	bureaucracy n.官僚主义；官僚机构
 bureaucratic adj. 官僚主义的
 burgeon v. 迅速成长，发展
 burgess ]伯奇士 (男子名)
 burgh n. 自治都市
 burgher n. 公民,市民
-burglar n.夜盗，窃贼
+	burglar n.夜盗，窃贼
 burglary  n. 盗窃 (罪)
 burgomaster n. 市长
 burgoo n. 燕麦牛奶粥
@@ -2894,7 +2894,7 @@ burke vt. 秘密镇压
 burlap n. 粗麻布（用于窗帘等）
 burlesque n. 讽刺或滑稽的戏剧
 burly a. 结实的,粗壮的,率直的
-burn vi.&vt.燃烧
+		burn vi.&vt.燃烧
 burner n.灯头，煤气头
 burnish v. 擦亮，磨光
 burns 烧伤
@@ -2902,19 +2902,19 @@ burnt adj. 烧焦的，烧坏的；burn的过去式(分词)；燃烧(burnt=burne
 burr n. 粗喉音；v. 粗喉音说
 burro n. 驴子
 burrow n. （兔子等）所掘的地洞，v. 挖洞
-burst n.突然破裂；爆发
+	burst n.突然破裂；爆发
 burton n. (机)复滑车
-bury vt.埋葬，葬；埋藏
-bus n. 公共汽车；总线，信息通路
+	bury vt.埋葬，葬；埋藏
+		bus n. 公共汽车；总线，信息通路
 bus-driver n. 公共汽车司机；公共汽车驾驶员
 buses 公共汽车
-bush n.灌木，灌木丛，矮树
+		bush n.灌木，灌木丛，矮树
 bushel n.蒲式耳(容量单位)
 bushing n. 轴衬,套管
 bushmaster n.一种美洲产的大毒蛇(草丛之主)
 bushy a. 灌木一样的,灌木茂密的,多毛的
 busily ad. 忙碌地
-business n.商业，生意；事务
+		business n.商业，生意；事务
 businesslike a. 事务性的,有条理的,有效率的
 businessman n. 商人，实业家
 businesswoman n.女商人
@@ -2924,31 +2924,31 @@ buss n. 接吻,一种帆船
 bus-stop n. 公共汽车站
 bust n. 半身（雕）像
 bustle n. 喧闹,裙撑
-busy adj.忙的；繁忙的
-but conj.但是，可是
-butcher n.屠夫；屠杀者
+		busy adj.忙的；繁忙的
+		but conj.但是，可是
+	butcher n.屠夫；屠杀者
 butchery n. 肉食店
 butler n. 仆役长
 butlor n. (男)管家
 butt n.大酒桶，桶
 butte n. 孤立的丘
-butter n.黄油；奶油
+		butter n.黄油；奶油
 buttercup n. 毛茛,金凤花
-butterfly n.蝴蝶
+		butterfly n.蝴蝶
 buttermilk n. 白脱牛奶,酪浆
 butterscotch n. 奶油糖果
 buttocks n. 臀部
-button n.扣子；按钮 vt.扣紧
+		button n.扣子；按钮 vt.扣紧
 buttonhole n. 扭扣孔
 buttress n. 扶墙，拱壁，v. 支持
 buxom adj. 体态丰满的
-buy vt.买
+		buy vt.买
 buyer n. 买主,买方
 buying 购买
-buzz vi.(蜂等)嗡嗡叫
+	buzz vi.(蜂等)嗡嗡叫
 buzzard n. 贪婪的人，肉食的秃鹰
 buzzword n.流行词
-by prep.被，由
+		by prep.被，由
 by-business 副业，兼业
 bye int. ((口语))再见
 bye-bye interj. 再会
@@ -2960,7 +2960,7 @@ bygone adj. 过去的，昔日的
 bylaw n. 地方法规；内部章程
 by-law n.地方法规，章程
 byline n. (列作者名字的)报刊文章首行
-bypass n. 旁通管；分路；旁路；迂回的旁道，v. 规避，绕过；
+	bypass n. 旁通管；分路；旁路；迂回的旁道，v. 规避，绕过；
 by-pass 绕过，回避，忽视
 byproduct n. 副产品
 by-product n.副产品
@@ -2972,12 +2972,12 @@ by-work 副业
 byzantine adj. 拜占延帝国的；错综复杂的，迷官似的
 c/o v. (缩)请转交…
 caac 中国民航
-cab n. 计程车,出租汽车,出租单马车
+	cab n. 驾驶室 n. 计程车,出租汽车,出租单马车
 cabal n. 徒党,秘密结社,(尤指政治上的)阴谋
-cabbage n.洋白菜，卷心菜
-cabin n.小屋；船舱，机舱
-cabinet n.橱，柜；内阁
-cable n.海底电报
+	cabbage n.洋白菜，卷心菜
+	cabin n.小屋；船舱，机舱
+	cabinet n.橱，柜；内阁
+		cable n.海底电报
 cablegram n. 海底电报
 caboose n. (载货火车最后一节的)守车,
 cacao n. 可可子,可可树
@@ -2995,17 +2995,17 @@ cadet n. 军校或警官学校的学生
 cadre n. 干部
 caesar n. 凯撒；暴君；独裁者
 caesura n. 休止
-cafe n.咖啡馆；小餐厅
-cafeteria n.自助食堂
+		cafe n.咖啡馆；小餐厅
+	cafeteria n.自助食堂
 caffeine n. 咖啡因,茶精(兴奋剂)
-cage n.畜养禽、兽的笼子
+	cage n.畜养禽、兽的笼子
 cail v. 脱帽；低垂
 cain n. 该隐；杀弟者，凶手
 cairn n. 石堆纪念碑,石冢,堆石界标
 cairo n. 开罗(埃及首都)
 caitiff a. 卑劣的
 cajole v. （以甜言蜜语）哄骗
-cake n.蛋糕，饼，糕
+		cake n.蛋糕，饼，糕
 cakes 蛋糕
 calais n. 加来(法国港市)
 calamitous adj. 造成灾祸的
@@ -3013,8 +3013,8 @@ calamity n. 大灾祸，不幸之事
 calcify v. 使硬化，钙化
 calcimine n. 墙粉(一种涂料)
 calcine vt.vi. 烧成石灰,锻烧
-calcium n. 钙
-calculate vt.计算；估计；计划
+	calcium n. 钙
+		calculate vt.计算；估计；计划
 calculated a. 精心制作的
 calculating adj. 精于打算的；深谋远虑的，精明的
 calculation n.计算，计算结果
@@ -3022,7 +3022,7 @@ calculator n.计算器，计算者
 calculus n.微积分；结石
 calcutta n. 加尔各答(印度)
 caldron n. 大锅,大汽锅
-calendar n.日历，历书；历法
+		calendar n.日历，历书；历法
 calender n. 研光机
 calf n. 小牛,小牛皮,腓,小腿
 caliber n. 口径,才干,器量
@@ -3036,7 +3036,7 @@ californian a. 加利福尼亚州的
 calipers n.pl. 弯脚器,测径器
 caliph n. 哈利发,回教国国王
 calk vt. 填...以防漏,使不漏水,装尖铁,
-call vt.把…叫做；叫，喊
+		call vt.把…叫做；叫，喊
 call-back 收回，招回加班
 call-box n. 电话间
 called a. 被称呼的
@@ -3047,11 +3047,11 @@ callipers n. 弯脚规,测径器
 callous adj. 结硬块的，无情的
 callow adj. （鸟）未生羽毛的，（人）未成熟的
 callus n. 老茧，皮肤硬厚处
-calm adj.平静的；沉着的
+		calm adj.平静的；沉着的
 calmly adv. 平静地；沉着地；无风浪地；镇静地
 calmness n. 平静,镇静,冷静
 calomel n. 甘汞
-calorie n. 卡路里
+	calorie n. 卡路里
 calorific adj. 生热的
 calumniate v. 诽谤，中伤
 calumnious  adj. 诽谤的,中伤的
@@ -3062,42 +3062,42 @@ cam n. 凸轮
 cambric n. 一种亚麻布或棉布
 cambridge  剑桥大学；剑桥(英格兰东部一城市)
 came vi.come(来)的过去式；come(来)的过去分词
-camel n.骆驼
+		camel n.骆驼
 camellia n. 茶花,山茶
 cameo n. 刻有浮雕的宝石或贝壳
-camera n.照相机
+		camera n.照相机
 cameraman 摄影师
 camouflage n./v. 掩饰，伪装
-camp n.野营，营地，兵营
-campaign n.战役；运动
+	camp n.野营，营地，兵营
+	campaign n.战役；运动
 campaigner n. 从军者,出征者,竞选者
 camper n. 露营者
 camphor n. 樟树,樟脑
 camping n. 野营
 campsite n.露营场地 ,营地
 campstool n. 折椅
-campus n.校园，学校场地
+		campus n.校园，学校场地
 camshaft n. 凸轮轴
-can n.罐头，听头
+		can n.罐头，听头
 canada n.加拿大(北美洲)
 Canadian n.加拿大人
-canal n.运河；沟渠；管
+	canal n.运河；沟渠；管
 canard n. 虚报；谣言；假新闻
 canary n. 金丝雀，女歌星
-cancel vt.取消，撤消；删去
+		cancel vt.取消，撤消；删去
 cancellation n. 取消,作废,注销戳
-cancer n.癌，癌症，肿瘤
+		cancer n.癌，癌症，肿瘤
 candelabrum n. 枝状大烛台
 candid a. 坦白的,率直的,公正的
 candidacy n. 候选人的地位,候选资格
-candidate n. 候选人
+		candidate n. 候选人
 candidature n. 候选人的，资格
-candle n.蜡烛
+	candle n.蜡烛
 candle-light  adj. 在烛光中进行的 <聚餐等>
 candlestick n. 烛台
 candor n. 坦白,直率
 candour n.公正，坦率
-candy n.糖果；砂糖结晶
+	candy n.糖果；砂糖结晶
 cane n.手杖
 canel n. 运河，沟渠
 canine adj. 犬的，似犬的
@@ -3107,12 +3107,12 @@ canned a. 罐装的,录音的,被囚的,刻板的,
 cannibal n. 食人者，食同类的动物
 cannibalism n. 同类相食
 canning n. 罐头制造
-cannon n. 大炮；火炮；榴弹炮；(飞机上的)机关炮
+	cannon n. 大炮；火炮；榴弹炮；(飞机上的)机关炮
 cannonade n. 炮击
 cannot can的否定式
 cannot...too... 越…越好；怎么…也不会过分
 canny a. 精明的,谨慎的
-canoe n.独木舟，皮艇，划子
+	canoe n.独木舟，皮艇，划子
 canon n. 经典，真作
 canonical adj. 符合规定的，经典的
 canonize vt. 封...死者为圣徒,使加入圣徒之列,
@@ -3121,31 +3121,31 @@ cant n. 斜坡，斜面，v. 使倾斜
 can't v. & aux. 不能；(同)cannot不能
 cantankerous adj. 脾气坏的，好争吵的
 cantata n. 清唱剧
-canteen n.小卖部；临时餐室
+	canteen n.小卖部；临时餐室
 canter n. 慢跑,流浪汉
 canticle n. 圣歌,颂歌,小歌曲
 canto n. 篇章,旋律
 canton n. 州,行政区
 cantonment n. 宿营地
-canvas n.粗帆布；一块油画布
+		canvas n.粗帆布；一块油画布
 canvass n. 细查,讨论,劝诱
 canvasser 保险经纪人，推销员
 canyon n. 峡谷
 caoutchouc n. 弹性橡皮
-cap n.帽子
+	cap n.帽子
 capability n.能力，才能；性能
-capable a.有能力的，有才能的
+	capable a.有能力的，有才能的
 capacious adj. 容量大的，宽敞的，
 capacitance n. 电容，电容量
 capacitor n. 电容器
-capacity n.容量；能力；能量
+		capacity n.容量；能力；能量
 caparison n. 马衣,美服
 capclothes 衣服
-cape n.披肩，斗篷；海角
+	cape n.披肩，斗篷；海角
 caper n./v. 雀跃，欢蹦
 capillary n. 毛细管
 capita n. 人
-capital n.资本，资金；首都
+		capital n.资本，资金；首都
 capital-intensive adj. 资本密集型的
 capitalism n. 资本主义,资本的集中
 capitalist n. 资本家,资本主义者
@@ -3163,17 +3163,17 @@ caprice n. 反复无常,善变,任性
 capricious adj. 变化无常的，任性的
 capsize vi.n. 翻覆,倾覆
 capstan n. 绞盘,起锚机
-capsule n. 胶囊,蒴,瓶帽,太空舱
-captain n.陆军上尉；队长
+	capsule n. 胶囊,蒴,瓶帽,太空舱
+		captain n.陆军上尉；队长
 caption n. 说明,字幕,标题
 captious adj. 吹毛求疵的
 captivate v. 迷惑，吸引
 captivation n. 吸引力，魅力
-captive n.俘虏，被监禁的人
+	captive n.俘虏，被监禁的人
 captivity n. 囚禁,被关
 captor n. 捕捉者,逮捕者
-capture vt.捕获，俘获；夺得
-car n. 汽车；小卧车；(这里指)运货马车；轿车；电车；车，火车车厢
+		capture vt.捕获，俘获；夺得
+		car n. 汽车；小卧车；(这里指)运货马车；轿车；电车；车，火车车厢
 carafe n. 玻璃水瓶
 caramel n. 焦糖,焦糖糖果
 carapace n. (蟹或龟等的)甲壳
@@ -3183,9 +3183,9 @@ caravansary n. 商队旅馆,大旅舍
 caravel n. 轻快帆船
 caraway n. 香菜
 carbine n. 卡宾枪
-carbohydrate n. 碳水化合物
+	carbohydrate n. 碳水化合物
 carbolic a. 碳的,用煤焦油制成的
-carbon n.碳
+		carbon n.碳
 carbonate n. 碳酸盐
 carbonic a. 碳的,由碳得到的
 carboniferous n. 石炭纪,石炭层
@@ -3194,18 +3194,18 @@ carburetor n. 汽化器,  化油器
 carcanet  n. 『罕』 (金质镶珠宝之) 项链; 项圈
 carcase n. 尸体,架子
 carcass n. 尸体
-card n.卡片；名片
+		card n.卡片；名片
 cardboard n. 厚纸板
 cardiac  adj. 心脏的，心脏病的
 cardiff n. 加的夫(英国港市)
 cardigan n. 羊毛上衣，羊毛衫
-cardinal a. 基本的；主要的
+	cardinal a. 基本的；主要的 n. 红衣主教；鲜红色；主红雀
 cardiologist n. 心脏病学家
 cardiovascular a. 心血管的
-care n.照料；保护；小心
+		care n.照料；保护；小心
 careen v. 把船倾倒，倾倒，歪靠
-career n.生涯，职业，经历
-careful a.仔细的；细致的
+		career n.生涯，职业，经历
+		careful a.仔细的；细致的
 carefully adv. 小心地；仔细地；注意地
 carefulness n. 小心,仔细,慎重
 careless adj.粗心的
@@ -3215,7 +3215,7 @@ caress n. 爱抚,拥抱
 caret n. 加字符号（∨，∧）
 caretaker n. 管理人,看管者,看守人
 careworn a. 疲倦的,饱经忧患的
-cargo n.船货，货物
+	cargo n.船货，货物
 cargo-cargo 回头货
 cargo-owner 货主，托运人
 caribbean n. & adj. 加勒比海(的)
@@ -3238,40 +3238,40 @@ carousal n. 欢闹的酒宴
 carouse n./v. 狂饮寻乐
 carousel n. 圆盘传送带
 carp n. 鲤鱼
-carpenter n.木工，木匠
-carpet n.毛毯；地毯
+	carpenter n.木工，木匠
+	carpet n.毛毯；地毯
 carping adj. 吹毛求疵的
 carport n. 无墙车库,车棚
-carriage n.客车厢；四轮马车
-carrier n.运输工具；运载工具
+	carriage n.客车厢；四轮马车
+	carrier n.运输工具；运载工具
 carrion n. 腐肉
-carrot n.胡罗卜
-carry vt. 拿；搬；带；提；扛，挑，刊登；搬动；带去；运送，携带；运载；传送；领，抱背，传播，输送；手提，肩挑；举动；进位，担负；vi. 抬，扛，搬运
+	carrot n.胡罗卜
+		carry vt. 拿；搬；带；提；扛，挑，刊登；搬动；带去；运送，携带；运载；传送；领，抱背，传播，输送；手提，肩挑；举动；进位，担负；vi. 抬，扛，搬运
 carrying-pole n. 扁担
-cart n.二轮运货马车
+	cart n.二轮运货马车
 carte n. 全权委任
 carter n. 运货马车夫
 cartilage n. 软骨
 cart-load n. 一车之载量
 cartographer n. 绘制地图者
 carton n. 长形纸匣；纸箱；纸板盒
-cartoon n.漫画，动画片
+		cartoon n.漫画，动画片
 cartridge n.弹药筒，子弹；软片
-carve vt.刻，雕刻；切开
+	carve vt.刻，雕刻；切开
 carver n. 雕刻匠,雕工,切肉刀
 carving n. 雕塑；雕刻(术)；雕刻品
 caryatid n. 女像柱
 cascade n. 小瀑布
 cascara n. 鼠李,用其树皮制成的缓泻剂
-case n.情况；事实；病例
+		case n.情况；事实；病例
 casein n. 干酪素,酪蛋白
 caseload 工作量
 casement n. 窗
 cases 箱；盒
-cash n.现金，现款
+		cash n.现金，现款
 cash-desk n. 收款台
 casher n.出纳员
-cashier n. 出纳；出纳员，收支员
+		cashier n. 出纳；出纳员，收支员
 cashmere n. 产于咯什米尔和西藏的一种羊毛
 cash-out 现金不足
 casing n. 箱,盖,套管,框,包装
@@ -3281,10 +3281,10 @@ casket n. 首饰盒,小箱,匣子,棺材
 casque n. 盔
 cassava n. 木薯
 casserole n. 餐桌上用有盖的焙盘,砂锅菜
-cassette n.盒式录音带；盒子
+	cassette n.盒式录音带；盒子
 cassia n. 肉桂
 cassock n. 法衣,袈裟
-cast vt.投，扔，抛；浇铸
+		cast vt.投，扔，抛；浇铸
 castaway n. 被抛弃的人,坐船遇难者,漂流者
 caste n. 社会等级，等级
 castellate n. 城主之阶级、职位或辖区
@@ -3293,48 +3293,48 @@ castigate v. 惩治，严责
 castigation n. 申斥，强烈反对
 casting n. 投掷,铸成品,角色
 cast-iron a. 用铸铁制的
-castle n.城堡；巨大建筑物
+		castle n.城堡；巨大建筑物
 castor n.蓖麻
-casual a.偶然的；随便的
-casualty n. 严重事故,伤亡,受害者
+	casual a.偶然的；随便的
+	casualty n. 严重事故,伤亡,受害者
 casuist n. 决疑者,诡辩家
-cat n.猫，猫科，猫皮
+		cat n.猫，猫科，猫皮
 catabolism n. 分解代谢
 cataclysm n. 剧变，灾难（常指大洪水或地震）
 catacomb n. 地下墓穴,茔窟
-catalog n.目录，目录册
-catalogue vt.为…编目录
+	catalog n.目录，目录册
+	catalogue vt.为…编目录
 catalpa n. 梓,梓属植物
 catalysis n. 催化作用
 catalyst n.催化剂；刺激因素
 catapult n. 弹弩；发射机
 cataract n. 大瀑布,奔流,洪水,白内障
 catarrh n. 粘膜炎,感冒
-catastrophe n. 大灾难,大祸
+	catastrophe n. 大灾难,大祸
 catbird n. 猫声鸟
-catch vi.钩住；挂住；绊住
+		catch vi.钩住；挂住；绊住
 catcher n. 捕手,捕捉的人,捕捉的事物
 catching a.传染性的
 catch-penny 花哨而不值钱的商品
 cate n. 佳肴,美食
 catechism n. 教义问答书,问答集
 categorical adj. 无条件的，绝对的；武断的
-category n.种类，类目；范畴
-cater vi.迎合，投合
+		category n.种类，类目；范畴
+	cater vi.迎合，投合
 catering 公共饮食业
 caterpillar n. 毛虫，蝴蝶的幼虫
 catfish n. 鲶鱼
 catharsis n. 宣泄，净化
 cathartic n. 泻药
-cathedral n.总教堂；大教堂
+	cathedral n.总教堂；大教堂
 cathode n. 阴极；负极
-catholic a.天主教的n.天主教徒
+	catholic a.天主教的n.天主教徒
 catholicism 天主教
 catholik 天主教徒
 catnip n. 猫薄荷
 catsup n. 酱,(如蕃茄酱之类)
 catter n. 冰脚
-cattle n.牛
+	cattle n.牛;牲畜（骂人的话）；家畜；无价值的人
 Caucasian n. 高加索人,白种人
 caucus n. 政党高层会议，核心人物
 caudal adj. 尾的，尾部的，像尾部的
@@ -3343,19 +3343,19 @@ cauldron n. 大锅,大汽锅
 cauliflower n. 花椰菜
 caulk v. 填塞（隙缝）使不渗水
 causative a. 引起…的
-cause n.原因，理由；事业
+		cause n.原因，理由；事业
 causeless a. 无显著原因的,偶然的
 causeway n. 堤道,铺道
 caustic adj. 腐蚀性的，刻薄的
 cauterize vt. 烧灼,使麻木不仁
-caution n.小心；告诫 vt.警告
-cautious a.小心的，谨慎的
+		caution n.小心；告诫 vt.警告
+		cautious a.小心的，谨慎的
 cautiously ad.小心地；谨慎地
 cavalcade n. 骑兵队
 cavalier n. 骑士，武士
 cavalry n. 骑兵部队
 cavalryman n. 骑兵
-cave n.山洞，洞穴，窑洞
+		cave n.山洞，洞穴，窑洞
 caveat 停止支付通知
 caveman n.(石器时代的) 穴居人
 cavern n. 大洞穴
@@ -3366,62 +3366,62 @@ cavity n.洞，穴，空腔
 caw v.(乌鸦等)呱呱地叫
 cay n. 珊瑚礁，沙洲
 cayenne n. 辣椒
-cease vi.&vi.&n.停止，停息
+	cease vi.&vi.&n.停止，停息
 ceaseless a. 不停的,不断的
 cedar n. 西洋杉,香柏
 cede v. 割让（土地，权利）
-ceiling n.天花板；顶逢
+	ceiling n.天花板；顶逢
 celandine n. 白屈菜
-celebrate vt.庆祝；歌颂，赞美
+		celebrate vt.庆祝；歌颂，赞美
 celebrated  adj. 有名的，著名的；知名的
 celebration n.庆祝；庆祝会
-celebrity n. 名人，知名人士
+	celebrity n. 名人，知名人士
 celerity n. 快速，迅速
 celery n. 芹菜
 celestial adj. 天体的，天上的
 celibacy n. 独身（主义）
 celibate n./adj. 独身者，不结婚的.
-cell n.细胞；小房间
-cellar n.地窑，地下室
+		cell n.细胞；小房间
+	cellar n.地窑，地下室
 cellular a. 细胞的
 celluloid n. 赛璐珞
 cellulose n. 纤维素
 Celt n.凯尔特人
-cement vt.粘结 vi.粘紧
+	cement vt.粘结，巩固，加强 vi.粘紧 n.水泥；接合剂
 cemetary n.公墓，墓地
-cemetery n.公墓；墓地
+	cemetery n.公墓；墓地
 cene a. (构词成分)表示"新的"，"最近的"
 censer n. 香炉
 censor vt.审查，检查
 censorious adj. 吹毛求疵的，苛求的
-censorship n. 检查（制度）
+	censorship n. 检查（制度）
 censure n./v. 责难，非难
-census n. 统计数字；普查
-cent n.分
+	census n. 统计数字；普查
+		cent n.分
 centaur n. 人首马身的怪物,半人马座
 centenary a./n.百年的；百年纪念
 centennial n. 百年纪念
-center n. 中心,中心点,中锋
-centigrade a.百分度的
+	center n. 中心,中心点,中锋
+	centigrade a.百分度的
 centigram n. 厘克
 centime n. 生丁
-centimeter n. 厘米
-centimetre n.公分，厘米
+		centimeter n. 厘米
+		centimetre n.公分，厘米
 centipede n. 蜈蚣
-central a.中心的；主要的
+		central a.中心的；主要的
 centralization n. 集中,中央集权化
 centralize vt. 使集权
 centralized a. 中央集权的
-centre n. 中心；中央；中枢；核心；vt. 集中；使集中，把…放在中部vi. 居中
+		centre n. 中心；中央；中枢；核心；vt. 集中；使集中，把…放在中部vi. 居中
 centrifugal adj. 离心的
 centripetal adj. 向心的
 centurion n. 百夫长
-century n.世纪；百年
+		century n.世纪；百年
 cephalic adj. 头的，头部的
 ceramic a.陶瓷的；陶器的
 ceramics n. 陶器制，陶业
 cere vt. 用蜡布包裹
-cereal n.谷类，五谷，禾谷
+	cereal n.谷类，五谷，禾谷
 cerebellum n. 小脑
 cerebral adj. 大脑的，深思的
 cerebration n. 用脑，思考
@@ -3430,15 +3430,15 @@ cerebrum n. 大脑
 cerement n.裹尸布,寿衣
 ceremonial a. 仪式的；礼节的
 ceremonious a. 讲究仪式的,隆重的
-ceremony n.典礼，仪式；礼节
-certain a.确实的；肯定的
+	ceremony n.典礼，仪式；礼节
+		certain a.确实的；肯定的
 certainly ad.一定，必定；当然
-certainty n.必然；肯定
+	certainty n.必然；肯定
 certes ad. 的确,诚然
-certificate n.证书，证件，执照
+	certificate n.证书，证件，执照
 certification n. 证明
 certifier 保证人，证明人
-certify vt.vi. 证明,保证
+	certify vt.vi. 证明,保证
 cerulean a. 蔚蓝的
 cess n. 运气；捐，税
 cessation n. 中止，（短暂的）停止
@@ -3451,50 +3451,50 @@ chaffinch n. 鸟类,(一种欧洲鸣禽)
 chaffing adj. 玩笑的；嘲弄的
 chagrin n./v. 失望，懊恼
 chagrined adj. 失望的，灰心的
-chain n.链，链条，项圈
-chair n. 椅子；大学的讲座；(会议的)主席；vt. 当…的主席，主持
-chairman n.主席；议长，会长
+		chain n.链，链条，项圈
+		chair n. 椅子；大学的讲座；(会议的)主席；vt. 当…的主席，主持
+		chairman n.主席；议长，会长
 chairmanship n. 主席的身分或资格
-chairperson n. 主席(无性别之分)
-chairwoman n. 女主席，女董事长
+	chairperson n. 主席(无性别之分)
+		chairwoman n. 女主席，女董事长
 chaise n. 轻车马
 chalet n. 瑞士山中的牧人小屋
 chalice n. 杯,圣餐杯
-chalk n.白垩；粉笔
+		chalk n.白垩；粉笔
 chalk-mark n. 粉笔记号
 chalky a. 白垩的
-challenge n.挑战；要求，需要
+		challenge n.挑战；要求，需要
 challenger n. 挑战者
 challenging adj. 具有挑战性的
 cham n. 可汗
-chamber n.会议室；房间；腔
+	chamber n.会议室；房间；腔
 chamberlain n. 侍从,管家,收款人
 chambermaid n.  (旅馆等的) 房间女服务生,女仆
 chameleon n. 变色龙，晰蜴
 chamois n.羚羊
 champ vt.vi. 使劲地嚼,格格地咬,咬响牙齿
-champagne n. 香槟酒,香槟色
+	champagne n. 香槟酒,香槟色
 champaign n. 平野,平原
-champion n.斗士；提倡者
-championship n.冠军称号；锦标赛
-chance n.机会
+	champion n.冠军；拥护者；斗士；提倡者 adj.优胜的；第一流的；vt.支持，拥护
+	championship n.冠军称号；锦标赛
+		chance n.机会
 chancel n. 高坛
-chancellor n.(财政) 大臣、司法官
+	chancellor n.(财政) 大臣、司法官
 chancery n. 大法官法庭
 chancy a. 冒险的；危险的
 chandelier n. 枝形吊灯（烛台）
-change n.零钱；找头 vt.兑换
+		change n.零钱；找头 vt.兑换
 change...into 把…变成；转换成
 changeable a. 可改变的
 changeful a. 易变的,不安定的,富于变化的
 changeless a. 不变的,固定不变的,固定的
 changeling n. 调换儿,矮小丑陋的小孩,低能儿
-channel n.海峡；渠道；频道
+		channel n.海峡；渠道；频道
 chanson n. 歌
 chant vt. 不变地把歌反复唱；歌唱；诵经n. 单调的歌；咏唱；颂歌；圣歌
 chanticleer n. 雄鸡，公鸡
 chantry n.捐献,捐款
-chaos n. 混乱
+		chaos n. 混乱
 chaotic adj. 混乱的
 chap v. （皮肤）变粗糙，皲裂
 chapel n. 小礼拜堂,礼拜
@@ -3502,18 +3502,18 @@ chaperon v. 陪伴，伴随
 chaplain n. 牧师
 chaplet n.花冠,花圈
 chapman n. 商人,负贩,叫卖小贩
-chapter n.章，回，篇
+		chapter n.章，回，篇
 char n. 家庭杂务,炭
-character n.性格；特性；角色
-characteristic a.特有的 n.特性
+		character n.性格；特性；角色
+	characteristic a.特有的 n.特性
 characteristical adj. 特征的
 characterization n. 描述,人物之创造
-characterize vt.表示…的特性
+	characterize vt.表示…的特性
 character-training 性格的培养；品质的培养
 charactor-training n. 性格的培养，品质的培养
 charades n. 用动作等表演的字谜游戏
 charcoal n.炭；木炭
-charge n. 主管；电荷；负责；责任；管理；费用；负荷；充电；使承担；看管；保管；代价；(pl. )费用，罪名；收费， vt. 罚款，指控；索价；控告；装满；职责；索费；使承担(任务，责任)；费用；充电；(pl. )费用，使充满，收费，冲向，冲锋
+		charge n. 主管；电荷；负责；责任；管理；费用；负荷；充电；使承担；看管；保管；代价；(pl. )费用，罪名；收费， vt. 罚款，指控；索价；控告；装满；职责；索费；使承担(任务，责任)；费用；充电；(pl. )费用，使充满，收费，冲向，冲锋
 chargeable a. 应课税的
 charger n. 充电器,袭击者,军马
 chariot n. 二轮战车
@@ -3521,20 +3521,20 @@ charioteer n. 战车的御者
 charisma n. （大众爱戴的）领袖气质，魅力
 charismatic adj. 有魅力的
 charitable adj. 仁慈的、宽厚的
-charity n.施舍；慈善事业
+	charity n.施舍；慈善事业
 charlatan n. 江湖郎中，骗子
 charles 查尔斯·西门斯
 charlie 查利(男名)
 charlotte n. (法)水果奶油布丁
-charm n.魅力；妩媚 vi.迷人
+	charm n.魅力；妩媚 vi.迷人
 charmer n. 魔术师
 charmeuse n. 缎子的一种
 charming a.迷人的，可爱的
-chart n.图，图表；海图
-charter vt.租 n.宪章；契据
+	chart n.图，图表；海图
+	charter vt.租 n.宪章；契据
 chartering 租船，租凭业务
 chary adj. 小心的，审慎的
-chase n.追逐，追赶，追求
+		chase n.追逐，追赶，追求
 chasm n. 深渊，大差别，代沟
 chassis n. (汽车的)底盘
 chaste adj. 贞洁的，朴实的
@@ -3542,7 +3542,7 @@ chasten v. (通过惩罚而使坏习惯等)改正、磨练
 chastise v. 严厉惩罚，遣责
 chastisement n. 惩罚
 chastity n. 贞节，纯洁
-chat  n. 聊天；闲谈； vi. 聊天；谈天；闲谈vt. 亲谈，
+		chat  n. 聊天；闲谈； vi. 聊天；谈天；闲谈vt. 亲谈，
 chateau n. 城堡，乡间别墅
 chatelaine n. 腰带,大别墅的女主人,女城主
 chattel n. 动产,奴隶
@@ -3551,11 +3551,11 @@ chatty a. 绕舌的,爱讲闲话的
 chauffeur n. 司机
 chauvinism n. 沙文主义，盲目爱国主义
 chauvinist n. 沙文主义者,盲目的爱国主义者
-cheap adj.廉价的，便宜的
+		cheap adj.廉价的，便宜的
 cheaply  adv.廉价地；粗俗地；便宜地
-cheat vt.骗取；哄 vi.行骗
+	cheat vt.骗取；哄 vi.行骗
 cheating n. 欺骗行为
-check n.支票
+		check n.支票
 checker n.核对
 checkerboard n. 国际象棋盘
 checkered adj. 方格花样的; 有各种颜色的
