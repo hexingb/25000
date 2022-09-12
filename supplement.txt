@@ -3,3 +3,4 @@ analog
 blueprint
 Celsius n.摄氏度 adj.摄氏的
 characterise
+coronavirus

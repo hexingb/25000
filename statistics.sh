@@ -20,6 +20,6 @@ for ((i = 0; i < 5; i++)); do
 done
 
 echo "" >> README.org
-git add en_cn.txt README.org
+git add en_cn.txt README.org supplement.txt statistics.sh
 git ci -m 'Update statistics'
 git push
