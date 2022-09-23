@@ -2906,8 +2906,8 @@ burrow n. （兔子等）所掘的地洞，v. 挖洞
 burton n. (机)复滑车
 	bury vt.埋葬，葬；埋藏
 		bus n. 公共汽车；总线，信息通路
-bus-driver n. 公共汽车司机；公共汽车驾驶员
-buses 公共汽车
+		bus-driver n. 公共汽车司机；公共汽车驾驶员
+		buses 公共汽车
 		bush n.灌木，灌木丛，矮树
 bushel n.蒲式耳(容量单位)
 bushing n. 轴衬,套管
@@ -2919,9 +2919,9 @@ businesslike a. 事务性的,有条理的,有效率的
 businessman n. 商人，实业家
 businesswoman n.女商人
 buskin n. 
-busman n. 公共汽车上司机
+		busman n. 公共汽车上司机
 buss n. 接吻,一种帆船
-bus-stop n. 公共汽车站
+		bus-stop n. 公共汽车站
 bust n. 半身（雕）像
 bustle n. 喧闹,裙撑
 		busy adj.忙的；繁忙的
@@ -2943,16 +2943,16 @@ buttonhole n. 扭扣孔
 buttress n. 扶墙，拱壁，v. 支持
 buxom adj. 体态丰满的
 		buy vt.买
-buyer n. 买主,买方
-buying 购买
+		buyer n. 买主,买方
+		buying 购买
 	buzz vi.(蜂等)嗡嗡叫
 buzzard n. 贪婪的人，肉食的秃鹰
 buzzword n.流行词
 		by prep.被，由
 by-business 副业，兼业
-bye int. ((口语))再见
-bye-bye interj. 再会
-bye-bye! 再见！
+		bye int. ((口语))再见
+		bye-bye interj. 再会
+		bye-bye! 再见！
 by-effect 副作用
 bye-law n.地方法规，章程
 by-end 附带目的，私下目的
@@ -2965,7 +2965,7 @@ by-pass 绕过，回避，忽视
 byproduct n. 副产品
 by-product n.副产品
 byron 拜伦(英国诗人)
-byte n. (二进制的)字节
+		byte n. (二进制的)字节
 byway n. 旁道,通道,间道
 byword n. 谚语,格言,笑柄
 by-work 副业
@@ -3006,7 +3006,7 @@ cairo n. 开罗(埃及首都)
 caitiff a. 卑劣的
 cajole v. （以甜言蜜语）哄骗
 		cake n.蛋糕，饼，糕
-cakes 蛋糕
+		cakes 蛋糕
 calais n. 加来(法国港市)
 calamitous adj. 造成灾祸的
 calamity n. 大灾祸，不幸之事
@@ -3017,9 +3017,9 @@ calcine vt.vi. 烧成石灰,锻烧
 		calculate vt.计算；估计；计划
 calculated a. 精心制作的
 calculating adj. 精于打算的；深谋远虑的，精明的
-calculation n.计算，计算结果
-calculator n.计算器，计算者
-calculus n.微积分；结石
+		calculation n.计算，计算结果
+		calculator n.计算器，计算者
+		calculus n.微积分；结石
 calcutta n. 加尔各答(印度)
 caldron n. 大锅,大汽锅
 		calendar n.日历，历书；历法
@@ -3031,7 +3031,7 @@ calibration n. 校准；标定，刻度；核定
 calibre n. （枪等）口径，（人或事）品质，才能
 calico n. 印花棉布,白洋布
 calif n.哈利发,回教国国王
-california  n. 加利福尼亚(美国)
+		california  n. 加利福尼亚(美国)
 californian a. 加利福尼亚州的
 calipers n.pl. 弯脚器,测径器
 caliph n. 哈利发,回教国国王
@@ -3039,8 +3039,8 @@ calk vt. 填...以防漏,使不漏水,装尖铁,
 		call vt.把…叫做；叫，喊
 call-back 收回，招回加班
 call-box n. 电话间
-called a. 被称呼的
-caller n. 访客,召集员,传唤员
+		called a. 被称呼的
+		caller n. 访客,召集员,传唤员
 calligraphy n. 书法
 calling n. 职业,行业,邀请,召集
 callipers n. 弯脚规,测径器
@@ -3048,8 +3048,8 @@ callous adj. 结硬块的，无情的
 callow adj. （鸟）未生羽毛的，（人）未成熟的
 callus n. 老茧，皮肤硬厚处
 		calm adj.平静的；沉着的
-calmly adv. 平静地；沉着地；无风浪地；镇静地
-calmness n. 平静,镇静,冷静
+		calmly adv. 平静地；沉着地；无风浪地；镇静地
+		calmness n. 平静,镇静,冷静
 calomel n. 甘汞
 	calorie n. 卡路里
 calorific adj. 生热的
@@ -3060,7 +3060,7 @@ calves calf的复数
 calyx n. 花萼
 cam n. 凸轮
 cambric n. 一种亚麻布或棉布
-cambridge  剑桥大学；剑桥(英格兰东部一城市)
+		cambridge  剑桥大学；剑桥(英格兰东部一城市)
 came vi.come(来)的过去式；come(来)的过去分词
 		camel n.骆驼
 camellia n. 茶花,山茶
@@ -3079,8 +3079,8 @@ campstool n. 折椅
 		campus n.校园，学校场地
 camshaft n. 凸轮轴
 		can n.罐头，听头
-canada n.加拿大(北美洲)
-Canadian n.加拿大人
+		canada n.加拿大(北美洲)
+		Canadian n.加拿大人
 	canal n.运河；沟渠；管
 canard n. 虚报；谣言；假新闻
 canary n. 金丝雀，女歌星
