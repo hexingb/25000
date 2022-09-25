@@ -8,3 +8,5 @@ coronavirus
 cyberspace
 daunting adj.使人畏缩的；令人气馁的
 demographic adj. 人口统计学的；人口学的
+freelance n. 自由作家；自由记者； adj. 自由投稿的
+burger n. 汉堡包

@@ -1,12 +1,12 @@
 ﻿		a art.一(个，件，...)
 a.b. 文学士
 a.d. 公元；(缩)公元
-a.m  (缩)上午，午前；ad. 上午，由午夜至中午
-a.m. (缩)上午
+		a.m  (缩)上午，午前；ad. 上午，由午夜至中午
+		a.m. (缩)上午
 aback ad. 向后地,朝后地
 		abacus n.算盘
 		abandon vt.丢弃；放弃，抛弃
-abandoned a. 被抛弃的；无约束的
+	abandoned a. 被抛弃的；无约束的
 abandonment n. 放弃,自暴自弃,放纵
 abase v. 贬抑，使卑下
 abasement n. 贬抑,屈辱,谦卑
@@ -19,7 +19,7 @@ abbess n. 女修道院院长,女庵主持
 abbey n. 修道院
 abbot n. 修道院院长,方丈,住持
 abbreviate vt. 缩写,使...简略,缩短
-abbreviation n.节略，缩写，缩短
+	abbreviation n.节略，缩写，缩短
 abc asd
 abdicate v. 让位，辞职，放弃
 abdication n. 逊位,弃权,辞职
@@ -61,8 +61,8 @@ abomination n. 憎恨,痛恶,可憎的事物
 aboriginal n. 原始居民，土著
 aborigine n. 土著居民
 aborigines n. 土人,原住民,土生生物
-abort v. & n. 中断，故障
-abortion n. 流产,堕胎,失败,夭折
+		abort v. & n. 中断，故障
+	abortion n. 流产,堕胎,失败,夭折
 abortive adj. 无结果的，失败的
 	abound v. 充满，富于
 		about prep.关于；在…周围
@@ -84,11 +84,11 @@ abscond 潜逃，逃亡
 		absence n.缺席，不在场；缺乏
 		absent a.不在场的；缺乏的
 absentee n. 缺席者,未上班者,不在者
-absently ad. 心不在焉地
-absent-minded adj. 心不在焉的
+	absently ad. 心不在焉地
+	absent-minded adj. 心不在焉的
 		absolute a.绝对的；纯粹的
-absolutely ad.完全地；绝对地
-absolution n. 赦免，免除
+		absolutely ad.完全地；绝对地
+	absolution n. 赦免，免除
 absolve vt. 宣告...无罪,赦免,免除
 	absorb vt.吸收；使专心
 absorbent a. 能吸收的
@@ -116,12 +116,12 @@ acacia n. 金合花
 		academy n.私立中学；专科院校
 accede v. 应允，同意
 		accelerate vt.(使)加快；促进
-acceleration n.加速；加速度
-accelerator n. 加速者,加速器,油门
+	acceleration n.加速；加速度
+	accelerator n. 加速者,加速器,油门
 		accent n.口音，腔调；重音
 accentuate v. 着重，强调
 		accept vt.vi.接受；同意
-acceptable a.可接受的，合意的
+		acceptable a.可接受的，合意的
 		acceptance n.接受，验收；承认
 acceptances 承兑汇票
 acceptation n. 公认的意义,词义
@@ -8445,32 +8445,32 @@ flange n. （火车车轮的）凸缘，轮缘
 flank n.肋，肋腹；侧面
 flannel n.法兰绒；法兰绒衣服
 flannelette n.  (内衣用的) 棉织法兰绒
-flap vt.&n.拍打 vi.拍动
-flare vi.闪耀 vt.使闪亮
+	flap vt.&n.拍打 vi.拍动
+	flare vi.闪耀 vt.使闪亮
 flaring adj. 火焰摇曳的，过份艳丽的
-flash vi.(火焰等)一闪,闪亮
+	flash vi.(火焰等)一闪,闪亮
 flashing n. & a. 闪光的，闪烁的
 flashlight n.手电筒
 flash-locks n. 闸门
 flashy a. 闪光的,一瞬间的,浮华的
 flask n.瓶；火药筒；砂箱
-flat a.平的，扁平的
+		flat a.平的，扁平的
 flatboat n. 平底船
 flat-bottomed  adj. <船>平底的
 flatcar n. 平台型铁路货车
 flation 物价稳定
 flatly ad. 平淡地；断然地
 flatten vt.把…弄平；击倒
-flatter vt.阿谀,奉承；使满意
+	flatter vt.阿谀,奉承；使满意
 flatterer n. 拍马屁的人,阿谀者,谄媚者
 flattering a. 谄媚的；奉承的
 flattery n. 谄媚,阿谀,巴结
 flatulence n. 肠胃气胀
 flaunt v. 炫耀，张扬
-flavor n. 滋味,香料
-flavour n.味，味道；风味
+	flavor n. 滋味,香料
+	flavour n.味，味道；风味
 flavouring n. 香料，调味品
-flaw n.缺点，瑕疵；裂隙
+	flaw n.缺点，瑕疵；裂隙
 flawless adj. 完美的，无瑕疵的
 flax n. 亚麻
 flaxen a. 亚麻的,亚麻色的,淡黄色的
@@ -8482,27 +8482,27 @@ flection n. 弯曲；词尾变化
 fled flee的过去式(分词)
 fledged adj. 羽毛长成的，成熟的
 fledgling n. 刚学飞的幼鸟，无经验的人
-flee vi.逃起 vt.避开
+	flee vi.逃起 vt.避开
 fleece n. 生羊皮，羊毛
 fleecy a. 以羊毛盖上的,羊毛似的,蓬松的
-fleet n.舰队；船队；车队
+	fleet n.舰队；船队；车队
 fleeting adj. 短暂的，飞逝的
 fleetness n. 快速,无常
-flesh n.肉；肉体
+	flesh n.肉；肉体
 fleshly a. 肉体的,肉欲的,耽于声色的
 fleshy a. 肉的,肉体的,丰满的
 flew fly的过去式；飞
 flex v. 屈曲(四肢)；流动；弯曲
 flexibility n. 灵活性
-flexible a.易弯曲的；灵活的
+	flexible a.易弯曲的；灵活的
 flick n./v. 轻打，轻弹
 flicker v. 闪烁，摇曳
 flier n. 飞行者,快船,快车
-flight n.航班；飞行；逃跑
+		flight n.航班；飞行；逃跑
 flighty adj. 轻浮的，反复无常的
 flimsy adj. 轻而薄的，脆弱的
 flinch v. 畏缩，退缩
-fling vi.&vt.(用力)扔，抛
+	fling vi.&vt.(用力)扔，抛
 flint n. 打火石，燧石
 flinty adj. 极坚硬的
 flip vt. 掷,弹,轻击,空翻
@@ -8514,15 +8514,15 @@ flirtation n. 调情,挑逗,调戏
 flirtatious adj. 调情的
 flit v. 掠过，迅速飞过
 flitch n. 腌的猪肋肉,大比目鱼的肉片,
-float vi.漂浮 vt.使漂浮
+	float vi.漂浮 vt.使漂浮 n. 彩车；花车；漂流物；浮萍
 floating a. 浮在水上的；浮动的，浮点的；流动；发行
-flock n.羊群，群；大量
+	flock n.羊群，群；大量
 floe n. 大浮冰
 flog vt. 鞭打,鞭策,迫使
-flood n.洪水 vt.淹没
+		flood n.洪水 vt.淹没
 floodgate n. 水门,水闸,防潮水闸
 flooding n. 洪水泛滥；泛滥
-floor n.地板；楼层
+		floor n.地板；楼层
 floorboards n. (pl.)地板
 flooring n. 地板,地板材料,铺地板
 floorwalker n.巡视员
@@ -8541,26 +8541,26 @@ flotilla n. 小舰队,小型船队
 flotsam n. 浮货,废料,零碎
 flounce n. 衣裙上的荷边装饰,挣扎,挣脱
 flounder v. 挣扎，艰苦地移动
-flour n.面粉，粉；粉状物质
-flourish vi.繁荣，茂盛，兴旺
+	flour n.面粉，粉；粉状物质
+	flourish vi.繁荣，茂盛，兴旺
 flout v. 蔑视，违抗
-flow vi.流，流动
+	flow vi.流，流动
 flowchart 流程图
-flower n.花，花卉；开花
+		flower n.花，花卉；开花
 floweret n. 小花
 flowerpot n. 花盆,花钵
 flowery a. 多花的,绚丽的,华丽的
 flowline 流水线
 flown a. 刚出巢的；fly的过去分词；飞
 flu n.流行性感冒
-fluctuate vi.波动 vt.使波动
+	fluctuate vi.波动 vt.使波动
 fluctuation n.波动；脉动；踌躇
 flue n. 烟洞,烟道,蓬松的东西,渔网,
 fluency n. 流畅,雄辩,善辩
-fluent a.流利的，流畅的
+	fluent a.流利的，流畅的
 fluff n. 软毛,柔毛,无价值的东西,错误,
 fluffy adj. 有绒毛的，空洞的
-fluid n.流体，液体
+	fluid n.流体，液体
 fluke n. 侥幸，偶然的机会
 flume n. 水槽,水道
 flung fling的过去式(分词)
@@ -8569,67 +8569,67 @@ fluorescence n.荧光；发荧
 fluorescent adj. 荧光性的；萤光的，发光的
 fluoroscopy n. 荧光检查；荧光学
 flurry n. 疾风,飓风,慌张
-flush n.兴奋，脸红；发烧
+	flush n.兴奋，脸红；发烧
 fluster v. 使困惑，慌乱
 flute n. 笛子
 fluted a. 笛声的,有凹槽的
 flutter vi.(鸟)振翼；飘动
 flux n.流；涨潮；流量
-fly v.飞跑，逃跑，消失
+	fly v.飞跑，逃跑，消失
 flyer n. 飞鸟,飞行物,飞行员,飞跳,传单,
 flyover n.公路上的陆桥
 flywheel n. 调速轮
 foal n. 驹
-foam n.泡沫；泡沫塑料
+	foam n.泡沫；泡沫塑料
 foamy a. 全是泡沫的,起泡沫的,泡沫的
 fob n. 表袋,短表链
 focal a. 焦点的,在焦点上的
-focus vi.聚焦，注视 n.焦点
+		focus vi.聚焦，注视 n.焦点
 focus...on 使眼睛注视，集中
 fodder n. 草料
 foe n. 仇敌,反对者,敌人
 foeman n. 敌兵,敌人
 foetid a.恶臭的
 foetus n. 胎儿
-fog n.雾
+	fog n.雾
 foggy adj.多雾的；模糊的
 foghorn n. 雾角
 fogy n. 守旧者,赶不上时代的人
 foible n. 小缺点，小毛病
 foil n. 钝剑，箔，锡箔纸
 foist vt. 偷偷插入,使混入,硬卖给
-fold vt.折叠；合拢 n.褶
+		fold vt.折叠；合拢 n.褶
 folder n. 折叠人,折纸机,折叠式书本,
 foliage n. 叶子（总称）
 folio n. 对开的纸,页码或张数,(原稿的)一页
-folk n.人们，家属，亲属
+	folk n.人们，家属，亲属
 folklore n. 民俗学，民间传说
 follicle n. 小囊,滤泡,骨突
-follow vt.跟随;(时间等)接着
+		follow vt.跟随;(时间等)接着
 follower n.追随者；信徒
 follow-evaluation 追踪考察
-following adj. 接着的；以下的；下列的；其次的；在…以后n. 下一个
+	following adj. 接着的；以下的；下列的；其次的；在…以后n. 下一个
 follow-up n. & adj. 后续(的)；接着的
 folly n. 愚蠢
 foment v. 煽动，助长（坏事）
 fomentation n. 煽动，助长
-fond adj.喜爱的；爱好的
+	fond adj.喜爱的；爱好的
 fondle v. 抚弄，抚摸
 fondly ad. 喜爱地；愚蠢地
 fondness n.慈爱; 溺爱
 font n. 字体,字形,洗礼盘,泉
-food n.食物
+		food n.食物
 foodstuff n. 食料，食品
-fool vi.&vt.愚弄，欺骗
+		fool vi.&vt.愚弄，欺骗
 foolery n. 愚蠢的行为,愚事,愚蠢
 foolhardy adj. 鲁莽的，有勇无谋的
-foolish adj.愚蠢的，傻的
+	foolish adj.愚蠢的，傻的
 foolishly adv. 愚蠢地；荒谬地
 foolishness n.愚蠢
 foolproof adj. 错不了的，容易懂的
 foolscap  n.大页书写纸
-foot n. 足；脚；英尺；最下部；底部
-football n.足球比赛；足球
+		foot n. 足；脚；英尺；最下部；底部
+		football n.足球比赛；足球
 footbrake n. 脚闸
 footfall n. 脚声,踏步,脚步
 foothold n. 立足点，根据地
@@ -8643,12 +8643,12 @@ foot-note 脚注，附注
 footpath n.小路，人行道
 footprint n.脚印，足迹
 footsore a. 伤了脚的
-footstep n.脚步；脚步声；足迹
+	footstep n.脚步；脚步声；足迹
 footstool n. 脚台
 fop n. （喜好精致服装的）花花公子.
 foppery n. 打扮,矫饰,纨绔习气
 foppish adj. 浮华的，俗丽的
-for prep.为
+		for prep.为
 for...sake 为了…的缘故(之好处)
 forage n. （牛马的）饲料，粮草v. 搜寻，翻寻
 forager n. 为动物寻找饲料的人
@@ -8657,11 +8657,11 @@ forbade forbid的过去式
 forbear vt.vi. 忍耐,克制,容忍
 forbearance n. 自制，忍耐
 forbearing adj. 忍耐的，宽容的
-forbid vt.禁止；不许
+	forbid vt.禁止；不许
 forbidden a. 被禁止的,严禁的
 forbidding  adj.令人生畏的；(表情)冷峻的，形势险恶的
-forcast vt./n.预测，预报
-force vt.强迫，迫使
+	forcast vt./n.预测，预报
+		force vt.强迫，迫使 n. 力量；武力；军队
 forced a. 强制的，强迫的；压力的
 forceful a. 有力的,强烈的
 forceps n. （医用）钳子，镊子
@@ -8669,7 +8669,7 @@ forces n. 军队
 forcible a. 强制的,强迫的,有气力的
 forcibly ad. 强行地，强烈地
 ford n. 浅滩，水浅可涉处v. 涉水
-fore ad.在前面 a.先前的
+		fore ad.在前面 a.先前的
 forearm n. 前臂
 foreat n. 森林
 forebode v. 预兆，凶兆
@@ -8692,29 +8692,29 @@ foregoing adj. 先行的，上述的；在前的，前述的
 foregone a. 先前的,过去的,已知的
 foreground n. 前景,最显著的位置
 forehand n. 马体的前部,正打,正击
-forehead n.额头，前部
-foreign adj. 外国的；外来的；无关的；对外的；外国来的；(to)使联系的；异质的，陌生的
-foreigner n.外国人
+	forehead n.额头，前部
+	foreign adj. 外国的；外来的；无关的；对外的；外国来的；(to)使联系的；异质的，陌生的
+	foreigner n.外国人
 foreknow vt. 预知,预见
 foreknowledge n. 预知,先见之明
 foreland n. 沿海地区,海角,海岸地
 foreleg n.(前物的)前腿
 forelock n. 额发,额毛,栓,销
 foreman n. 领班,工头,陪审长
-foremost a.最初的；第一流的
+	foremost a.最初的；第一流的
 forenoon n. 午前,上午
 forensic adj. 法庭的，辩论的
 forepart n. 前部,最前部
 forerun vt. 预告,预报,预示,走在...之前
 forerunner n. 预兆，前兆，先驱.
-foresee vt.预见，预知，看穿
+	foresee vt.预见，预知，看穿
 foreseen foresee的过去分词
 foreshadow vt. 成为前兆,暗示,预示
 foreshorten vt. 照远近法画,缩小深度而画
 foreshow vt. 预示
 foresight n. 远见
 foreskin  n.  (阴茎的) 包皮
-forest n.森林
+		forest n.森林
 forestall v. 先发制人，预先阻止
 forester n.林务员
 forestry n. 林产,森林地
@@ -8722,48 +8722,48 @@ foretaste v. 预示，迹象，先尝试
 foretell vt. 预言；预告v. 预告，预言
 forethought n. 考虑将来,深虑,先见
 foretold foretell过去式(分词)
-forever ad.永远，总是，老是
+		forever ad.永远，总是，老是
 forewarm v.预先警
 forewarn vt. 预先警告
 forfeit v. 丧失，没收，n. 丧失物
 forfeiture n. （名誉等）丧失
-forge vt.打(铁等)，锻造
+	forge vt.打(铁等)，锻造
 forger n. 伪造者，打铁匠
 forgery n. 伪造（物）
-forget vt.忘记，遗忘
+		forget vt.忘记，遗忘
 forgetful a. 健忘的,易忘的
 forgetfulness n.健忘症; 忘却
 forget-me-not 勿忘草；勿忘我
 forging n. 锻件；锻造(法)
-forgive vt.原谅，饶恕，宽恕
+		forgive vt.原谅，饶恕，宽恕
 forgiven forgive的过去分词
 forgiveness n. 宽恕,宽仁之心
 forgo v. 放弃，抛弃
 forgot forget的过去式；忘记
 forgotten forget 的过去分词；忘记
-fork n.叉；餐叉
+	fork n.叉；餐叉
 forlorn adj. 孤独的，凄凉的
-form vt.(使)组成，建立
-formal a.正式的；礼仪上的
+	form vt.(使)组成，建立
+	formal a.正式的；礼仪上的
 formaldehyde n. 甲醛,蚁醛
 formalin n. 福尔马林
 formalism n. 拘泥形式,形式主义,虚礼
 formality n. 礼节,程序,拘谨,正式手续
 formally ad. 形式地，正式地；adj. 正式的
-format n. 格式，样式；形式；版式，(计算机的)格式，编排；vt. 设计，(计算机上)将…格式化
-formation n.形成；构成；形成物
+		format n. 格式，样式；形式；版式，(计算机的)格式，编排；vt. 设计，(计算机上)将…格式化
+	formation n.形成；构成；形成物
 formative adj. 形成的，影响发展的
 formatted a. 有格式的
 formatting n. 格式化
 form-blind a. 形盲的
 formed a. & n. 成形；(血液)有形成分
-former a.在前的 n.前者
+	former a.在前的 n.前者
 formerly ad.以前，从前
-formidable a.可怕的；难对付的
+	formidable a.可怕的；难对付的
 formless a. 无定形的,形体不明的,没有形状的
-formula n.公式，式
+	formula n.公式，式
 formulary n. 公式集,处方一览表,定式
-formulate vt.用公式表示
+	formulate vt.用公式表示
 formulation n.明确的表达
 fornication n. 通奸,通奸,乱伦
 forrign adj. 外国的
@@ -8774,81 +8774,81 @@ forsooth ad. 实在,的确,真的
 forswear v. 誓绝，放弃
 fort n.要塞，堡垒
 forte n. 长处，擅长，adj. （音乐）强音的
-forth ad.向前；向外，往外
-forthcoming a.即将到来的；现有的
+	forth ad.向前；向外，往外
+	forthcoming a.即将到来的；现有的
 forthwith ad. 立刻,不犹豫地,不延迟地
 fortieth a. 第四十的,第四十个的,四十分之一的
 fortification n. 防御工事,要塞,筑城
 fortify vt. 增强
 fortitude n. 坚毅，坚忍不拨
-fortnight n.两星期，十四天
+	fortnight n.两星期，十四天
 fortran 公式翻译程序
 fortress n.堡垒，要塞
 fortuitous adj. 偶然的，意外的
 fortuity n. 偶然事件
-fortunate a.幸运的，侥幸的
+		fortunate a.幸运的，侥幸的
 fortunately adv. 幸亏；幸运地；幸而；幸好
-fortune n.命运，运气；财产
+	fortune n.命运，运气；财产
 fortune-teller n. 占卜者，算命先生
-forty num.四十，第四十
+		forty num.四十，第四十
 forty-two n. 四十二
-forum n.论坛，讨论会
-forward adv.向前，前进
+	forum n.论坛，讨论会
+		forward adv.向前，前进
 forwarder 代运人，转运公司，运输代理
 forwarding 发运的
 forwardness n. 大胆，鲁莽
 forwards ad，向前
 fosse n. 护城河
-fossil n.化石 a.化石的
-foster vt.养育，抚养；培养
+	fossil n.化石 a.化石的
+	foster vt.养育，抚养；培养
 fought fight的过去式(分词)；战斗
-foul a.肮脏的；丑恶的
+	foul a.肮脏的；丑恶的 n. 犯规；缠绕； vt. 犯规；弄脏；缠绕；妨害
 foulard n. 一种薄软的绸,用该布制的手帕
-found vt.创立，创办；建立
-foundation n.地基
+		found vt.创立，创办；建立
+		foundation n.地基
 founder n.创立者，奠基者
 foundry n. 铸造,铸造场,铸造类
 fount n. 泉,墨水缸
-fountain n.泉水，喷泉；源泉
+	fountain n.泉水，喷泉；源泉
 fountainhead n. 水源,源,本源
-four num.四
+		four num.四
 four-poster n. 有四柱的床
 fourscore a. 八十的,八十个的
 foursquare a. 正方形的,直爽的,坚定的
-fourteen num.十四
-fourteenth num. 第十四
+		fourteen num.十四
+		fourteenth num. 第十四
 fourth num.第四 n.第四日
 fowl n.家禽；禽肉
 fowler n. 捕鸟者
-fox n.狐狸
+		fox n.狐狸
 foxglove n. 指顶花
 foyer n. 门厅，休息室
 fracas n. 喧嚷，吵闹
-fraction n.小部分；片断；分数
+	fraction n.小部分；片断；分数
 fractional adj. 微小的，极小的
 fractious adj. （脾气）易怒的，好争吵的
-fracture n.破裂；裂痕 vi.破裂
-fragile a.脆的；体质弱的
+	fracture n.破裂；裂痕 vi.破裂
+	fragile a.脆的；体质弱的
 fragility n. 易碎，脆性
-fragment n.碎片，破片，碎块
+		fragment n.碎片，破片，碎块
 fragmentary adj. 零碎的，不完整的
 fragrance n. 香味
-fragrant a.香的，芬芳的
+	fragrant a.香的，芬芳的
 frail a.脆弱的；意志薄弱的
 frailty n. 脆弱，弱点
-frame n.框架，框子；构架
+		frame n.框架，框子；构架
 framed a. 遭到陷害的
 frame-up n. 陷害，虚构的罪名
-framework n.框架，构架，结构
+		framework n.框架，构架，结构
 franc n. 法郎(法国货币单位)
 France n.法国
-franchise n. 公民权,特权,免赔额
+	franchise n. 公民权,特权,免赔额
 franchisee n.特许经营权
 franchiser n.给别人经营联营特许权的公司或制造厂
 franchising 出卖产销权
 Franciscan a. St.Francis 的,圣芳济修会的
 francisco n. 弗朗西斯科(男名)
-frank a.坦白的，直率的
+	frank a.坦白的，直率的
 frankincense n. 乳香
 frankly  adv.坦率地说；坦率地；直率地；慷慨地
 frankness n. 率直,坦白
@@ -8859,7 +8859,7 @@ fraternal adj. 兄弟的，友善的
 fraternity n. 同行，友爱
 fraternize vi. 结有深交,友善
 frau n. (德)太太，夫人
-fraud n. 欺诈，欺骗，骗子
+	fraud n. 欺诈，欺骗，骗子
 fraudulent adj. 欺骗的，不诚实的
 fraught adj. 充满
 fray n. 吵架，打斗v. 磨破，恼火
@@ -8867,21 +8867,21 @@ freak n. 怪物，奇事adj. 反常的，奇特的
 freakish a. 朝三暮四的,见异思迁的,珍奇的
 freckle n. 雀斑，斑点
 freckled a. 有雀斑的，有斑点的
-free a.自由的；空闲的
+		free a.自由的；空闲的
 freebooter n. 海盗
 freedman n. 自由民,被解放的奴隶
-freedom n.自由；自主
+		freedom n.自由；自主
 freedom-loving adj. 热爱自由的
-freelancer n.自由职业者
+	freelancer n.自由职业者
 freely ad.自由地；直率地
 freeman n. 自由民,公民,正会员
 Freemason n. 互济会会员
 freesia 鸢尾科之植物
 freeway n. 高速公路
-freeze vi.冻；结冻vt.使结冰
+		freeze vi.冻；结冻vt.使结冰
 freezer n. 冰库,冰箱,冷冻库
 freezing adj. 极冷的，冻结的；迸发结的
-freight n.货运；货物；运费
+	freight n.货运；货物；运费
 freighter 货轮；托运人，承运人
 freight-in 运入运费，进货运费
 freight-out 运出运费，销货运费
@@ -8890,11 +8890,11 @@ Frenchman n.法国人
 frenetic adj. 狂乱的，发狂的
 frenzied a. 狂热的,狂乱的,激怒的
 frenzy n. 狂暴,狂怒
-frequency n.屡次；次数；频率
-frequent a.时常发生的；经常的
+		frequency n.屡次；次数；频率
+		frequent a.时常发生的；经常的
 frequently ad.时常，常常
 fresco n. 壁画
-fresh adj.新鲜的
+		fresh adj.新鲜的
 freshen vt.使显得新鲜
 freshet n. (流入海中的淡水) 河流
 fresh-faced adj. 面带稚气的
@@ -8908,19 +8908,19 @@ fretwork n. 格子细工（在木头上雕出各种图案，格子的工艺）
 friable adj. 易碎的
 friar n. 修道士
 fricassee n. 烧鸡肉或小牛肉成肉丁浇汁者
-friction n.擦热皮肤
-Friday n.星期五
+	friction n.擦热皮肤
+		Friday n.星期五
 fridge n. 电冰箱
 fried adj. 油煎的；油炸的
-friend n.朋友
+		friend n.朋友
 friendless a. 没有朋友的,无依无靠的
 friendliness n. 友谊,亲切,亲密
-friendly adj.友好的
-friendship n.友谊，友好
+		friendly adj.友好的
+		friendship n.友谊，友好
 frieze n. （在墙顶与天花板间起装饰作用的）横条，饰带
 frigate n. 护航舰，大型驱逐舰
-fright n.惊吓，恐怖
-frighten vt.吓唬
+	fright n.惊吓，恐怖
+	frighten vt.吓唬
 frightened adj. 受惊的，害怕的；受惊吓的
 frightening adj. 令人害怕的
 frightful adj. 可怕的；丑的；讨厌的；不愉快的；令人恐怖的
@@ -8928,7 +8928,7 @@ frightfully ad. 可怕地；非常
 frigid a. 死板的；呆板的，寒冷的
 frigidity n. 寒冷，冷淡，性冷淡
 frill n. 衣饰上的皱边,皱边纸饰
-fringe n.穗，毛边；边缘
+	fringe n.穗，毛边；边缘
 frippery n. 低俗，俗艳
 frisbee n. 飞盘(塑料玩具)
 frisk n./v. 蹦跳，娱乐
@@ -8940,55 +8940,55 @@ frivolous adj. 轻泛的，轻佻的
 frizzle n. 卷发,卷毛,吱吱响声
 fro ad. 往，去，回，向后；向那边；(to and fro)来来回回地；adj. 回，离开
 frock n.(女)上衣，罩衫
-frog n.蛙
+	frog n.蛙
 frolic n./v. 嬉戏，雀跃.
 frolicsome adj. 快活的，欢乐的
-from prep.从；从...起；由
-from...to... 从…到…
+		from prep.从；从...起；由
+		from...to... 从…到…
 frond n. （羊齿（fern），棕榈等的）叶子
-front a.前面的 n.前部
+		front a.前面的 n.前部
 frontage n. 房子的正面,朝向
 frontal a. 前面的,正面的,额的
-frontier n.边境；边疆；新领域
+	frontier n.边境；边疆；新领域
 frontiersman  n. 边疆居民,边境的开拓者
 frontispiece n.主立面；(书籍的)卷首插画
 frontlet n. 附于额前之物
-frost n.冰冻，严寒；霜
+	frost n.冰冻，严寒；霜
 frosty a. 下霜的,严寒的,冷淡的
 froth n. 泡,泡沫,琐物
 froward a. 顽固的,固执的,刚愎的
-frown vi.皱眉，蹙额
+	frown vi.皱眉，蹙额
 frowzy adj. 不整洁的，污秽的
 froze freeze的过去式；冻结
 frozen freeze的过去分词；a. 冷冻的；冻结
 fructify v. 结果实，成功
 frugal a. 节俭的,朴素的
 frugality n. 节约，节俭
-fruit n.水果
+		fruit n.水果
 fruitage n. 果实,水果,结果实
 fruiterer n. 水果商
-fruitful a.多产的；肥沃的
+		fruitful a.多产的；肥沃的
 fruition n. 结果实,成就,实现
 fruitless a. 无结果的
-frustrate vt.挫败；使无效
+	frustrate vt.挫败；使无效
 frustration n. 打破,挫折,顿挫
-fry vt.油煎，油炸，油炒
+	fry vt.油煎，油炸，油炒
 frying 煎的
 frying-pan n. 长柄平锅，煎锅
 fuchsia n. 晚樱科植物
 fuddle vt. 灌醉,使烂醉,使迷糊
 fuddled 醉的
 fudge n. 梦话,胡话,纸中另版插印记事
-fuel n.燃料 vt.给…加燃料
+	fuel n.燃料 vt.给…加燃料
 fugitive adj. 逃亡的，易逝的n. 逃犯，逃亡者
 fugue n. 赋格曲,朦胧状态,记忆丧失症
 fulcrum n. 杠杆支点，支柱
-fulfil vt. 达到(目的)，实现；满足；完成；执行；履行(诺言、责任等)，执行(命令等)，完成(计划、任务等)，达到(目的) v. 完成，满足要求
-fulfill vt. 实践,履行,实行,满足,结束
+	fulfil vt. 达到(目的)，实现；满足；完成；执行；履行(诺言、责任等)，执行(命令等)，完成(计划、任务等)，达到(目的) v. 完成，满足要求
+	fulfill vt. 实践,履行,实行,满足,结束
 fulfillment n.履行，完成，实现
 fulfilment n.履行，完成，实现
 fulgent a. 光辉的,灿烂的
-full adj.满
+		full adj.满
 full-bodied adj. (味道等)浓郁而强烈的
 fuller n. 漂洗工
 full-fledged adj. 羽毛丰满的，成熟的
@@ -9004,20 +9004,20 @@ fulmination n. 抨击，谴责
 fulsome adj. 虚情假意的，丰满的
 fulsomeness n. 虚情，谄媚
 fumble v. 摸索，搜寻
-fume n./v. 愤怒，冒烟
+	fume n./v. 愤怒，冒烟
 fumes n. (强烈而刺激的)气味，气体
 fumigate v. 以烟熏消毒
 fumigation 烟熏，熏仓
-fun n.有趣的事，玩笑
-function n.功能；职务；函数
+		fun n.有趣的事，玩笑
+		function n.功能；职务；函数
 functional a. 功能的
 functionally ad. 功能上，机能上
 functionary n. 小官，低级公务员
-fund n.资金；基金；存款
+	fund n.资金；基金；存款
 fundament n. 基础，基本原理
-fundamental a.基础的，基本的
+		fundamental a.基础的，基本的
 funds 基金，资金，经费，专款
-funeral n.葬礼，丧礼，丧葬
+	funeral n.葬礼，丧礼，丧葬
 funereal a. 送葬的,适合葬礼的,悲哀的
 funfair n.儿童乐园；游乐场
 fungicide n. 杀真菌剂
@@ -9025,41 +9025,41 @@ fungous a. 草的,草似的,海绵状的
 fungus n. 真菌
 funk n. 恐惧，恐怖
 funnel n. 漏斗；漏斗形物，vt. 传送；运送
-funny adj.滑稽可笑的
+		funny adj.滑稽可笑的
 funny-looking adj. 样子好笑的；样子古怪的
-fur n.(兽类的)软毛；皮毛
+	fur n.(兽类的)软毛；皮毛
 furbish v. 磨光，刷新
-furious a.狂暴的；强烈的
+	furious a.狂暴的；强烈的
 furiously ad. 狂怒地；有力地
 furl vt. 卷收,叠,收下
 furlong n. 英国长度单位
 furlough n. 休假
-furnace n.炉子，熔炉；鼓风炉
-furnish vt.供应，提供；装备
+	furnace n.炉子，熔炉；鼓风炉
+	furnish vt.供应，提供；装备
 furnished a.带家具的
 furnishings 设备，陈设品
-furniture n.家具；装置，设备
+	furniture n.家具；装置，设备
 furor n. 激怒,感动,狂热
 furred a. 毛皮的；毛皮做的
 furrier n. 毛皮商,毛皮衣制作工
 furrow n. 犁沟，皱纹
 furry a. 毛皮的,盖着毛皮的,似毛皮的
-further vt.增进
+	further vt.增进 adj. 更远的，深一层的
 furtherance n. 助长,助成,促进
-furthermore ad.而且，此外
+	furthermore ad.而且，此外
 furthest adj. & adv. 最远；a. 最远的；ad. 最远地
 furtive adj. 偷偷的，秘密的
 fury n.狂怒，暴怒；猛烈
 furze n. 金雀花
-fuse n.保险丝，导火线
+	fuse n.保险丝，导火线
 fusillade n. （枪炮）齐射，连发
 fusion n. 熔合物,结合,熔合
-fuss n.忙乱；吹捧 vi.忙乱
+	fuss n.忙乱；吹捧；大惊小怪；大惊小怪的人；小题大作； vi.忙乱 
 fussy adj. 爱挑剔的
 fustian n. 空洞的话，无意义的高调
-futile a. 无用的,琐细的,无效果的
+	futile a. 无用的,琐细的,无效果的
 futility n. 无用，无益
-future n.将来，未来
+		future n.将来，未来
 futures n. 期货；期货(比率)
 futurity n. 未来,将来; 来世,后世
 fuzz n. 细毛,绒毛,警员
@@ -9070,7 +9070,7 @@ gaberdine n. 工作服,华达呢
 gable n. 山形墙,人字板
 gad vi. 闲逛,游荡,蔓延
 gadfly n. 虻，牛虻
-gadget n. 小工具，小机械
+	gadget n. 小工具，小机械
 gaff n. 鱼叉,斜桁,鸡脚上的铁爪
 gaffe n. (社交上令人不快的)失言，失态
 gag n. 箝口物,箝制言论,讨论终结
@@ -9078,7 +9078,7 @@ gage n. 抵押品,挑战
 gaggle n. 鹅群
 gaiety n. 欢乐，快活
 gaily ad. 华丽地,欢乐地
-gain vt.&vi.获得 n.利益
+		gain vt.&vi.获得 n.利益
 gainful a. 有利益的,唯利是图的
 gainless 无利益的
 gains n. 收益
@@ -9087,7 +9087,7 @@ gait n. 步法,步态
 gaiter n. 绑腿,长统橡胶靴
 gala n. 祭日,节日,祝贺
 galactic adj. 星系的，银河系的
-galaxy n. （银河）星群，显赫的人群.
+		galaxy n. （银河）星群，显赫的人群.
 gale n. 狂风，一阵（笑声）
 galena  n. 方铅矿
 galileo 伽利略
@@ -9096,9 +9096,9 @@ gallant adj. 勇敢的，（向女人）献殷勤的
 gallantry n. 勇敢，殷勤
 gallbladder n. 胆囊
 galleon n. 西班牙或地中海的大帆船
-gallery n.长廊，游廊；画廊
+		gallery n.长廊，游廊；画廊
 galley n. 船上的厨房
-gallon n.加仑
+	gallon n.加仑
 gallop n./v. （马）飞奔，疾驰
 gallows n. 绞刑架，绞台
 galore n. 丰富adv. 丰富地
@@ -9106,11 +9106,11 @@ galvanic a. 流电的,以流电所产的,抽搐的
 galvanism n. 流电,流电学,电疗法
 galvanize v. 电镀，通电，激励
 gambit n. (常指带风险的)策略；弃兵局(指国际象棋开局让棋法)
-gamble n.赌博 vt.冒…的险
+	gamble n.赌博 vt.冒…的险
 gambler n. 赌博的人,赌徒
 gambling n. 赌博
 gambol n. 雀跃，嬉戏
-game n.游戏，运动，比赛
+		game n.游戏，运动，比赛
 gamekeeper n. 猎场看守人
 games 运动员
 gamesome  adj. 好戏谑的,好玩的,好作乐的
@@ -9118,22 +9118,22 @@ gamester n. 赌博者,赌徒
 gammon n. 腌猪后腿,胡说
 gamut n. 全音阶，（一领域的）全部知识
 gander n. 雄鹅v. 闲逛
-gang n.一帮，一伙
+	gang n.一帮，一伙
 gangling adj. 细长的，不结实的
 ganglion n. 神经节,神经中枢,腱鞘瘤
 gangrene n. 坏疽,脱疽,腐败堕落的根源
 gangster n.匪徒，歹徒，暴徒
 gangway n. （上下船的）跳板
-gaol n. 监狱；监禁；vt. 使…坐牢
+	gaol n. 监狱；监禁；vt. 使…坐牢
 gaoler n. 监狱看守
-gap n.空隙；缺口
+		gap n.空隙；缺口
 gape n. 裂口,张嘴,打哈欠
-garage n.汽车间(或库)
+	garage n.汽车间(或库)
 garb n. 装束
-garbage n.垃圾，污物，废料
+		garbage n.垃圾，污物，废料
 garble v. 曲解，窜改
 garbled adj. 篡改的；曲解的
-garden n.花园，菜园；公园
+		garden n.花园，菜园；公园
 gardener n.园丁，花匠
 gardenia n. 栀子花
 gardening n. 园艺(学)
@@ -9142,8 +9142,8 @@ gargle vt. 漱
 gargoyle n. （雕刻成怪兽状的）滴水嘴，面貌丑恶的人
 garish adj. 俗丽的，过于艳丽的
 garland n. （作为胜利标志的）花环，奖品
-garlic n.蒜，大蒜
-garment n.衣服；服装，衣着
+	garlic n.蒜，大蒜
+	garment n.衣服；服装，衣着
 garner v. 收藏，积累
 garnet n. 石榴石,深红色
 garnish v. 装饰（于食品上）
@@ -9156,40 +9156,40 @@ garrulity n. 唠叨，饶舌.
 garrulous adj. 唠叨的，多话的
 garter n. 袜带
 gary 加里(男名)
-gas n.煤气；气体；汽油
+		gas n.煤气；气体；汽油
 gasconade n. 吹牛，夸口
 gaseous a.气体的，气态的
 gash n. 深长的伤口，裂缝
 gasolene n.汽油
 gasoline n.(美)汽油
-gasp vi.喘息；喘气
+	gasp vi.喘息；喘气
 gastric adj. 胃的，胃部的
 gastritis n. 胃炎
 gastrointestinal a. 胃肠的
 gastronomy n. 美食法，美食学
 gastrostomy n. 胃造口术
-gate n.大门
+		gate n.大门
 gatekeeper n. 看门人；门警；门卫；守门人
 gateway n.门口，入口；关口
-gather vt.推测，推断
+	gather vt.推测，推断；收集 n. 聚集；衣褶；收获量；
 gathering n.集会，聚会，聚集
 gauche adj. 笨拙的，不会社交的
 gaucherie n. 笨拙
 gaud n. 俗丽,俗丽的装饰,俗丽的仪式
 gaudy adj. 俗丽的
-gauge vt.量，测量 n.量器
+	gauge vt.量，测量 n.量器
 gaunt adj. 憔悴的，瘦削的
 gauntlet n. 铁手套,长手套,手腕,交叉射击
 gauze n. 沙布，薄纱
 gave  v. give(给)的过去分词；过去式
 gavel  n.拍卖槌；年贡，税；(法官所用的)槌，小木槌
-gay a.快乐的；鲜明的
-gaze vi.凝视，盯，注视
+	gay a.快乐的；鲜明的
+	gaze vi.凝视，盯，注视
 gazelle n. 瞪羚
 gazer  (C) 凝视者
 gazette n. 报,公报,报纸
 gazetteer n. 地名词典，地名表
-gear n.齿轮，传动装置
+	gear n.齿轮，传动装置
 gearbox n. 齿轮箱
 gee n. 马,家伙
 geese n. 鹅(复数)；goose的复数
@@ -9200,27 +9200,27 @@ gelatinous a. 凝胶状的
 gem n. 宝石，珠宝
 gen 表示"产生"，"生长"
 gendarme  n.  (法国等之) 警官,宪兵
-gender n. 性别
-gene n. 基因；遗传因了
+	gender n. 性别
+		gene n. 基因；遗传因了
 genealogical a. 宗谱的,家系的,系谱的
 genealogy n. 系谱,宗谱,家系
-general a.总的；一般的n.将军
-generalise vt. 使一般化，归纳出，概括；vi. 形成概念，笼统地讲/写
+		general a.总的；一般的n.将军
+	generalise vt. 使一般化，归纳出，概括；vi. 形成概念，笼统地讲/写
 generality n. 概论,概说,大要
 generalization n.一般化；概括，综合
 generalize vt.概括出vi.形成概念
 generally ad.一般地；通常地
-generate vt.发生；引起；生殖
+		generate vt.发生；引起；生殖
 generating adj. 发生的
-generation n.一代，一代人；产生
+		generation n.一代，一代人；产生
 generative a. 生殖的,生产的,有生殖力的
-generator n.发电机；发生者
+	generator n.发电机；发生者
 generic adj. 种类的、类属的
 generosity n.慷慨，宽宏大量
-generous a.慷慨的；宽厚的
+	generous a.慷慨的；宽厚的
 generously 宽大地；ad. 慷慨地
 genesis n. 创始，起源
-genetic adj. 遗传的，起源的
+	genetic adj. 遗传的，起源的
 genetically ad.遗传(基因)方面
 genetics n. 遗传学
 geneva  n. 日内瓦(瑞士城市)
@@ -9228,41 +9228,41 @@ genial adj. 愉快的，脾气好的.
 geniality n. 和蔼，温和
 genie n.妖怪
 genitive a. 属格的
-genius n.天才；天才人物
+	genius n.天才；天才人物
 genoa n. 热那亚(意大利城市)
 genome n. 基因组，染色体组
-genre n. （文艺的）类型
+	genre n. （文艺的）类型
 gent n. 假绅士；家伙
 genteel a. 有教养的,上流的,优雅的
 gentian n. 龙胆属的植物,龙胆根
 gentile n. 非犹太人,异邦人,异教徒
 gentility n. 高贵的出身
-gentle adj.柔和的
+	gentle adj.柔和的 n. 蛆；饵
 gentlefolk ]出身名门 
-gentleman n.绅士；有教养的人
+		gentleman n.绅士；有教养的人
 gentlemen n. 男厕所
 gentleness n. 温顺,柔和,亲切
 gentlewoman n. 良家妇女,淑女,贵妇人
-gently adv.温柔地；柔和地
+	gently adv.温柔地；柔和地
 gentry n. 贵族们
 genuflect v. 曲膝半跪（以示敬意），屈从.
-genuine a.真的；真正的
+	genuine a.真的；真正的
 genuinely ad. 由衷地
 genus n. 种,类
 geographer n. 地理学者
 geographical a.地理的；地区(性)的
-geography n.地理，地理学
+	geography n.地理，地理学
 geological a. 地质学的,地质的
 geologically ad. 从地质上来说
 geologist n. 地质学家
-geology n.地质学
+	geology n.地质学
 geometric a. 几何的，几何形状的
 geometrical a.几何学的
-geometry n.几何，几何学
+	geometry n.几何，几何学
 georgette n. 一种极薄的透明细纱,乔其纱
 georgia n. 乔治亚(美国州名)
 geranium n. 天竺葵
-germ n.细菌
+	germ n.细菌；胚芽；萌芽
 German adj.德国的 n.德国人
 germane adj. 有密切关系的，贴切的
 Germanic a. 德国的,条顿民族的,条顿语的
@@ -9278,17 +9278,17 @@ gestate vt. 怀孕; 孕育
 gestation n. 怀孕，孕育时期
 gesticulate v. 做手势表达
 gesticulation n. 姿势,手势,做姿势传达
-gesture n.姿势，手势；姿态
-get v.取
+		gesture n.姿势，手势；姿态
+		get v.取
 get-together n. 聚集；集会；聚会，“联欢会”
 gewgaw n. 便宜货
 geyser n. 天然热喷泉
 ghastly a. 可怕的,惊人的,惨白的
 ghetto n.穷人或少数民族聚居
-ghost n.鬼，灵魂；鬼魂
+		ghost n.鬼，灵魂；鬼魂
 ghostly a. 幽灵的,影子似的,朦胧的
 ghoul n. 食尸鬼,饿鬼,盗墓者
-giant n.巨人；巨物
+		giant n.巨人；巨物
 gibber vi. 急促而不连贯地说
 gibbet n. 枭首台,绞首台,绞刑
 gibbon n. 长臂猿
@@ -9296,11 +9296,11 @@ gibe n./v. 嘲弄，讥笑
 giblets n. 鸡;鹅等的内脏;残余物
 giddiness n. 眼花,轻率
 giddy a. 眼花的,头晕的
-gift n.礼物，赠品；天赋
+		gift n.礼物，赠品；天赋
 gifted adj. 有天赋的；有才华的
 gig n. 旋转物,轻便双轮马车,赛艇,
-gigantic a.巨大的；巨人似的
-giggle vi.vt. 吃吃地笑,格格地笑
+	gigantic a.巨大的；巨人似的
+	giggle vi.vt. 吃吃地笑,格格地笑
 gild vt. 镀金,虚饰,装饰,使有钱
 gilded adj. 镀金的，富有的
 gill n.鳃
@@ -9318,7 +9318,7 @@ giraffe n. 长颈鹿,鹿豹座
 gird n. 讥诮
 girder n. 大梁
 girdle n. 腰带，转绕物v. 环绕
-girl n. 女孩；姑娘；女孩子，女儿；少女，女人；女职员
+		girl n. 女孩；姑娘；女孩子，女儿；少女，女人；女职员
 girlfriend n. 女朋友
 girlish a. 少女的,少女似的,适于女子的
 girls 女孩
@@ -9328,14 +9328,14 @@ girocheck 转帐支票
 girth n. 腰身,周长,肚带
 gist n. 要点，要旨
 git v. 获得；收到，(同)get
-give vt.做，作；送给
+		give vt.做，作；送给
 given give的过去分词；给
 giver n. 送礼者
 giving n. 礼物，给予物
 gizzard n. 砂囊,胃
 glacial a. 冰的
-glacier n.冰河，冰川
-glad a.高兴的；乐意的
+	glacier n.冰河，冰川
+		glad a.高兴的；乐意的
 gladden vt. 使喜悦
 glade n. 林中的空地
 gladiator n. 角斗士，与野兽博斗者
@@ -9343,16 +9343,16 @@ gladiolus n. 剑兰,唐菖蒲
 gladly ad. 愉快地，高兴地
 gladness n. 欢乐,欢喜,喜悦
 gladsome a. 高兴的,快乐的,愉快的
-glamor n. 迷人的美,魔法
+	glamor n. 迷人的美,魔法
 glamorous adj. 迷人的，富有魅力的
-glamour n. 魅力，魔力
-glance vi.看一下 n.一瞥
+	glamour n. 魅力，魔力
+		glance vi.看一下 n.一瞥
 gland n. 腺
 glandular a. 腺的
-glare vi.瞪眼 n.瞪眼
+	glare vi.瞪眼 n.瞪眼
 glaring adj. 耀眼的；瞪眼的；怒目而视的；刺目的
 glasgow n. 格拉斯哥(英国城市)
-glass n.玻璃；玻璃杯
+		glass n.玻璃；玻璃杯
 glasses (pl.) & n. 眼镜
 glassful n. 一杯的容量
 glasshouse n.温室，暖房
@@ -9370,40 +9370,40 @@ glee n. 欢喜，高兴
 gleeful adj. 欢乐的，欣喜的
 glen n. 峡谷,幽谷
 glib adj. 流利圆滑的，善辩的
-glide vi.滑动；消逝 n.滑行
+	glide vi.滑动；消逝 n.滑行
 glider n.滑翔机；滑翔导弹
 gliltter v.闪烁；闪耀；闪闪发
 glimmer v. 发微光，n. 摇曳的微光
-glimpse vt.瞥见 n.一瞥，一看
+	glimpse vt.瞥见 n.一瞥，一看
 glint n. 闪烁
 glisten v. 闪烁，闪耀.
-glitter vi.闪闪发光 n.闪光
+	glitter vi.闪闪发光 n.闪光
 gloaming n. 黄昏，薄暮
 gloat v. 幸灾乐祸地看，窃喜
-global  adj.球面的；全球的；全世界的，总的；世界的；地球的，环球的，全局的n. 全局，全程，全局符
+		global  adj.球面的；全球的；全世界的，总的；世界的；地球的，环球的，全局的n. 全局，全程，全局符
 globalization n. 全球化
 globalize v. 使…全球化
-globe n.球；球状物；地球
+	globe n.球；球状物；地球
 globular a. 球状的,小球状的,由小球形成的
 globule n.  (尤指液体的) 小球体; 小滴
 gloom n.黑暗；忧愁
 gloomily adv. 忧郁的
-gloomy a.黑暗的；令人沮丧的
+	gloomy a.黑暗的；令人沮丧的
 glorify vt.赞美(上帝)；颂扬
-glorious a.光荣的；壮丽的
+	glorious a.光荣的；壮丽的
 gloriously ad. 光荣地，辉煌地
-glory n.光荣；荣誉的事
+	glory n.光荣；荣誉的事
 gloss n. 光泽，注解
 glossary n.词汇表；术语汇编
 glossy adj. 光泽的，光滑的
-glove n.手套
-glow n.白热光 vi.发白热光
+	glove n.手套
+	glow n.白热光 vi.发白热光
 glower v. 怒目而视
 glowing a. 灼热的
 glow-worm n.萤火虫
 gloze vt. 似有道理地说明,掩饰
 glucose n. 葡萄糖
-glue n.胶，胶水 vt.胶合
+	glue n.胶，胶水 vt.胶合
 glum adj. 闷闷不乐的，阴郁的，
 glut n./v. 供过于求，过多
 gluten n. 麸质
@@ -9426,11 +9426,11 @@ gnomic adj. 格言的，精辟的
 gnosis n. 灵知，神秘的直觉
 gnp 国民总生产；n. (缩)国民总收入
 gnu n. 角马
-go v.去
+		go v.去
 goad n. 赶牛棒n./v. 刺激，激励
-goal n.球门；得分；目的
+		goal n.球门；得分；目的
 goal-shy a.射门不果断的
-goat n.山羊
+		goat n.山羊
 goatherd n. 牧羊人
 goatskin n. 山羊皮
 gobble v. 贪婪地吃，吞没
@@ -9438,7 +9438,7 @@ gobbler n. 雄火鸡
 goblet n. 高脚酒杯
 goblin n. 顽皮的丑小鬼,小妖精
 go-cart n. 学走器,乳母车,推车
-god n.神，神像；上帝
+		god n.神，神像；上帝
 goddess n.女神；绝世美女
 godfather n. 教父
 godhead n.神格,神性
@@ -9449,8 +9449,8 @@ godly a. 敬神的,虔诚的,神的
 godmother n. 教母,名义上母亲
 goggle n. 眼睛睁视,护目镜
 going go的现在分词；n. 行走；离去；进行情况；a. 进行中的
-gold n. 金子；黄金；金黄色；金色；金；钱财，金币，财富；a. 金的；黄金的；金制的；金质；黄金，含金的
-golden adj.金(黄)色的
+		gold n. 金子；黄金；金黄色；金色；金；钱财，金币，财富；a. 金的；黄金的；金制的；金质；黄金，含金的
+		golden adj.金(黄)色的
 goldenrod n. 秋麒麟草属植物
 goldfinch n. 金翅雀
 goldfish n. 金鱼
@@ -9458,37 +9458,37 @@ gold-fish n. 金鱼
 gold-ring n. 金戒指
 goldsmith n. 金匠
 gold-smith n.金匠
-golf n.高尔夫球
+		golf n.高尔夫球
 gollop v. & n. 大口吞咽
 gonad n. 性腺，生殖腺
 gondola n. 狭长小船,两头尖的平底船,无盖货车
 gondolier n. 操 gondola 的船夫
 gone vi. (go的过去分词)；a. 已去的；过去的；垂死；入迷的
 gong n. 铜锣,盘形钟
-good adj.好的
-goodby int.再见
-goodbye int. 再见
+		good adj.好的
+		goodby int.再见
+		goodbye int. 再见
 good-bye interj.再见
 good-humouredly ad. 和气地
 goodliness n. 美丽,美貌,美好
 good-looking adj. 相貌好看的；好看的；漂亮的，美貌的
 goodly adj.漂亮的,可观的
 good-natured  adj. 性情好 
-goodness n.优良，德性，仁慈
+	goodness n.优良，德性，仁慈
 goodnight int. 晚安，再见
-goods n.商品；货物
+	goods n.商品；货物
 goodself n. 你方
 good-tempered a. 脾气好的
 goodwife n. 女主人,女子的敬称
 goodwill n.善意,亲切; 亲善
 good-will 商誉，信誉，营业权
 goody n. 身分低微之老妇,媪,糖果
-goose n.鹅，雌鹅
+	goose n.鹅，雌鹅
 gooseberry n. 醋栗树,醋栗,醋栗酒
 gopher 服务器名称
 gore n. 凝血，血块
 gorge n. 峡谷v. 贪婪地吃
-gorgeous a.绚丽的；极好的
+	gorgeous a.绚丽的；极好的
 gorgon n. 丑陋女人，蛇发女怪
 gorgot 忘记
 gorilla n.大猩猩；暴徒，打手
@@ -9499,7 +9499,7 @@ gosh int. 天哪！啊呀！
 gosling n. 小鹅，年轻无知的人
 gospel n. 教义，信条
 gossamer n. 蛛丝，薄纱，adj. 轻而薄的
-gossip n.闲谈；碎嘴子；漫笔
+	gossip n.闲谈；碎嘴子；漫笔
 got vt. get(得到)的过去式和过去分词
 Goth n. 哥特人,野蛮人,粗野的人
 Gothic n. 哥特式
@@ -9510,44 +9510,44 @@ gourmand n. 嗜食者
 gourmet n. 美食家
 gout n. 味,趣味,嗜好,一团,一滴
 gouty a. 痛风的,患了痛风的,易患痛风的
-govern vt.统治，治理；支配
+		govern vt.统治，治理；支配
 governance n. 统治，支配
 governer 统治者，管辖者，地方长官
 governess n. 女家庭教师
-government n.政府；治理；政治
+		government n.政府；治理；政治
 governmental a. 政治的,统治上的,政府的
-governor n.统治者；总督
-gown n.长袍，长外衣
-grab vt.&vi.急抓；抢
-grace 格雷斯(女名)
-graceful a.优美的，优雅的
+		governor n.统治者；总督
+	gown n.长袍，长外衣
+	grab vt.&vi.急抓；抢
+	grace 格雷斯(女名) n. 优雅；恩惠；魅力；慈悲
+	graceful a.优美的，优雅的
 gracefully ad. 优美地，斯文地
 graceless a. 不知礼的,不知耻的,粗野的
-gracious a.谦和的
+	gracious a.谦和的；亲切的；崇高的；雅致的
 graciously adv. 文雅地；仁慈地，和蔼庄重地
 gradation n. (颜色等的)层次
-grade n.年级
+		grade n.年级
 gradener 园丁
 grader n.…年级学生
 gradient n. 斜坡；梯度，倾斜度；坡度a. 倾斜的；倾斜度
 grading 分级
-gradual a.逐渐的；渐进的
+	gradual a.逐渐的；渐进的
 gradualism n.渐进主义
 gradually adv. 逐渐地；逐步地
-graduate n.毕业生 vi.大学毕业
+		graduate n.毕业生 vi.大学毕业
 graduation n.毕业
 graft v. 嫁接，移植，n. 贪污
 graham a. 用末精制之面粉的;全麦的
-grain n.谷物，谷类；谷粒
+	grain n.谷物，谷类；谷粒
 gram n. 克,绿豆
 gramercy int. 多谢! 不得了!
-grammar n.语法；语法书
+	grammar n.语法；语法书
 grammarian n. 文法家,文法学者,文法教师
 grammatical adj.语法的
-gramme n.克(重量单位)
+	gramme n.克(重量单位)
 gramophone n. 留声机；唱机
 granary n. 谷仓，主要来源
-grand adj.庄严的；伟大的
+	grand adj.庄严的；伟大的
 grandchild n. 孙子; 孙女; 外孙; 外孙女
 granddaughter n.孙女，外孙女
 grandee n. 贵族,大公,显贵之人
@@ -9556,7 +9556,7 @@ grandfather n.祖父；外祖父
 grandiloquent adj.（语言等）夸张的，夸大的
 grandiose adj. 浮夸的，夸大的
 grandma n.(口语)奶奶，外婆
-grandmother n.祖母，外祖母
+		grandmother n.祖母，外祖母
 grandpa n.(口语)爷爷，外公
 grandparent n. 祖父或祖母,祖父母
 grandparents n. 祖父母；外祖父母
@@ -9566,33 +9566,33 @@ grandstand n. 正面看台，哗众取宠的表演
 grange n. 农庄
 granite a.花岗岩，花岗石
 granny n. 老奶奶；祖母；外婆；奶奶；老婆婆，外祖母
-grant n.授予物，拨款
+	grant n.授予物，拨款
 granted conj. 即使
 grantee 受让人，受补贴人
 grant-in-aid n.财政补贴
 granular adj. 粒状的，含颗粒的
 granulate v. 使成颗粒
 granule n. 小粒，微粒.
-grape n.葡萄；葡萄藤
+		grape n.葡萄；葡萄藤
 grapefruit n. 柚子,柚子树
-graph n.(曲线)图，图表
-graphic adj. 图表的，生动的
+		graph n.(曲线)图，图表
+		graphic adj. 图表的，生动的
 graphically ad. 用图表表示
 graphics n.制图法；图解计算法
 graphite n.石墨，石墨电极
 graphy (构词成分)图示法；画法；记；志
 grapnel n. 小锚,抓钩
 grapple vt.vi. 抓住,掌握
-grasp vt.抓住；领会；掌握
+	grasp vt.抓住；领会；掌握
 grasping adj. 贪心的，贪婪的
-grass n.草；草地
+		grass n.草；草地
 grasshoper n.蚱
 grasshopper n.蚱蜢，蝗虫，蚂蚱
 grassland n. 牧场；草地；草原
 grass-seed 草籽
 grassy a.草多的；草似的
 grate v. 磨碎，使人烦燥
-grateful a.可喜的，令人愉快的
+	grateful a.可喜的，令人愉快的
 gratefully ad. 感激地
 grater n. 擦菜板
 gratiano n. 葛莱西安诺(男名)
@@ -9601,26 +9601,26 @@ gratify v. 使高兴，使满足
 gratifying adj. 可喜的
 grating adj. （声音）刺耳的，恼人的
 gratis adj. 免费的
-gratitude a.感激，感谢，感恩
+	gratitude a.感激，感谢，感恩
 gratuitous adj. 无缘无故的，免费的
 gratuity n. 赏钱，小费
-grave n.坟墓 a.严重的
+	grave n.坟墓 a.严重的
 gravel n.砂跞；砂砾层；结石
 gravely ad. 庄重地，严肃地
 graveness n. 重大,严重,认真
 graveyard n. 墓地
 gravitation n. 引力,重力,沉下
 gravitational a. 引力的
-gravity n.重力，引力；严重性
+	gravity n.重力，引力；严重性
 gravy n. 肉汁,肉汤,不法利润
-gray a.灰色的 n.灰色
+		gray a.灰色的 n.灰色
 gray-headed adj. 白发的
 grayling n. 河尊,褐色蝶类
-graze vi.喂草；放牧(牲畜)
-grease n.动物脂，脂肪
+	graze vi.喂草；放牧(牲畜)
+	grease n.动物脂，脂肪
 greaseproof-paper 防油纸
 greasy a. 油腻的,滑溜溜的,泥泞的
-great adj.伟大的；重大的
+		great adj.伟大的；重大的
 greater a. 更大的，更伟大的
 greatly ad.大大地，非常
 greatness n.伟大；巨大
@@ -9629,49 +9629,49 @@ Greece n.希腊
 greed n.贪心，贪婪
 greedily ad. 贪婪地
 greediness n. 贪吃,嘴馋,贪欲
-greedy a.贪吃的；贪婪的
+	greedy a.贪吃的；贪婪的
 Greek a.希腊的 n.希腊人
-green adj.绿色的
+		green adj.绿色的
 greenback n. 美钞,背部为绿色之动物
 greengrocer n. 卖蔬菜及水果的商人
 greenhorn n. 初学者，容易受骗的人
-greenhouse n.温室，玻璃暖房
+		greenhouse n.温室，玻璃暖房
 greenish a. 呈绿色的
 greenness n. 绿色,新鲜,未熟
 greensward n. 草皮
 greenwich 格林威治
 greenwood n. 绿磷,未枯干的树
-greet vt.问候
-greeting n.问候，招呼，致敬
+		greet vt.问候
+		greeting n.问候，招呼，致敬
 greetings n. 问候
 gregarious adj. 群居的，爱社交的
 grenadier n.手榴弹兵,掷弹兵
 grew grow的过去式；生长
-grey adj.灰色的
+		grey adj.灰色的
 greyhound n. 灰狗,快速船
 greyish a. 淡灰色的
 grid n. 格子,栅极
 griddle n. 筛子，大孔筛
 gridiron n. 烤架，橄榄球场
-grief n.悲哀，悲痛，悲伤
+	grief n.悲哀，悲痛，悲伤
 grief-stricken a.充满悲伤的，极度悲痛的
 grievance n. 委屈，抱怨
-grieve vt.使悲痛 vi.悲痛
+	grieve vt.使悲痛 vi.悲痛
 grieved 伤心的
 grievous adj. 严重伤害的，引起痛苦的
 grill v. 烤，烤问，n. 烤架
 grille n. (银行，邮局柜台上的)铁栅
-grim a.冷酷无情的，严厉的
+	grim a.冷酷无情的，严厉的
 grimace v. 做鬼脸，面部歪扭
 grime n. 尘垢,煤尘,污点
 grimly ad. 可怖地；严厉地；坚强地
 grimy adj. 污秽的，肮脏的
-grin vi.咧着嘴笑
-grind vt.磨(碎)；磨快
+	grin vi.咧着嘴笑
+	grind vt.磨(碎)；磨快
 grinder n. 研磨者
 grinding a. 嘎嘎响的；难熬的，折磨人的，难以忍受的
 grindstone n. 磨刀石
-grip vt.握紧，抓牢 n.紧握
+	grip vt.握紧，抓牢 n.紧握
 gripe v. 发牢骚，抱怨；紧握
 gripes n.肚子痛
 grippe n. 流行性感冒
@@ -9683,9 +9683,9 @@ gristmill n. 磨粉厂
 grit n. 沙粒，决心，勇气v. 下定决心，咬紧牙关
 grizzled a. 灰色的,头发斑白的
 grizzly a. 略为灰色的,呈灰色的
-groan vi.哼，呻吟 n.呻吟
+	groan vi.哼，呻吟 n.呻吟
 groat n. 昔日英国的四便士银币,些许,
-grocer n.食品商；杂货商
+	grocer n.食品商；杂货商
 groceries n. 食品(店)；杂货(店)
 grocer's 杂货店
 grocery n.食品杂货店
@@ -9694,32 +9694,32 @@ groggy adj. 体弱的，不稳的
 groin n.腹股沟
 groom n. 马夫，新郎
 groove n.槽 vt.开槽于
-grope vi.(暗中)摸索，探索
+	grope vi.(暗中)摸索，探索
 gropingly adv. 不确定的，摸索
-gross a.(语言、举止)粗俗的
+	gross a.(语言、举止)粗俗的 n. 总额；总数； adj. 总共的；粗野的；恶劣的；显而易见的
 grossness n. 肥满,粗杂,粗劣
 grot n. (美丽的)洞穴;巢穴
 grotesque adj. 怪诞的，古怪的
 grotto n. 洞穴，洞室
 grouch n. 牢骚，不满
 grouchy a. 不高兴的,不平的
-ground n.地；场地；根据
+		ground n.地；场地；根据
 groundless  adj. 无根据的; 无理由的; 无缘由的
 grounds n. 理由
 groundwork n. 地基,基础,根据
-group n.小组，群 vi.聚集
+		group n.小组，群 vi.聚集
 groupage n. 合并装运
 grouse n. 松鸡v. 牢骚，诉苦
 grove n.林子，小树林，园林
 grovel v. 摇尾乞怜，奴颜婢膝
 groveler n. 乞怜者
-grow vi.生长；变得；增长
+		grow vi.生长；变得；增长
 grower n. 栽培者,生长物
 growing n. 分类，分组，成群
 growl vi.(狗等)嗥叫；咆哮
 grown adj. 已长成的；grow的过去分词；生长
-grown-up a. 已经成人的
-growth n.增长；增长量；生长
+		grown-up a. 已经成人的
+		growth n.增长；增长量；生长
 grrr interj. (老虎的)吼叫声
 grub n. 幼虫,穷文人
 grudge v. 吝啬，不满.
@@ -9732,52 +9732,52 @@ gruffly ad. 粗暴地
 grumble vi.抱怨，发牢骚
 grumpy adj. 脾气暴躁的
 grunt vi.作呼噜声；咕哝
-guarantee n.保证；担保物
+	guarantee n.保证；担保物
 guarantees 保证人，票据担保人
 guarantor 保票，担保，保证书，保证金
 guaranty n. 保证品,抵押
-guard n.哨兵，警卫员
+		guard n.哨兵，警卫员
 guarded adj. 谨慎的，提防的
 guardian n. 保护人；监护人
 guardianship n. 监护,保护,守护
 guardsman n. 卫兵,近卫兵,州辖预备役部队的人员
 guerdon n. 报酬,奖赏
 guerrilla n.游击队
-guess v.猜
-guest n.客人
+		guess v.猜
+		guest n.客人
 guesthouse n. 宾馆
 guest-room n. 客房
 guffaw n./v. 哄笑，大笑
-guidance n.引导，指导，领导
-guide n.向导，导游者
+		guidance n.引导，指导，领导
+		guide n.向导，导游者
 guidebook 旅行指南
-guideline n. 指南，方针
+		guideline n. 指南，方针
 guidelines 指导性指标
 guidepost n. 路标,路牌
-guild n. 公会,协会,行业协会
+	guild n. 公会,协会,行业协会
 guilder n. 基尔德,基尔德银币,旧荷兰
 guile n. 狡猾,狡计
 guileless a. 不狡猾的,诚实的
 guillotine n. 断头台
-guilt n.有罪，犯罪；内疚
+	guilt n.有罪，犯罪；内疚
 guiltily ad. 内疚地
 guiltiness n. 有罪,罪的自觉
 guiltless a. 无罪的；不熟悉…的；无经验的
-guilty a.内疚的；有罪的
+	guilty a.内疚的；有罪的
 guinea n. 英国往昔的金币
 guise n. 外观,伪装
-guitar n.吉他，六弦琴
+		guitar n.吉他，六弦琴
 gulch n. 峡谷；深谷
 gules n. 红色
-gulf n.海湾；鸿沟
+	gulf n.海湾；鸿沟
 gull n. 海鸥，v. 欺骗
 gullet n. 食道,咽喉,海峡
 gullible adj. 易受骗的
 gully n. 小峡谷,排水沟
 gulp v. 吞食，咽下
-gum n.口香糖；树胶
+	gum n.口香糖；树胶
 gummy a. 树胶的,粘的
-gun n.枪，炮，手枪
+		gun n.枪，炮，手枪
 gunboat n. 炮舰；炮艇
 gun-deck n. 炮台
 gunman n. 枪手,持枪的歹徒,制造枪械者
@@ -9797,16 +9797,16 @@ gustation n. 品尝，味觉
 gustatory a. 尝味的,味觉的
 gusto n. 爱好，兴致勃勃
 gusty a. 阵阵猛急的,突发的
-gut n. 勇气,剧情,内容,海峡,肚子,
+	gut n. 勇气,剧情,内容,海峡,肚子,
 gutenberg n. 古腾堡
 gutless adj. 没有勇气的，懦怯的
 gutter n.沟，边沟；檐槽
 guttle v. 狼吞虎咽
 guttural adj. 喉的，咽喉的
-guy n. （铁塔等的）支索，牵索
+	guy n. （铁塔等的）支索，牵索；n. 男人，家伙； vt. 嘲弄；取笑
 guzzle v. 大吃大喝
-gym n. ((口语))体育馆，健身房
-gymnasium n.体育馆，健身房
+	gym n. ((口语))体育馆，健身房
+	gymnasium n.体育馆，健身房
 gymnast n. 体操运动员
 gymnastics n. 体操
 gynecocracy n. 妇人政治
@@ -9819,10 +9819,10 @@ ha interj.哈；嘿(惊异)
 haberdashery 服饰用品，服饰店
 habergeon  n. 亦作haubergeon
 habiliments n. 服装；衣着
-habit n.习惯；习性
+	habit n.习惯；习性
 habitable a. 可居住的
 habitant n. 居住者
-habitat n. 自然环境，栖息地
+	habitat n. 自然环境，栖息地
 habitation n. 居住,住所
 habitual a.习惯性的，惯常的
 habitually adv. 习惯地
@@ -9844,9 +9844,9 @@ hag n. 女巫,丑老太婆,砍伐,沼地
 haggard adj. 憔悴的，消瘦的
 haggle v. 争论，讨价还价
 hague n. 海牙(荷兰城市)
-hail vt.向…欢呼 vi.招呼
+	hail vt.向…欢呼 vi.招呼 n. 冰雹；致敬；招呼
 hailstone n. 冰雹
-hair n.头发
+		hair n.头发
 haircut n.理发
 hairdo n. 发型
 hairdress n. 美发
@@ -9861,7 +9861,7 @@ hake n. 无须鳕
 halberd n. 戟
 halcyon adj. 平静的，愉快的
 hale a. 强壮的,健壮的
-half n.半，一半
+		half n.半，一半
 half-finished 半成品
 half-hearted a.不热心的，不积极的
 half-hibernate vi. (动物)半冬眠
@@ -9870,7 +9870,7 @@ halfpenny n. 半便士
 halfway adv. 半途；不彻底地；a. 中途的，不彻底的；半途中的
 half-way n. 中途
 halibut n. 大比目鱼
-hall n.会堂，大厅，礼堂
+	hall n.会堂，大厅，礼堂
 hallmark n. 标志；检验印记；金银的纯度
 halloo int. 一种喊声
 hallow v. 把…视为神圣，尊敬
@@ -9879,34 +9879,34 @@ hallucinate v. 产生幻觉
 hallucination n. 幻觉,幻想
 hallway n. 走廊
 halo n. （日月等）晕，神像之光环
-halt vi.停止；立定 n.停住
+		halt vi.停止；立定 n.停住
 halter n. 缰绳,笼头
 halting adj. 踌躇的，吞吞吐吐的
 halve vt.对分；平摊
-ham n.火腿；(兽类的)后踝
+	ham n.火腿；(兽类的)后踝 adj. 过火的；做作的
 hamburg n. 汉堡(德国港市)
-hamburger n.汉堡包，牛肉饼
+	hamburger n.汉堡包，牛肉饼
 hamlet n. 小村,部落
-hammer n.锤，榔头 vt.锤击
+	hammer n.锤，榔头 vt.锤击
 hammock n. 吊床,小丘
-hamper vt. 妨碍；阻碍，牵制；v. 妨碍，牵制；阻挠；阻扰；n. 有盖提篮
+	hamper vt. 妨碍；阻碍，牵制；v. 妨碍，牵制；阻挠；阻扰；n. 有盖提篮
 hamster n. 东欧或亚洲产的大颊的鼠类
 han n. 汉，汉人，汉族
-hand n.手
+		hand n.手
 handbag n. 手提包
 handball n. 手球,那种球,手球
 handbill n. 传单,招贴
-handbook n. 手册，便览，指南
+		handbook n. 手册，便览，指南
 handcart n. 手推车
 handcuffs n. 手铐
 hand-filling 人工包装
-handful n.一把；少数，一小撮
-handicap vt.妨碍，使不利
+	handful n.一把；少数，一小撮
+	handicap vt.妨碍，使不利 n. 障碍；不利条件；
 handicapped adj. 有残疾的
 handicraft n. 手工艺,手艺,技巧
 handiwork n. 手工,手工艺,手工
-handkerchief n.手帕
-handle n.柄，把手 vt.拿，触
+	handkerchief n.手帕
+	handle n.柄，把手 vt.拿，触
 handler n. 处理程序
 handling n. 用特别方式使用；处理，管理；操纵
 hand-made adj.手工制的
@@ -9916,14 +9916,14 @@ handout n. 施舍物，救济品；分发物(印刷品等)；散发的文字材�
 hand-picked 第一流的，精选的
 hands 手
 handshake n. 握手
-handsome adj.漂亮的，清秀的
+		handsome adj.漂亮的，清秀的
 hands-on a.亲身实践的
 handtruck n. 手推运货车
 hand-washing n. 洗手
-handwriting n.笔迹，手迹，书法
-handy a.手边的；便于使用的
+	handwriting n.笔迹，手迹，书法
+	handy a.手边的；便于使用的
 handyman n. 受雇做杂事的男人,手巧的人,
-hang vt.挂，悬；吊死
+	hang vt.挂，悬；吊死
 hangar n. 飞机库
 hanger n. 衣架，挂衣钩
 hanging n. 绞刑；a. 悬挂着的
@@ -9936,38 +9936,38 @@ hap  n. 运气；机遇，幸运；机会vi.偶然发生之事
 haphazard n. 偶然,偶然事件
 hapless adj. 不幸的
 haply ad. 或许
-happen vi.(偶然)发生
+		happen vi.(偶然)发生
 happening n. 事件；偶然发生的事
 happily ad. 幸福地,快乐地,幸好
 happiness n.幸福，幸运；快乐
-happy adj.高兴的，幸福的
+		happy adj.高兴的，幸福的
 harangue n. 大声疾呼的演说；长篇演说
 harangur n. vi. 长篇演说
 harass v. 烦扰
-harassment n. 烦扰(的行为)
+	harassment n. 烦扰(的行为)
 harbin n. 哈尔滨
 harbinger n. 先驱，先兆.
-harbor n. 港，避难所v. 包庇，隐匿
+	harbor n. 港，避难所v. 包庇，隐匿
 harborage  n.避难,保护
-harbour vt.隐匿，窝藏；怀着
-hard adj.困难的；硬的
+	harbour vt.隐匿，窝藏；怀着
+		hard adj.困难的；硬的
 hard-bitten adj. 不屈的，顽强的
 hard-boiled a.煮透的
-harden vt.使变硬 vi.变硬
+	harden vt.使变硬 vi.变硬
 hardened a. 老练的
 hardheaded adj. 实际的，脚踏实地的；(商业上)现实的，精明的
 hard-headed a. 头脑冷静的
 hard-hearted adj. 心肠硬
 hardihood n.胆大无敌,刚毅,厚颜
 hardiness n. 强壮; 结实; 耐劳
-hardly ad.几乎不，简直不
+		hardly ad.几乎不，简直不
 hardly...before 刚一就
 hardly...when 刚一就
 hardly...when... 刚…就…
 hardness n. 坚硬,困难,严厉,勇气
 hardpan 底价
-hardship n.艰难，困苦
-hardware n.五金器具；硬件
+		hardship n.艰难，困苦
+		hardware n.五金器具；硬件
 hardwood n. 硬木,硬木材,落叶树
 hardworking a. 勤奋的；勤劳的
 hard-working adj. 努力工作的；勤劳的
@@ -9978,15 +9978,15 @@ harem n. 由一群雄性动物支配的，一群雌性动物
 hark vi. 倾听
 harlequin n. 丑角
 harlot n. 妓女
-harm n.伤害，损害 vt.损害
+		harm n.伤害，损害 vt.损害
 harmful a.有害的
 harmless adj.无害的
 harmonic a. 调和的,音乐般的,和声的
 harmonica n. 口琴,玻璃或金属片的敲打乐器
 harmonious a.和谐的，协调的
 harmonize v. 使调和，使一致
-harmony n.调合，协调，和谐
-harness vt.治理 n.马具，挽具
+	harmony n.调合，协调，和谐
+	harness vt.治理 n.马具，挽具
 harp n.竖琴；天琴座
 harper 哈柏(姓)
 harping n. 反复述说
@@ -9997,12 +9997,12 @@ harridan n. 凶恶的老妇，老巫婆
 harrow n. 耙
 harrowing adj. 悲痛的，难受的
 harry v. 掠夺，骚扰
-harsh a.粗糙的；严厉的
+	harsh a.粗糙的；严厉的
 harshly ad. 粗糙地，冷酷地
 harshness n. 粗糙的事物,刺耳,严肃
 hart n. 雄赤鹿,雄鹿
 harvard n. 哈佛大学(美国)
-harvest n.收获，收成 vt.收割
+		harvest n.收获，收成 vt.收割
 harvester n.收获者,收割工人 (reaper)
 harvesting n. 收割
 harvest-time n. 收获季节
@@ -10014,26 +10014,26 @@ hasp n. 铁扣,一束纱或线,纺绽
 hassle n. 激烈的辩论
 hassock n. 当座凳用的厚垫子,跪垫,草丛
 hast have的第二人称单数
-haste n.急速，急忙；草率
+	haste n.急速，急忙；草率
 hasten vt.催促 vi.赶紧
 hastily ad. 匆忙地,急速地,慌张地
-hasty a.急速的；仓促的
-hat n.帽子
-hatch vt.孵出 vi.(蛋)孵化
+	hasty a.急速的；仓促的
+		hat n.帽子
+	hatch vt.孵出 vi.(蛋)孵化
 hatchery n. 育种站
 hatchet n.斧头
 hatchment n. 方形黑框中所画的死者菱形绞章
 hatchway n. 舱口,地板,天花板之出入口
-hate vt.恨，憎恨；不喜欢
+		hate vt.恨，憎恨；不喜欢
 hateful a.可恨的，可恶的
 hater n. 
-hatred n.憎恶，憎恨，仇恨
+	hatred n.憎恶，憎恨，仇恨
 hatter n. 帽子制造者,帽商
 hauberk n. 锁子甲
 haughtily ad. 傲慢地，高傲地
 haughtiness n. 傲慢
 haughty a.傲慢的，轻蔑的
-haul vt.拖曳；拖运
+	haul vt.拖曳；拖运
 haunch n. 腰,臀部,腰部
 haunt vt.常去 vi.经常出没
 haunted a. 闹鬼的，反复出现的；常出现鬼的
@@ -10041,45 +10041,45 @@ haunting adj. 不易忘怀的
 hause v. 给房子住
 hauteur n. 傲慢
 havana n. 哈瓦那(古巴首都)
-have v.有
+       	  have v.有
 haven n. 安息所，避难所
 haven't 没有；(同)have not没有
 haversack n. 肩背包，干粮袋
 havoc n. 大破坏，混乱
 haw n. 山楂,吆喝牲畜左转,呃,瞬膜
 hawaii n. 夏威夷(州)(美国)
-hawk n.鹰，隼
+	hawk n.鹰，隼
 hawker n. 沿街叫卖之小贩
 hawk-eyed a. 目光锐利的
 hawser n. 粗绳，大钢索
 hawthorn n. 山楂
-hay n.干草
+	hay n.干草
 haycock n. 圆锥形的干草堆
 haydn 海顿(奥地利作曲家)
 hayloft n. 干草棚,干草仓
 haystack n. 干草堆
-hazard n.危险；公害
+	hazard n.危险；公害
 hazardous adj. 有危险的
 haze n. 薄雾,阴霾,疑惑
 hazel n. 榛子,淡褐色
 hazelnut n. 榛实
 hazy a. 朦胧的,模糊的,烟雾弥漫的
 h-bomb 氢弹
-he pron.(主格)他
-head n.头
-headache n.头痛；头痛的事
+		he pron.(主格)他
+		head n.头
+		headache n.头痛；头痛的事
 header n. 首领,队长,收割台
 heading n.标题，题词，题名
 headland n. 向水中突出的陆地,畦头未耕的一条地
 headless a. 无头的,无领导者的,无知的
 headlight n. 前灯,桅灯
-headline n.大字标题；新闻提要
+		headline n.大字标题；新闻提要
 headlong a.&ad.头向前的(地)
-headmaster n.校长
+		headmaster n.校长
 headmistress n. 中小学女校长
 headnurse n. 护士长
 headpiece n.头盔; 帽子
-headquarters n.司令部；总部
+		headquarters n.司令部；总部
 headsman n. 刽子手,捕鲸船的指挥者,坑内运煤工人
 headstone n. 墓石,基石
 headstrong a. 顽固的,刚愎的,任性的
@@ -10087,21 +10087,21 @@ headteacher n. 中小学班主任
 headwaiter 服务员领班
 headway n. 前进,航行速度,进展
 heady a. 顽固的,任性的,性急的,猛烈的
-heal vt.治愈；使和解
-health n.健康，健康状况
+	heal vt.治愈；使和解
+		health n.健康，健康状况
 healthful a. 有益健康的,使人健康的,卫生的
-healthy adj.健康的
-heap n.(一)堆；大量；许多
-hear v.听见，听
+		healthy adj.健康的
+		heap n.(一)堆；大量；许多
+		hear v.听见，听
 heard hear的过去式(分词)；听
 hearer n. 听者,听众
-hearing n.听；听力
+		hearing n.听；听力
 hearken v. 倾听
 hearsay n. 谣传，道听途说
 hearse n. 灵车
-heart n.心(脏)
+		heart n.心(脏)
 heartbeat n. 心脏跳动
-heartbreaking adj. 令人心碎的
+hearheartbreaking adj. 令人心碎的
 heart-broken a. 伤心的
 heartburn n. (消化不良)胃灼热感
 hearted 心的
@@ -10117,7 +10117,7 @@ heartless a. 无情的,无勇气的
 heartsick a. 悲痛的,苦恼的
 hearty a.衷心的；丰盛的
 heaser n.出租人
-heat n.热，炎热 vi.变热
+		heat n.热，炎热 vi.变热
 heated adj.激烈地；兴奋的
 heater n.加热的人，加热器
 heath n. 荒地
@@ -10127,13 +10127,13 @@ heather n. 石南花
 heating n.加热，供暖
 heat-regulating a. 调节热的
 heat-wave n. 热浪(意即炎热)
-heave vt.(用力地)举起；抛
-heaven n.天堂；天，天空
+	heave vt.(用力地)举起；抛
+		heaven n.天堂；天，天空
 heavenly a. 天上的,神圣的,天国似的
 heavenward ad. 朝向天空地,朝向天国地
 heavily ad.重重地；大量地
 heaviness n.重; 沉重
-heavy adj.重的
+		heavy adj.重的
 heavy-duty a.重型的
 heavy-handed adj. 笨手笨脚的
 Hebrew n. 希伯来人,希伯来语,犹太人
@@ -10144,40 +10144,40 @@ hectare n. 公倾(合十五市亩)
 hectic adj. 兴奋的，繁忙的
 hector v. 凌辱，威吓
 he'd (同)he had；he would
-hedge n.篱笆，树篱；障碍物
+	hedge n.篱笆，树篱；障碍物
 hedgehog n. 刺猬
 hedge-row n.一排树篱
 hedonism n. 享乐主义，享乐
 hedonistic adj. 享乐的
 heed v. 注意到，关心
 heedless a. 不注意的,不留心的,不谨慎的
-heel n.脚后跟，踵，后跟
+	heel n.脚后跟，踵，后跟
 hegemony n. 霸权领导权
 hegira n. 逃亡
 heifer n. 小母牛
-height n.高，高度；高处
-heighten vt.加高，提高；增加
+		height n.高，高度；高处
+		heighten vt.加高，提高；增加
 heinous adj. 可憎的，十恶不赦的
-heir n.后嗣，继承人
+	heir n.后嗣，继承人
 heiress n. 女继承人
 heirloom n. 传家宝,相传动产
 heirship 继承权
 held hold的过去式(分词)；抓住
-helicopter n.直升机
+		helicopter n.直升机
 heliotrope n. 向阳植物
 helium n. 氦
-hell n.地狱；极大的痛苦
+		hell n.地狱；极大的痛苦
 he'll (同)he will；he shall
 hellebore n. 『植物』菟葵
 hellish a. 地狱的,凶恶的,令人毛骨悚然的
-hello " interj.喂，你好；
-helmet n.头盔，钢盔
+		hello " interj.喂，你好；
+	helmet n.头盔，钢盔
 helmsman n. 舵手
 helot n. 奴隶，受人轻视之人
-help v.帮助，帮忙
+		help v.帮助，帮忙
 help...with 帮助(某人做某事)
 helper n. 帮忙者,助手
-helpful a.给予帮助的；有用的
+		helpful a.给予帮助的；有用的
 helping n. 一份或一客食物
 helpless a.无助的；无能的
 helplessly ad. 无能为力地
@@ -10187,16 +10187,16 @@ helter-skelter n. 慌张,狼狈
 helve n. 斧柄
 hem n. （衣服或裙子的）褶边
 hematologist n. 血液学家
-hemisphere n.半球；半球地图
+	hemisphere n.半球；半球地图
 hemlock n. 铁杉；常青树
 hemoglobin n. 血色素
 hemorrhage n. 出血
 hemp n. 麻,大麻,纤维
 hempen a. 大麻制的,大麻的
 hemstitch n. 抽丝做成的花边装饰,垂迹
-hen n.母鸡
-hence ad.因此，所以；今后
-henceforth ad.今后，从今以后
+		hen n.母鸡
+	hence ad.因此，所以；今后
+	henceforth ad.今后，从今以后
 henceforward  adv.ad. 自此以后,今后
 henchman n. 亲信，心腹
 henhouse n. 鸡舍
@@ -10206,11 +10206,11 @@ henry 亨利(男名)；亨利. 贝西默
 hepatic a. 肝的
 hepatitis n. 肝炎
 heptagon n. 七角形,七边形
-her pron.她的
-herald ad.传令官；通报者
+		her pron.她的
+	herald ad.传令官；通报者
 heraldic a. 纹章学的,纹章的,传令官的
 heraldry n. 纹章学,纹章,家徽
-herb n.草本植物；香草
+	herb n.草本植物；香草
 herbaceous adj. 草本植物的
 herbage n. 草本,草,草的柔软部分
 herbal adj. 草药的；草本植物的
@@ -10218,10 +10218,10 @@ herbivore n. 草食动物
 herbivorous a. 食草的
 herculean a. 非常大的；大力神的
 hercules n. (希，罗神)大力神；大力士
-herd n.(动物)一群
+	herd n.(动物)一群
 herder  n. 牧人; 牧者
 herdsman n. 牧人
-here adv.这儿
+		here adv.这儿
 hereafter n. 将来,来世
 hereby ad. 因此,据此
 hereditary a. 世袭的,遗传的
@@ -10236,27 +10236,27 @@ heretical adj. 异端邪说的
 hereto adv. 对此；附此
 heretofore ad. 直到此时,此时以前,迄今
 herewith ad. 同此,因此
-heritage n. 遗产，继承物
+	heritage n. 遗产，继承物
 hermetic adj. 密封的，炼金术的
 hermetically adv. 密封的；不透气的
 hermit n. 隐士，修道者
 hermitage n. 隐居处
-hero n.男主角；英雄；勇士
-heroic a.英雄的；英勇的
+		hero n.男主角；英雄；勇士
+	heroic a.英雄的；英勇的
 heroics n. 史诗；咬文嚼字；装腔作势的演说或行为
-heroin n. 海洛因,吗啡
-heroine n.女主角；女英雄
+	heroin n. 海洛因,吗啡
+	heroine n.女主角；女英雄
 heroism n. 英勇,勇敢的事迹,豪侠的行为
 heron n. 苍鹭的巢
 herr n. (德)先生
 herring n. 青鱼,鲱
-hers pron.她的(所有物)
-herself pron.她自己；她亲自
+		hers pron.她的(所有物)
+		herself pron.她自己；她亲自
 Hertford (地名)赫特福德
 he's (同)he is；he has
 hesitant adj. 犹豫的
 hesitantly ad. 犹豫地
-hesitate vi.踌躇；犹豫
+	hesitate vi.踌躇；犹豫
 hesitation n. 暂停,犹豫,口吃,含糊,踌躇
 heterodox adj. 异端的，非正统的
 heterodoxy n. 异端邪说
@@ -10268,9 +10268,9 @@ hex a. & n. 六角形的
 hexadecimal a. 十六进制的
 hexagon n. 六角形，六边形
 hexameter n. 六步格,六步格的诗
-hey interj.嗨
+		hey interj.嗨
 heyday n. 全盛时期，青春期
-hi  interj.你好；喂(问候等)；嗨(表示问候等)
+		hi  interj.你好；喂(问候等)；嗨(表示问候等)
 hiatus n. 空隙，裂缝
 hibernal a. 冬天的,寒冷的
 hibernate vi.(动物)冬眠
@@ -10281,7 +10281,7 @@ hickory n. 山胡桃树,山胡桃木
 hid hide的过去式(分词)；藏
 hidalgo n. 西班牙的下级贵族,西班牙的绅士
 hidden vbl. hide的过去分词
-hide n.生皮，兽皮，皮革
+	hide n.生皮，兽皮，皮革 vt. 躲藏；隐藏；鞭打
 hide-and-seek n. 捉迷藏
 hidebound adj. 顽固的，心胸狭窄的
 hideous adj. 讨厌的，丑恶的
@@ -10291,10 +10291,10 @@ hiding-place n. 躲藏处；储藏处
 hidrogen n. 氢
 hie vt. 急忙,疾走,催促
 hierarchical a. 分级的，分层的
-hierarchy n. 阶层，等级制度
+	hierarchy n. 阶层，等级制度
 hieroglyph n. 象形文字，图画文字
 hieroglyphic adj. 象形文字 (式) 的,图画文字的
-high adv.高高地 adj.高的
+		high adv.高高地 adj.高的
 highborn a. 出身名门的
 highbrow n. 自以为文化修养很高的人
 high-caliber a.高质量的
@@ -10307,30 +10307,30 @@ highjack  v. = hijack 抢劫,劫持,揩油
 high-jacker 动机者
 highland n. 高地,丘陵地带
 Highlander n. 高地的人,苏格兰高地地区的人
-highlight n. 增强亮度，提示区；最重要的部分，最精彩的场面；vt. 使显著，使突出，着重
+		highlight n. 增强亮度，提示区；最重要的部分，最精彩的场面；vt. 使显著，使突出，着重
 highlighter n.亮光笔
-highly adv. 高度地；非常；很，十分，赞许地
+		highly adv. 高度地；非常；很，十分，赞许地
 highly-academic a. 注重书本知识的
 highness n. 高,高度,殿下
 high-pitched adj. 尖声的，高声的
 high-spirited a. 勇敢的,精神充沛的,热血男儿的
 hight a. (古，诗)被称为…的
 high-technology n.(=high-tech)高科技
-highway n.公路；大路
+	highway n.公路；大路
 highwayman n. 路劫,拦路强盗
-hijack vt. 抢劫,劫持,揩油
+	hijack vt. 抢劫,劫持,揩油
 hijacker n. 栏路抢劫者
 hijacking 劫持飞机
-hike vi.作长途徒步旅行
+	hike vi.作长途徒步旅行
 hilarious adj. 高兴的，热闹的；充满欢乐的，引起大笑的
 hilarity n. 欢乐，热闹
-hill n.小山
+		hill n.小山
 hillock n. 小丘,小高处,土堆
 hillside n.(小山)山腰，山坡
 hilltop n. 小山顶
 hilly a. 多丘陵的,多山岗的,险峻的
 hilt n. （剑或刀之）柄
-him pron.他(宾格)
+		him pron.他(宾格)
 himalaya n. 喜玛拉雅山
 himself pron.他自己；他亲自
 hin n. 欣(液体计量单位)
@@ -11973,7 +11973,7 @@ jaded adj. 疲惫的，厌倦的
 jag n. 缺口,突出端,小量负荷,小伙子
 jagged adj. 锯齿状的，不整齐的
 jaguar n. 美洲虎
-jail n. 监狱；看守所vi. 监禁；vt. 监禁
+		jail n. 监狱；看守所vi. 监禁；vt. 监禁
 jailer n. 看守监狱的人,狱卒
 jailor n. 看守监狱的人,狱卒
 jam n.堵塞 vt.使…堵塞
